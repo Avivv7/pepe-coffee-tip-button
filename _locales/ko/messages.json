@@ -1,395 +1,395 @@
 {
- "panel_title": {
-  "message": "Pepecoin으로 팁 보내기"
- },
- "copied": {
-  "message": "복사됨"
- },
- "err_unreachable": {
-  "message": "지금은 pepe.coffee에 연결할 수 없습니다. 연결 상태를 확인하고 다시 시도하세요."
- },
- "err_status": {
-  "message": "문제가 발생했습니다({status}). 다시 시도하세요."
- },
- "close": {
-  "message": "닫기"
- },
- "back": {
-  "message": "뒤로"
- },
- "logout": {
-  "message": "로그아웃"
- },
- "foot_tagline": {
-  "message": "팁은 상대방의 지갑으로 바로 전달됩니다"
- },
- "amount": {
-  "message": "금액"
- },
- "other": {
-  "message": "직접 입력"
- },
- "amount_pep": {
-  "message": "PEP 금액"
- },
- "msg_ph": {
-  "message": "메시지 추가(선택)"
- },
- "message": {
-  "message": "메시지"
- },
- "anon_title": {
-  "message": "익명으로 보내기"
- },
- "anon_sub": {
-  "message": "받는 사람에게 내 이름이 표시되지 않습니다. 결제 자체는 공개 블록체인에 그대로 보입니다."
- },
- "send_tip": {
-  "message": "팁 보내기"
- },
- "pay_other": {
-  "message": "다른 지갑으로 결제"
- },
- "pay_pepe": {
-  "message": "pepe.coffee 지갑으로 결제"
- },
- "new_here": {
-  "message": "처음이세요? <a1>무료 지갑 만들기</a1>"
- },
- "tip_one_click": {
-  "message": "무료 pepe.coffee 지갑으로 한 번의 클릭으로 팁을 보내세요. <a1>지갑 만들기</a1>"
- },
- "old_pw_tip": {
-  "message": "지갑이 아직 별도의 이전 비밀번호를 사용하고 있습니다. <a1>pepe.coffee에서 한 번 열어</a1> 계정 비밀번호로 전환하세요. 그러면 여기서 바로 결제할 수 있습니다."
- },
- "opening_wallet": {
-  "message": "지갑을 여는 중…"
- },
- "own_page": {
-  "message": "내 페이지입니다. 팁은 다른 사람에게 보내는 게 좋아요!"
- },
- "choose_amount": {
-  "message": "금액을 선택하세요"
- },
- "not_enough": {
-  "message": "PEP가 부족합니다"
- },
- "not_enough_warn": {
-  "message": "지갑에 {have}가 있어 {amount}와 네트워크 수수료를 감당하기에 부족합니다. <a1>충전하거나</a1> 다른 지갑으로 결제하세요."
- },
- "too_big": {
-  "message": "금액이 너무 큽니다"
- },
- "too_big_warn": {
-  "message": "지갑에 소액 입금이 너무 많아 한 번에 보낼 수 없습니다. 더 적은 금액으로 시도하세요."
- },
- "send_amount": {
-  "message": "{amount} 보내기"
- },
- "balance": {
-  "message": "잔액"
- },
- "network_fee": {
-  "message": "네트워크 수수료"
- },
- "pay_other_instead": {
-  "message": "대신 다른 지갑으로 결제"
- },
- "err_cant_receive": {
-  "message": "이 페이지는 지금 결제를 받을 수 없습니다."
- },
- "sending": {
-  "message": "보내는 중…"
- },
- "pw_ph": {
-  "message": "pepe.coffee 비밀번호"
- },
- "password": {
-  "message": "비밀번호"
- },
- "unlock_send": {
-  "message": "잠금 해제하고 {amount} 보내기"
- },
- "unlocking": {
-  "message": "잠금 해제 중…"
- },
- "err_prepare_pw": {
-  "message": "브라우저에서 비밀번호를 준비하지 못했습니다. 다시 시도하세요."
- },
- "locked_info": {
-  "message": "지갑이 30분 후 자동으로 잠겼습니다. 비밀번호를 한 번 입력하면 잠금이 해제됩니다."
- },
- "cancel": {
-  "message": "취소"
- },
- "err_open_wallet": {
-  "message": "먼저 pepe.coffee에서 지갑을 한 번 열어 주세요."
- },
- "err_wrong_pw": {
-  "message": "이 비밀번호로는 지갑을 열 수 없습니다. 확인한 후 다시 시도하세요."
- },
- "err_pay_prepare": {
-  "message": "결제를 준비하지 못했습니다: {msg}"
- },
- "err_pay_send": {
-  "message": "결제를 보내지 못했습니다. 아무것도 전송되지 않았습니다."
- },
- "login": {
-  "message": "로그인"
- },
- "name_or_email": {
-  "message": "이름 또는 이메일"
- },
- "logging_in": {
-  "message": "로그인 중…"
- },
- "login_title": {
-  "message": "pepe.coffee 로그인"
- },
- "login_lead_airdrop": {
-  "message": "에어드롭은 내 pepe.coffee 지갑에서 결제됩니다."
- },
- "login_lead_tip": {
-  "message": "로그인하면 내 지갑에서 한 번의 클릭으로 팁을 보낼 수 있습니다."
- },
- "pw_secure": {
-  "message": "비밀번호는 이 기기를 벗어나지 않습니다."
- },
- "no_account": {
-  "message": "아직 계정이 없으세요? <a1>무료로 만들기</a1>"
- },
- "login_again": {
-  "message": "다시 로그인해 주세요."
- },
- "one_moment": {
-  "message": "잠시만요…"
- },
- "qr_aria": {
-  "message": "지갑 앱용 QR 코드"
- },
- "copy": {
-  "message": "복사"
- },
- "waiting": {
-  "message": "결제를 기다리는 중…"
- },
- "send_exactly": {
-  "message": "정확히 이 금액을 보내세요"
- },
- "pay_why": {
-  "message": "마지막 자릿수가 결제와 메시지를 연결합니다."
- },
- "to_address": {
-  "message": "받는 주소"
- },
- "open_wallet_app": {
-  "message": "지갑 앱에서 열기"
- },
- "expired": {
-  "message": "이 결제 요청이 만료되었습니다."
- },
- "start_again": {
-  "message": "다시 시작"
- },
- "thanks": {
-  "message": "감사합니다!"
- },
- "thanks_body": {
-  "message": "{amount}을(를) {name}님에게 보내는 중입니다. 보통 1분 안에 도착합니다."
- },
- "done": {
-  "message": "완료"
- },
- "view_tx": {
-  "message": "거래 보기"
- },
- "nf_invite_reddit": {
-  "message": "초대 보내기"
- },
- "nf_invite_x": {
-  "message": "게시물로 초대하기"
- },
- "nf_msg_lichess": {
-  "message": "Lichess에서 메시지 보내기"
- },
- "nf_copy": {
-  "message": "초대 메시지 복사"
- },
- "nf_lead_chat": {
-  "message": "무료 페이지를 만들도록 초대해 보세요. 예를 들어 이 메시지를 상대방의 채팅에 붙여 넣으면 됩니다. 상대방이 {platform} 이름을 추가하면 여기서 바로 팁을 보낼 수 있습니다."
- },
- "nf_lead_msg": {
-  "message": "무료 페이지를 만들도록 초대해 보세요. 예를 들어 이 메시지를 상대방에게 보내면 됩니다. 상대방이 {platform} 이름을 추가하면 여기서 바로 팁을 보낼 수 있습니다."
- },
- "nf_lead": {
-  "message": "무료 페이지를 만들도록 초대해 보세요. 상대방이 {platform} 이름을 추가하면 여기서 바로 팁을 보낼 수 있습니다."
- },
- "nf_not_yet": {
-  "message": "님은 아직 pepe.coffee에 없습니다"
- },
- "no_address": {
-  "message": "{name}님이 아직 Pepecoin 주소를 추가하지 않아 지금은 팁을 받을 수 없습니다."
- },
- "ad_title": {
-  "message": "댓글 작성자에게 에어드롭"
- },
- "ad_no_wallet": {
-  "message": "에어드롭은 내 pepe.coffee 지갑에서 결제됩니다. 먼저 <a1>무료 지갑을 만드세요</a1>."
- },
- "ad_old_pw": {
-  "message": "지갑이 아직 별도의 이전 비밀번호를 사용하고 있습니다. <a1>pepe.coffee에서 한 번 열어</a1> 계정 비밀번호로 전환하세요."
- },
- "ad_no_names": {
-  "message": "이 페이지에서 아직 댓글 작성자를 찾지 못했습니다. 댓글이 불러와지도록 아래로 스크롤한 후 다시 시도하세요."
- },
- "ad_checking": {
-  "message": "댓글 작성자 {n}명을 확인하는 중…"
- },
- "try_again": {
-  "message": "다시 시도"
- },
- "ad_too_small": {
-  "message": "1인당 0.01 PEP보다 적습니다."
- },
- "ad_too_many": {
-  "message": "지갑에 소액 입금이 너무 많아 한 번의 에어드롭으로 보낼 수 없습니다. 인원을 줄여 시도하세요."
- },
- "ad_pick_btn": {
-  "message": "한 명 이상 선택하세요"
- },
- "ad_lead_over": {
-  "message": "댓글 작성자 {total}명 중 {n}명이 pepe.coffee 페이지를 가지고 있습니다."
- },
- "ad_lead_one": {
-  "message": "댓글 작성자 {total}명 중 {n}명이 pepe.coffee 페이지를 가지고 있습니다."
- },
- "ad_lead_many": {
-  "message": "댓글 작성자 {total}명 중 {n}명이 pepe.coffee 페이지를 가지고 있습니다."
- },
- "ad_lead_none": {
-  "message": "댓글 작성자 {total}명 중 아직 pepe.coffee 페이지를 가진 사람이 없습니다."
- },
- "ad_cap": {
-  "message": "에어드롭 한 번으로 최대 {max}명에게 보낼 수 있어 처음 {n}명이 포함되었습니다. 나머지 {over}명은 에어드롭을 한 번 더 보내세요."
- },
- "ad_missing_one": {
-  "message": "1명은 아직 페이지가 없습니다."
- },
- "ad_missing_many": {
-  "message": "{n}명은 아직 페이지가 없습니다."
- },
- "ad_copy_invite": {
-  "message": "초대 댓글 복사"
- },
- "ad_split_aria": {
-  "message": "나누는 방식"
- },
- "pep_each": {
-  "message": "PEP/인"
- },
- "pep_total": {
-  "message": "PEP 합계"
- },
- "ad_same": {
-  "message": "모두 같은 금액"
- },
- "ad_split": {
-  "message": "총액 나누기"
- },
- "ad_msg_ph": {
-  "message": "모두에게 보낼 메시지 추가(선택)"
- },
- "ad_include": {
-  "message": "{name} 포함"
- },
- "show": {
-  "message": "보기"
- },
- "hide": {
-  "message": "숨기기"
- },
- "ad_only_loaded": {
-  "message": "페이지에 불러온 댓글만 포함됩니다. 스크롤하거나 답글을 더 열면 더 많은 사람을 추가할 수 있습니다."
- },
- "ad_selected": {
-  "message": "{all}명 중 {on}명 선택됨"
- },
- "ad_needs": {
-  "message": "이 에어드롭에는 네트워크 수수료를 포함해 {need}가 필요하지만 {have}가 있습니다. <a1>충전하거나</a1> 더 적은 금액을 선택하세요."
- },
- "ad_send_one": {
-  "message": "{n}명에게 {total} 보내기"
- },
- "ad_send_many": {
-  "message": "{n}명에게 {total} 보내기"
- },
- "your_balance": {
-  "message": "내 잔액"
- },
- "err_ad_prepare": {
-  "message": "에어드롭을 준비하지 못했습니다: {msg}"
- },
- "ad_check_again": {
-  "message": "목록 다시 확인"
- },
- "err_ad_send": {
-  "message": "에어드롭을 보내지 못했습니다. 아무것도 전송되지 않았습니다."
- },
- "ad_sent": {
-  "message": "에어드롭을 보냈습니다!"
- },
- "ad_done_one": {
-  "message": "1명이 {each}을(를) 받습니다. 총 {total}입니다. 보통 1분 안에 도착합니다."
- },
- "ad_done_many": {
-  "message": "{n}명이 각각 {each}을(를) 받습니다. 총 {total}입니다. 보통 1분 안에 도착합니다."
- },
- "ad_tell_others": {
-  "message": "다음에 참여하는 방법을 다른 사람들에게 알려 주세요:"
- },
- "err_reload": {
-  "message": "문제가 발생했습니다. 페이지를 새로고침하세요."
- },
- "verified": {
-  "message": "인증됨"
- },
- "c_tip": {
-  "message": "팁"
- },
- "c_tip_name": {
-  "message": "{name}님에게 팁"
- },
- "c_tip_in": {
-  "message": "Pepecoin으로 {name}님에게 팁 보내기"
- },
- "c_frame": {
-  "message": "Pepecoin으로 {name}님에게 팁 보내기"
- },
- "c_airdrop_c": {
-  "message": "댓글 작성자에게 에어드롭"
- },
- "c_airdrop_r": {
-  "message": "답글 작성자에게 에어드롭"
- },
- "c_airdrop_c_t": {
-  "message": "Pepecoin으로 댓글 작성자에게 에어드롭"
- },
- "c_airdrop_r_t": {
-  "message": "Pepecoin으로 답글 작성자에게 에어드롭"
- },
- "c_toast": {
-  "message": "pepe.coffee Tip Button이 업데이트되었습니다. 팁을 보내려면 이 페이지를 새로고침하세요."
- },
- "c_reload": {
-  "message": "새로고침"
- },
- "c_close": {
-  "message": "닫기"
- },
- "ext_name": {
-  "message": "pepe.coffee Tip Button"
- },
- "ext_desc": {
-  "message": "Reddit, X, Twitch, Kick, YouTube, Rumble, GitHub 등에서 Pepecoin으로 팁을 보내거나 PEP를 에어드롭하세요. 클릭 한 번이면 됩니다."
- }
+  "panel_title": {
+    "message": "Pepecoin으로 팁 보내기"
+  },
+  "copied": {
+    "message": "복사됨"
+  },
+  "err_unreachable": {
+    "message": "지금은 pepe.coffee에 연결할 수 없습니다. 연결 상태를 확인하고 다시 시도하세요."
+  },
+  "err_status": {
+    "message": "문제가 발생했습니다({status}). 다시 시도하세요."
+  },
+  "close": {
+    "message": "닫기"
+  },
+  "back": {
+    "message": "뒤로"
+  },
+  "logout": {
+    "message": "로그아웃"
+  },
+  "foot_tagline": {
+    "message": "팁은 상대방의 지갑으로 바로 전달됩니다"
+  },
+  "amount": {
+    "message": "금액"
+  },
+  "other": {
+    "message": "직접 입력"
+  },
+  "amount_pep": {
+    "message": "PEP 금액"
+  },
+  "msg_ph": {
+    "message": "메시지 추가(선택)"
+  },
+  "message": {
+    "message": "메시지"
+  },
+  "anon_title": {
+    "message": "익명으로 보내기"
+  },
+  "anon_sub": {
+    "message": "받는 사람에게 내 이름이 표시되지 않습니다. 결제 자체는 공개 블록체인에 그대로 보입니다."
+  },
+  "send_tip": {
+    "message": "팁 보내기"
+  },
+  "pay_other": {
+    "message": "다른 지갑으로 결제"
+  },
+  "pay_pepe": {
+    "message": "pepe.coffee 지갑으로 결제"
+  },
+  "new_here": {
+    "message": "처음이세요? <a1>무료 지갑 만들기</a1>"
+  },
+  "tip_one_click": {
+    "message": "무료 pepe.coffee 지갑으로 한 번의 클릭으로 팁을 보내세요. <a1>지갑 만들기</a1>"
+  },
+  "old_pw_tip": {
+    "message": "지갑이 아직 별도의 이전 비밀번호를 사용하고 있습니다. <a1>pepe.coffee에서 한 번 열어</a1> 계정 비밀번호로 전환하세요. 그러면 여기서 바로 결제할 수 있습니다."
+  },
+  "opening_wallet": {
+    "message": "지갑을 여는 중…"
+  },
+  "own_page": {
+    "message": "내 페이지입니다. 팁은 다른 사람에게 보내는 게 좋아요!"
+  },
+  "choose_amount": {
+    "message": "금액을 선택하세요"
+  },
+  "not_enough": {
+    "message": "PEP가 부족합니다"
+  },
+  "not_enough_warn": {
+    "message": "지갑에 {have}가 있어 {amount}와 네트워크 수수료를 감당하기에 부족합니다. <a1>충전하거나</a1> 다른 지갑으로 결제하세요."
+  },
+  "too_big": {
+    "message": "금액이 너무 큽니다"
+  },
+  "too_big_warn": {
+    "message": "지갑에 소액 입금이 너무 많아 한 번에 보낼 수 없습니다. 더 적은 금액으로 시도하세요."
+  },
+  "send_amount": {
+    "message": "{amount} 보내기"
+  },
+  "balance": {
+    "message": "잔액"
+  },
+  "network_fee": {
+    "message": "네트워크 수수료"
+  },
+  "pay_other_instead": {
+    "message": "대신 다른 지갑으로 결제"
+  },
+  "err_cant_receive": {
+    "message": "이 페이지는 지금 결제를 받을 수 없습니다."
+  },
+  "sending": {
+    "message": "보내는 중…"
+  },
+  "pw_ph": {
+    "message": "pepe.coffee 비밀번호"
+  },
+  "password": {
+    "message": "비밀번호"
+  },
+  "unlock_send": {
+    "message": "잠금 해제하고 {amount} 보내기"
+  },
+  "unlocking": {
+    "message": "잠금 해제 중…"
+  },
+  "err_prepare_pw": {
+    "message": "브라우저에서 비밀번호를 준비하지 못했습니다. 다시 시도하세요."
+  },
+  "locked_info": {
+    "message": "지갑이 30분 후 자동으로 잠겼습니다. 비밀번호를 한 번 입력하면 잠금이 해제됩니다."
+  },
+  "cancel": {
+    "message": "취소"
+  },
+  "err_open_wallet": {
+    "message": "먼저 pepe.coffee에서 지갑을 한 번 열어 주세요."
+  },
+  "err_wrong_pw": {
+    "message": "이 비밀번호로는 지갑을 열 수 없습니다. 확인한 후 다시 시도하세요."
+  },
+  "err_pay_prepare": {
+    "message": "결제를 준비하지 못했습니다: {msg}"
+  },
+  "err_pay_send": {
+    "message": "결제를 보내지 못했습니다. 아무것도 전송되지 않았습니다."
+  },
+  "login": {
+    "message": "로그인"
+  },
+  "name_or_email": {
+    "message": "이름 또는 이메일"
+  },
+  "logging_in": {
+    "message": "로그인 중…"
+  },
+  "login_title": {
+    "message": "pepe.coffee 로그인"
+  },
+  "login_lead_airdrop": {
+    "message": "에어드롭은 내 pepe.coffee 지갑에서 결제됩니다."
+  },
+  "login_lead_tip": {
+    "message": "로그인하면 내 지갑에서 한 번의 클릭으로 팁을 보낼 수 있습니다."
+  },
+  "pw_secure": {
+    "message": "비밀번호는 이 기기를 벗어나지 않습니다."
+  },
+  "no_account": {
+    "message": "아직 계정이 없으세요? <a1>무료로 만들기</a1>"
+  },
+  "login_again": {
+    "message": "다시 로그인해 주세요."
+  },
+  "one_moment": {
+    "message": "잠시만요…"
+  },
+  "qr_aria": {
+    "message": "지갑 앱용 QR 코드"
+  },
+  "copy": {
+    "message": "복사"
+  },
+  "waiting": {
+    "message": "결제를 기다리는 중…"
+  },
+  "send_exactly": {
+    "message": "정확히 이 금액을 보내세요"
+  },
+  "pay_why": {
+    "message": "마지막 자릿수가 결제와 메시지를 연결합니다."
+  },
+  "to_address": {
+    "message": "받는 주소"
+  },
+  "open_wallet_app": {
+    "message": "지갑 앱에서 열기"
+  },
+  "expired": {
+    "message": "이 결제 요청이 만료되었습니다."
+  },
+  "start_again": {
+    "message": "다시 시작"
+  },
+  "thanks": {
+    "message": "감사합니다!"
+  },
+  "thanks_body": {
+    "message": "{amount}을(를) {name}님에게 보내는 중입니다. 보통 1분 안에 도착합니다."
+  },
+  "done": {
+    "message": "완료"
+  },
+  "view_tx": {
+    "message": "거래 보기"
+  },
+  "nf_invite_reddit": {
+    "message": "초대 보내기"
+  },
+  "nf_invite_x": {
+    "message": "게시물로 초대하기"
+  },
+  "nf_msg_lichess": {
+    "message": "Lichess에서 메시지 보내기"
+  },
+  "nf_copy": {
+    "message": "초대 메시지 복사"
+  },
+  "nf_lead_chat": {
+    "message": "무료 페이지를 만들도록 초대해 보세요. 예를 들어 이 메시지를 상대방의 채팅에 붙여 넣으면 됩니다. 상대방이 {platform} 이름을 추가하면 여기서 바로 팁을 보낼 수 있습니다."
+  },
+  "nf_lead_msg": {
+    "message": "무료 페이지를 만들도록 초대해 보세요. 예를 들어 이 메시지를 상대방에게 보내면 됩니다. 상대방이 {platform} 이름을 추가하면 여기서 바로 팁을 보낼 수 있습니다."
+  },
+  "nf_lead": {
+    "message": "무료 페이지를 만들도록 초대해 보세요. 상대방이 {platform} 이름을 추가하면 여기서 바로 팁을 보낼 수 있습니다."
+  },
+  "nf_not_yet": {
+    "message": "님은 아직 pepe.coffee에 없습니다"
+  },
+  "no_address": {
+    "message": "{name}님이 아직 Pepecoin 주소를 추가하지 않아 지금은 팁을 받을 수 없습니다."
+  },
+  "ad_title": {
+    "message": "댓글 작성자에게 에어드롭"
+  },
+  "ad_no_wallet": {
+    "message": "에어드롭은 내 pepe.coffee 지갑에서 결제됩니다. 먼저 <a1>무료 지갑을 만드세요</a1>."
+  },
+  "ad_old_pw": {
+    "message": "지갑이 아직 별도의 이전 비밀번호를 사용하고 있습니다. <a1>pepe.coffee에서 한 번 열어</a1> 계정 비밀번호로 전환하세요."
+  },
+  "ad_no_names": {
+    "message": "이 페이지에서 아직 댓글 작성자를 찾지 못했습니다. 댓글이 불러와지도록 아래로 스크롤한 후 다시 시도하세요."
+  },
+  "ad_checking": {
+    "message": "댓글 작성자 {n}명을 확인하는 중…"
+  },
+  "try_again": {
+    "message": "다시 시도"
+  },
+  "ad_too_small": {
+    "message": "1인당 0.01 PEP보다 적습니다."
+  },
+  "ad_too_many": {
+    "message": "지갑에 소액 입금이 너무 많아 한 번의 에어드롭으로 보낼 수 없습니다. 인원을 줄여 시도하세요."
+  },
+  "ad_pick_btn": {
+    "message": "한 명 이상 선택하세요"
+  },
+  "ad_lead_over": {
+    "message": "댓글 작성자 {total}명 중 {n}명이 pepe.coffee 페이지를 가지고 있습니다."
+  },
+  "ad_lead_one": {
+    "message": "댓글 작성자 {total}명 중 {n}명이 pepe.coffee 페이지를 가지고 있습니다."
+  },
+  "ad_lead_many": {
+    "message": "댓글 작성자 {total}명 중 {n}명이 pepe.coffee 페이지를 가지고 있습니다."
+  },
+  "ad_lead_none": {
+    "message": "댓글 작성자 {total}명 중 아직 pepe.coffee 페이지를 가진 사람이 없습니다."
+  },
+  "ad_cap": {
+    "message": "에어드롭 한 번으로 최대 {max}명에게 보낼 수 있어 처음 {n}명이 포함되었습니다. 나머지 {over}명은 에어드롭을 한 번 더 보내세요."
+  },
+  "ad_missing_one": {
+    "message": "1명은 아직 페이지가 없습니다."
+  },
+  "ad_missing_many": {
+    "message": "{n}명은 아직 페이지가 없습니다."
+  },
+  "ad_copy_invite": {
+    "message": "초대 댓글 복사"
+  },
+  "ad_split_aria": {
+    "message": "나누는 방식"
+  },
+  "pep_each": {
+    "message": "PEP/인"
+  },
+  "pep_total": {
+    "message": "PEP 합계"
+  },
+  "ad_same": {
+    "message": "모두 같은 금액"
+  },
+  "ad_split": {
+    "message": "총액 나누기"
+  },
+  "ad_msg_ph": {
+    "message": "모두에게 보낼 메시지 추가(선택)"
+  },
+  "ad_include": {
+    "message": "{name} 포함"
+  },
+  "show": {
+    "message": "보기"
+  },
+  "hide": {
+    "message": "숨기기"
+  },
+  "ad_only_loaded": {
+    "message": "페이지에 불러온 댓글만 포함됩니다. 스크롤하거나 답글을 더 열면 더 많은 사람을 추가할 수 있습니다."
+  },
+  "ad_selected": {
+    "message": "{all}명 중 {on}명 선택됨"
+  },
+  "ad_needs": {
+    "message": "이 에어드롭에는 네트워크 수수료를 포함해 {need}가 필요하지만 {have}가 있습니다. <a1>충전하거나</a1> 더 적은 금액을 선택하세요."
+  },
+  "ad_send_one": {
+    "message": "{n}명에게 {total} 보내기"
+  },
+  "ad_send_many": {
+    "message": "{n}명에게 {total} 보내기"
+  },
+  "your_balance": {
+    "message": "내 잔액"
+  },
+  "err_ad_prepare": {
+    "message": "에어드롭을 준비하지 못했습니다: {msg}"
+  },
+  "ad_check_again": {
+    "message": "목록 다시 확인"
+  },
+  "err_ad_send": {
+    "message": "에어드롭을 보내지 못했습니다. 아무것도 전송되지 않았습니다."
+  },
+  "ad_sent": {
+    "message": "에어드롭을 보냈습니다!"
+  },
+  "ad_done_one": {
+    "message": "1명이 {each}을(를) 받습니다. 총 {total}입니다. 보통 1분 안에 도착합니다."
+  },
+  "ad_done_many": {
+    "message": "{n}명이 각각 {each}을(를) 받습니다. 총 {total}입니다. 보통 1분 안에 도착합니다."
+  },
+  "ad_tell_others": {
+    "message": "다음에 참여하는 방법을 다른 사람들에게 알려 주세요:"
+  },
+  "err_reload": {
+    "message": "문제가 발생했습니다. 페이지를 새로고침하세요."
+  },
+  "verified": {
+    "message": "인증됨"
+  },
+  "c_tip": {
+    "message": "팁"
+  },
+  "c_tip_name": {
+    "message": "{name}님에게 팁"
+  },
+  "c_tip_in": {
+    "message": "Pepecoin으로 {name}님에게 팁 보내기"
+  },
+  "c_frame": {
+    "message": "Pepecoin으로 {name}님에게 팁 보내기"
+  },
+  "c_airdrop_c": {
+    "message": "댓글 작성자에게 에어드롭"
+  },
+  "c_airdrop_r": {
+    "message": "답글 작성자에게 에어드롭"
+  },
+  "c_airdrop_c_t": {
+    "message": "Pepecoin으로 댓글 작성자에게 에어드롭"
+  },
+  "c_airdrop_r_t": {
+    "message": "Pepecoin으로 답글 작성자에게 에어드롭"
+  },
+  "c_toast": {
+    "message": "pepe.coffee Tip Button이 업데이트되었습니다. 팁을 보내려면 이 페이지를 새로고침하세요."
+  },
+  "c_reload": {
+    "message": "새로고침"
+  },
+  "c_close": {
+    "message": "닫기"
+  },
+  "ext_name": {
+    "message": "pepe.coffee Tip Button"
+  },
+  "ext_desc": {
+    "message": "크리에이터를 보는 그 자리에서 Pepecoin (PEP)으로 팁을 보내거나 스레드 전체에 PEP를 에어드롭하세요. 클릭 한 번, 무료."
+  }
 }

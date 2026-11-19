@@ -1,395 +1,395 @@
 {
- "panel_title": {
-  "message": "Dar gorjeta com Pepecoin"
- },
- "copied": {
-  "message": "Copiado"
- },
- "err_unreachable": {
-  "message": "Não foi possível acessar o pepe.coffee agora. Verifique sua conexão e tente novamente."
- },
- "err_status": {
-  "message": "Algo deu errado ({status}). Tente novamente."
- },
- "close": {
-  "message": "Fechar"
- },
- "back": {
-  "message": "Voltar"
- },
- "logout": {
-  "message": "Sair"
- },
- "foot_tagline": {
-  "message": "As gorjetas vão direto para a carteira"
- },
- "amount": {
-  "message": "Valor"
- },
- "other": {
-  "message": "Outro"
- },
- "amount_pep": {
-  "message": "Valor em PEP"
- },
- "msg_ph": {
-  "message": "Adicione uma mensagem (opcional)"
- },
- "message": {
-  "message": "Mensagem"
- },
- "anon_title": {
-  "message": "Enviar anonimamente"
- },
- "anon_sub": {
-  "message": "Seu nome não será mostrado ao destinatário. O pagamento em si continua visível na blockchain pública."
- },
- "send_tip": {
-  "message": "Enviar uma gorjeta"
- },
- "pay_other": {
-  "message": "Pagar com outra carteira"
- },
- "pay_pepe": {
-  "message": "Pagar com a carteira do pepe.coffee"
- },
- "new_here": {
-  "message": "Novo por aqui? <a1>Crie uma carteira grátis</a1>"
- },
- "tip_one_click": {
-  "message": "Dê gorjeta com um clique usando uma carteira gratuita do pepe.coffee. <a1>Crie sua carteira</a1>"
- },
- "old_pw_tip": {
-  "message": "Sua carteira ainda usa a própria senha antiga. <a1>Abra-a uma vez no pepe.coffee</a1> para passá-la para a senha da sua conta. Depois, você poderá pagar aqui mesmo."
- },
- "opening_wallet": {
-  "message": "Abrindo sua carteira…"
- },
- "own_page": {
-  "message": "Esta é a sua própria página. Suas gorjetas rendem mais quando dadas a outras pessoas!"
- },
- "choose_amount": {
-  "message": "Escolha um valor"
- },
- "not_enough": {
-  "message": "PEP insuficiente"
- },
- "not_enough_warn": {
-  "message": "Você tem {have} na carteira, o que não é suficiente para {amount} mais a taxa de rede. <a1>Adicione saldo</a1> ou pague com outra carteira."
- },
- "too_big": {
-  "message": "Valor muito alto"
- },
- "too_big_warn": {
-  "message": "Sua carteira tem pagamentos pequenos demais para enviar isso de uma só vez. Tente um valor menor."
- },
- "send_amount": {
-  "message": "Enviar {amount}"
- },
- "balance": {
-  "message": "Saldo"
- },
- "network_fee": {
-  "message": "Taxa de rede"
- },
- "pay_other_instead": {
-  "message": "Pagar com outra carteira"
- },
- "err_cant_receive": {
-  "message": "Esta página não pode receber pagamentos agora."
- },
- "sending": {
-  "message": "Enviando…"
- },
- "pw_ph": {
-  "message": "Sua senha do pepe.coffee"
- },
- "password": {
-  "message": "Senha"
- },
- "unlock_send": {
-  "message": "Desbloquear e enviar {amount}"
- },
- "unlocking": {
-  "message": "Desbloqueando…"
- },
- "err_prepare_pw": {
-  "message": "Seu navegador não conseguiu preparar a senha. Tente novamente."
- },
- "locked_info": {
-  "message": "Sua carteira se bloqueou sozinha após 30 minutos. Digite sua senha uma vez para desbloqueá-la."
- },
- "cancel": {
-  "message": "Cancelar"
- },
- "err_open_wallet": {
-  "message": "Abra sua carteira uma vez no pepe.coffee primeiro."
- },
- "err_wrong_pw": {
-  "message": "Essa senha não abre sua carteira. Confira e tente novamente."
- },
- "err_pay_prepare": {
-  "message": "Não foi possível preparar o pagamento: {msg}"
- },
- "err_pay_send": {
-  "message": "Não foi possível enviar o pagamento. Nada foi enviado."
- },
- "login": {
-  "message": "Entrar"
- },
- "name_or_email": {
-  "message": "Nome ou e-mail"
- },
- "logging_in": {
-  "message": "Entrando…"
- },
- "login_title": {
-  "message": "Entrar no pepe.coffee"
- },
- "login_lead_airdrop": {
-  "message": "Seu airdrop é pago com a sua carteira do pepe.coffee."
- },
- "login_lead_tip": {
-  "message": "Assim você poderá dar gorjeta da sua carteira com um clique."
- },
- "pw_secure": {
-  "message": "Sua senha nunca sai deste dispositivo."
- },
- "no_account": {
-  "message": "Ainda não tem conta? <a1>Crie uma grátis</a1>"
- },
- "login_again": {
-  "message": "Entre novamente."
- },
- "one_moment": {
-  "message": "Um momento…"
- },
- "qr_aria": {
-  "message": "QR code para o app da sua carteira"
- },
- "copy": {
-  "message": "Copiar"
- },
- "waiting": {
-  "message": "Aguardando seu pagamento…"
- },
- "send_exactly": {
-  "message": "Envie exatamente"
- },
- "pay_why": {
-  "message": "Os últimos dígitos ligam seu pagamento à sua mensagem."
- },
- "to_address": {
-  "message": "Para o endereço"
- },
- "open_wallet_app": {
-  "message": "Abrir no app da carteira"
- },
- "expired": {
-  "message": "Esta solicitação de pagamento expirou."
- },
- "start_again": {
-  "message": "Recomeçar"
- },
- "thanks": {
-  "message": "Obrigado!"
- },
- "thanks_body": {
-  "message": "{amount} a caminho de {name}. Costuma chegar em cerca de um minuto."
- },
- "done": {
-  "message": "Concluir"
- },
- "view_tx": {
-  "message": "Ver a transação"
- },
- "nf_invite_reddit": {
-  "message": "Enviar um convite"
- },
- "nf_invite_x": {
-  "message": "Convidar em uma publicação"
- },
- "nf_msg_lichess": {
-  "message": "Enviar mensagem no Lichess"
- },
- "nf_copy": {
-  "message": "Copiar mensagem de convite"
- },
- "nf_lead_chat": {
-  "message": "Convide a pessoa a criar uma página grátis, por exemplo colando esta mensagem no chat dela. Assim que ela adicionar o nome do {platform}, você poderá dar gorjeta aqui mesmo."
- },
- "nf_lead_msg": {
-  "message": "Convide a pessoa a criar uma página grátis, por exemplo enviando esta mensagem a ela. Assim que ela adicionar o nome do {platform}, você poderá dar gorjeta aqui mesmo."
- },
- "nf_lead": {
-  "message": "Convide a pessoa a criar uma página grátis. Assim que ela adicionar o nome do {platform}, você poderá dar gorjeta aqui mesmo."
- },
- "nf_not_yet": {
-  "message": "ainda não está no pepe.coffee"
- },
- "no_address": {
-  "message": "{name} ainda não adicionou um endereço de Pepecoin e, por isso, não pode receber gorjetas agora."
- },
- "ad_title": {
-  "message": "Airdrop para quem comentou"
- },
- "ad_no_wallet": {
-  "message": "Um airdrop é pago com a sua carteira do pepe.coffee. <a1>Crie primeiro a sua carteira grátis</a1>."
- },
- "ad_old_pw": {
-  "message": "Sua carteira ainda usa a própria senha antiga. <a1>Abra-a uma vez no pepe.coffee</a1> para passá-la para a senha da sua conta."
- },
- "ad_no_names": {
-  "message": "Ainda não foram encontrados comentaristas nesta página. Role para baixo para carregar os comentários e tente novamente."
- },
- "ad_checking": {
-  "message": "Verificando {n} comentaristas…"
- },
- "try_again": {
-  "message": "Tentar novamente"
- },
- "ad_too_small": {
-  "message": "Isso é menos de 0,01 PEP por pessoa."
- },
- "ad_too_many": {
-  "message": "Sua carteira tem pagamentos pequenos demais para um airdrop. Tente com menos pessoas."
- },
- "ad_pick_btn": {
-  "message": "Escolha pelo menos uma pessoa"
- },
- "ad_lead_over": {
-  "message": "{n} de {total} comentaristas têm uma página no pepe.coffee."
- },
- "ad_lead_one": {
-  "message": "{n} de {total} comentaristas tem uma página no pepe.coffee."
- },
- "ad_lead_many": {
-  "message": "{n} de {total} comentaristas têm uma página no pepe.coffee."
- },
- "ad_lead_none": {
-  "message": "Nenhum dos {total} comentaristas tem uma página no pepe.coffee ainda."
- },
- "ad_cap": {
-  "message": "Um airdrop pode alcançar até {max} pessoas, por isso as primeiras {n} estão incluídas. Envie um segundo airdrop para as outras {over}."
- },
- "ad_missing_one": {
-  "message": "1 pessoa ainda não tem página."
- },
- "ad_missing_many": {
-  "message": "{n} pessoas ainda não têm página."
- },
- "ad_copy_invite": {
-  "message": "Copiar comentário de convite"
- },
- "ad_split_aria": {
-  "message": "Como dividir"
- },
- "pep_each": {
-  "message": "PEP cada"
- },
- "pep_total": {
-  "message": "PEP no total"
- },
- "ad_same": {
-  "message": "Igual para todos"
- },
- "ad_split": {
-  "message": "Dividir um total"
- },
- "ad_msg_ph": {
-  "message": "Adicione uma mensagem para todos (opcional)"
- },
- "ad_include": {
-  "message": "Incluir {name}"
- },
- "show": {
-  "message": "Mostrar"
- },
- "hide": {
-  "message": "Ocultar"
- },
- "ad_only_loaded": {
-  "message": "Apenas os comentários carregados na página são incluídos. Role ou abra mais respostas para adicionar mais pessoas."
- },
- "ad_selected": {
-  "message": "{on} de {all} pessoas selecionadas"
- },
- "ad_needs": {
-  "message": "Este airdrop precisa de {need} com a taxa de rede incluída, e você tem {have}. <a1>Adicione saldo</a1> ou escolha um valor menor."
- },
- "ad_send_one": {
-  "message": "Enviar {total} para {n} pessoa"
- },
- "ad_send_many": {
-  "message": "Enviar {total} para {n} pessoas"
- },
- "your_balance": {
-  "message": "Seu saldo"
- },
- "err_ad_prepare": {
-  "message": "Não foi possível preparar o airdrop: {msg}"
- },
- "ad_check_again": {
-  "message": "Verificar a lista novamente"
- },
- "err_ad_send": {
-  "message": "Não foi possível enviar o airdrop. Nada foi enviado."
- },
- "ad_sent": {
-  "message": "Airdrop enviado!"
- },
- "ad_done_one": {
-  "message": "1 pessoa recebe {each}, {total} no total. Costuma chegar em cerca de um minuto."
- },
- "ad_done_many": {
-  "message": "{n} pessoas recebem {each} cada, {total} no total. Costuma chegar em cerca de um minuto."
- },
- "ad_tell_others": {
-  "message": "Conte aos outros como participar da próxima vez:"
- },
- "err_reload": {
-  "message": "Algo deu errado. Recarregue a página."
- },
- "verified": {
-  "message": "Verificado"
- },
- "c_tip": {
-  "message": "Gorjeta"
- },
- "c_tip_name": {
-  "message": "Gorjeta para {name}"
- },
- "c_tip_in": {
-  "message": "Dar gorjeta a {name} em Pepecoin"
- },
- "c_frame": {
-  "message": "Dar gorjeta a {name} com Pepecoin"
- },
- "c_airdrop_c": {
-  "message": "Airdrop para quem comentou"
- },
- "c_airdrop_r": {
-  "message": "Airdrop para quem respondeu"
- },
- "c_airdrop_c_t": {
-  "message": "Airdrop para quem comentou com Pepecoin"
- },
- "c_airdrop_r_t": {
-  "message": "Airdrop para quem respondeu com Pepecoin"
- },
- "c_toast": {
-  "message": "O pepe.coffee Tip Button foi atualizado. Recarregue esta página para dar gorjeta."
- },
- "c_reload": {
-  "message": "Recarregar"
- },
- "c_close": {
-  "message": "Fechar"
- },
- "ext_name": {
-  "message": "pepe.coffee Tip Button"
- },
- "ext_desc": {
-  "message": "Dê gorjeta no Reddit, X, Twitch, Kick, YouTube, Rumble, GitHub e mais em Pepecoin, ou distribua PEP em um airdrop. Com um clique."
- }
+  "panel_title": {
+    "message": "Dar gorjeta com Pepecoin"
+  },
+  "copied": {
+    "message": "Copiado"
+  },
+  "err_unreachable": {
+    "message": "Não foi possível acessar o pepe.coffee agora. Verifique sua conexão e tente novamente."
+  },
+  "err_status": {
+    "message": "Algo deu errado ({status}). Tente novamente."
+  },
+  "close": {
+    "message": "Fechar"
+  },
+  "back": {
+    "message": "Voltar"
+  },
+  "logout": {
+    "message": "Sair"
+  },
+  "foot_tagline": {
+    "message": "As gorjetas vão direto para a carteira"
+  },
+  "amount": {
+    "message": "Valor"
+  },
+  "other": {
+    "message": "Outro"
+  },
+  "amount_pep": {
+    "message": "Valor em PEP"
+  },
+  "msg_ph": {
+    "message": "Adicione uma mensagem (opcional)"
+  },
+  "message": {
+    "message": "Mensagem"
+  },
+  "anon_title": {
+    "message": "Enviar anonimamente"
+  },
+  "anon_sub": {
+    "message": "Seu nome não será mostrado ao destinatário. O pagamento em si continua visível na blockchain pública."
+  },
+  "send_tip": {
+    "message": "Enviar uma gorjeta"
+  },
+  "pay_other": {
+    "message": "Pagar com outra carteira"
+  },
+  "pay_pepe": {
+    "message": "Pagar com a carteira do pepe.coffee"
+  },
+  "new_here": {
+    "message": "Novo por aqui? <a1>Crie uma carteira grátis</a1>"
+  },
+  "tip_one_click": {
+    "message": "Dê gorjeta com um clique usando uma carteira gratuita do pepe.coffee. <a1>Crie sua carteira</a1>"
+  },
+  "old_pw_tip": {
+    "message": "Sua carteira ainda usa a própria senha antiga. <a1>Abra-a uma vez no pepe.coffee</a1> para passá-la para a senha da sua conta. Depois, você poderá pagar aqui mesmo."
+  },
+  "opening_wallet": {
+    "message": "Abrindo sua carteira…"
+  },
+  "own_page": {
+    "message": "Esta é a sua própria página. Suas gorjetas rendem mais quando dadas a outras pessoas!"
+  },
+  "choose_amount": {
+    "message": "Escolha um valor"
+  },
+  "not_enough": {
+    "message": "PEP insuficiente"
+  },
+  "not_enough_warn": {
+    "message": "Você tem {have} na carteira, o que não é suficiente para {amount} mais a taxa de rede. <a1>Adicione saldo</a1> ou pague com outra carteira."
+  },
+  "too_big": {
+    "message": "Valor muito alto"
+  },
+  "too_big_warn": {
+    "message": "Sua carteira tem pagamentos pequenos demais para enviar isso de uma só vez. Tente um valor menor."
+  },
+  "send_amount": {
+    "message": "Enviar {amount}"
+  },
+  "balance": {
+    "message": "Saldo"
+  },
+  "network_fee": {
+    "message": "Taxa de rede"
+  },
+  "pay_other_instead": {
+    "message": "Pagar com outra carteira"
+  },
+  "err_cant_receive": {
+    "message": "Esta página não pode receber pagamentos agora."
+  },
+  "sending": {
+    "message": "Enviando…"
+  },
+  "pw_ph": {
+    "message": "Sua senha do pepe.coffee"
+  },
+  "password": {
+    "message": "Senha"
+  },
+  "unlock_send": {
+    "message": "Desbloquear e enviar {amount}"
+  },
+  "unlocking": {
+    "message": "Desbloqueando…"
+  },
+  "err_prepare_pw": {
+    "message": "Seu navegador não conseguiu preparar a senha. Tente novamente."
+  },
+  "locked_info": {
+    "message": "Sua carteira se bloqueou sozinha após 30 minutos. Digite sua senha uma vez para desbloqueá-la."
+  },
+  "cancel": {
+    "message": "Cancelar"
+  },
+  "err_open_wallet": {
+    "message": "Abra sua carteira uma vez no pepe.coffee primeiro."
+  },
+  "err_wrong_pw": {
+    "message": "Essa senha não abre sua carteira. Confira e tente novamente."
+  },
+  "err_pay_prepare": {
+    "message": "Não foi possível preparar o pagamento: {msg}"
+  },
+  "err_pay_send": {
+    "message": "Não foi possível enviar o pagamento. Nada foi enviado."
+  },
+  "login": {
+    "message": "Entrar"
+  },
+  "name_or_email": {
+    "message": "Nome ou e-mail"
+  },
+  "logging_in": {
+    "message": "Entrando…"
+  },
+  "login_title": {
+    "message": "Entrar no pepe.coffee"
+  },
+  "login_lead_airdrop": {
+    "message": "Seu airdrop é pago com a sua carteira do pepe.coffee."
+  },
+  "login_lead_tip": {
+    "message": "Assim você poderá dar gorjeta da sua carteira com um clique."
+  },
+  "pw_secure": {
+    "message": "Sua senha nunca sai deste dispositivo."
+  },
+  "no_account": {
+    "message": "Ainda não tem conta? <a1>Crie uma grátis</a1>"
+  },
+  "login_again": {
+    "message": "Entre novamente."
+  },
+  "one_moment": {
+    "message": "Um momento…"
+  },
+  "qr_aria": {
+    "message": "QR code para o app da sua carteira"
+  },
+  "copy": {
+    "message": "Copiar"
+  },
+  "waiting": {
+    "message": "Aguardando seu pagamento…"
+  },
+  "send_exactly": {
+    "message": "Envie exatamente"
+  },
+  "pay_why": {
+    "message": "Os últimos dígitos ligam seu pagamento à sua mensagem."
+  },
+  "to_address": {
+    "message": "Para o endereço"
+  },
+  "open_wallet_app": {
+    "message": "Abrir no app da carteira"
+  },
+  "expired": {
+    "message": "Esta solicitação de pagamento expirou."
+  },
+  "start_again": {
+    "message": "Recomeçar"
+  },
+  "thanks": {
+    "message": "Obrigado!"
+  },
+  "thanks_body": {
+    "message": "{amount} a caminho de {name}. Costuma chegar em cerca de um minuto."
+  },
+  "done": {
+    "message": "Concluir"
+  },
+  "view_tx": {
+    "message": "Ver a transação"
+  },
+  "nf_invite_reddit": {
+    "message": "Enviar um convite"
+  },
+  "nf_invite_x": {
+    "message": "Convidar em uma publicação"
+  },
+  "nf_msg_lichess": {
+    "message": "Enviar mensagem no Lichess"
+  },
+  "nf_copy": {
+    "message": "Copiar mensagem de convite"
+  },
+  "nf_lead_chat": {
+    "message": "Convide a pessoa a criar uma página grátis, por exemplo colando esta mensagem no chat dela. Assim que ela adicionar o nome do {platform}, você poderá dar gorjeta aqui mesmo."
+  },
+  "nf_lead_msg": {
+    "message": "Convide a pessoa a criar uma página grátis, por exemplo enviando esta mensagem a ela. Assim que ela adicionar o nome do {platform}, você poderá dar gorjeta aqui mesmo."
+  },
+  "nf_lead": {
+    "message": "Convide a pessoa a criar uma página grátis. Assim que ela adicionar o nome do {platform}, você poderá dar gorjeta aqui mesmo."
+  },
+  "nf_not_yet": {
+    "message": "ainda não está no pepe.coffee"
+  },
+  "no_address": {
+    "message": "{name} ainda não adicionou um endereço de Pepecoin e, por isso, não pode receber gorjetas agora."
+  },
+  "ad_title": {
+    "message": "Airdrop para quem comentou"
+  },
+  "ad_no_wallet": {
+    "message": "Um airdrop é pago com a sua carteira do pepe.coffee. <a1>Crie primeiro a sua carteira grátis</a1>."
+  },
+  "ad_old_pw": {
+    "message": "Sua carteira ainda usa a própria senha antiga. <a1>Abra-a uma vez no pepe.coffee</a1> para passá-la para a senha da sua conta."
+  },
+  "ad_no_names": {
+    "message": "Ainda não foram encontrados comentaristas nesta página. Role para baixo para carregar os comentários e tente novamente."
+  },
+  "ad_checking": {
+    "message": "Verificando {n} comentaristas…"
+  },
+  "try_again": {
+    "message": "Tentar novamente"
+  },
+  "ad_too_small": {
+    "message": "Isso é menos de 0,01 PEP por pessoa."
+  },
+  "ad_too_many": {
+    "message": "Sua carteira tem pagamentos pequenos demais para um airdrop. Tente com menos pessoas."
+  },
+  "ad_pick_btn": {
+    "message": "Escolha pelo menos uma pessoa"
+  },
+  "ad_lead_over": {
+    "message": "{n} de {total} comentaristas têm uma página no pepe.coffee."
+  },
+  "ad_lead_one": {
+    "message": "{n} de {total} comentaristas tem uma página no pepe.coffee."
+  },
+  "ad_lead_many": {
+    "message": "{n} de {total} comentaristas têm uma página no pepe.coffee."
+  },
+  "ad_lead_none": {
+    "message": "Nenhum dos {total} comentaristas tem uma página no pepe.coffee ainda."
+  },
+  "ad_cap": {
+    "message": "Um airdrop pode alcançar até {max} pessoas, por isso as primeiras {n} estão incluídas. Envie um segundo airdrop para as outras {over}."
+  },
+  "ad_missing_one": {
+    "message": "1 pessoa ainda não tem página."
+  },
+  "ad_missing_many": {
+    "message": "{n} pessoas ainda não têm página."
+  },
+  "ad_copy_invite": {
+    "message": "Copiar comentário de convite"
+  },
+  "ad_split_aria": {
+    "message": "Como dividir"
+  },
+  "pep_each": {
+    "message": "PEP cada"
+  },
+  "pep_total": {
+    "message": "PEP no total"
+  },
+  "ad_same": {
+    "message": "Igual para todos"
+  },
+  "ad_split": {
+    "message": "Dividir um total"
+  },
+  "ad_msg_ph": {
+    "message": "Adicione uma mensagem para todos (opcional)"
+  },
+  "ad_include": {
+    "message": "Incluir {name}"
+  },
+  "show": {
+    "message": "Mostrar"
+  },
+  "hide": {
+    "message": "Ocultar"
+  },
+  "ad_only_loaded": {
+    "message": "Apenas os comentários carregados na página são incluídos. Role ou abra mais respostas para adicionar mais pessoas."
+  },
+  "ad_selected": {
+    "message": "{on} de {all} pessoas selecionadas"
+  },
+  "ad_needs": {
+    "message": "Este airdrop precisa de {need} com a taxa de rede incluída, e você tem {have}. <a1>Adicione saldo</a1> ou escolha um valor menor."
+  },
+  "ad_send_one": {
+    "message": "Enviar {total} para {n} pessoa"
+  },
+  "ad_send_many": {
+    "message": "Enviar {total} para {n} pessoas"
+  },
+  "your_balance": {
+    "message": "Seu saldo"
+  },
+  "err_ad_prepare": {
+    "message": "Não foi possível preparar o airdrop: {msg}"
+  },
+  "ad_check_again": {
+    "message": "Verificar a lista novamente"
+  },
+  "err_ad_send": {
+    "message": "Não foi possível enviar o airdrop. Nada foi enviado."
+  },
+  "ad_sent": {
+    "message": "Airdrop enviado!"
+  },
+  "ad_done_one": {
+    "message": "1 pessoa recebe {each}, {total} no total. Costuma chegar em cerca de um minuto."
+  },
+  "ad_done_many": {
+    "message": "{n} pessoas recebem {each} cada, {total} no total. Costuma chegar em cerca de um minuto."
+  },
+  "ad_tell_others": {
+    "message": "Conte aos outros como participar da próxima vez:"
+  },
+  "err_reload": {
+    "message": "Algo deu errado. Recarregue a página."
+  },
+  "verified": {
+    "message": "Verificado"
+  },
+  "c_tip": {
+    "message": "Gorjeta"
+  },
+  "c_tip_name": {
+    "message": "Gorjeta para {name}"
+  },
+  "c_tip_in": {
+    "message": "Dar gorjeta a {name} em Pepecoin"
+  },
+  "c_frame": {
+    "message": "Dar gorjeta a {name} com Pepecoin"
+  },
+  "c_airdrop_c": {
+    "message": "Airdrop para quem comentou"
+  },
+  "c_airdrop_r": {
+    "message": "Airdrop para quem respondeu"
+  },
+  "c_airdrop_c_t": {
+    "message": "Airdrop para quem comentou com Pepecoin"
+  },
+  "c_airdrop_r_t": {
+    "message": "Airdrop para quem respondeu com Pepecoin"
+  },
+  "c_toast": {
+    "message": "O pepe.coffee Tip Button foi atualizado. Recarregue esta página para dar gorjeta."
+  },
+  "c_reload": {
+    "message": "Recarregar"
+  },
+  "c_close": {
+    "message": "Fechar"
+  },
+  "ext_name": {
+    "message": "pepe.coffee Tip Button"
+  },
+  "ext_desc": {
+    "message": "Dê gorjetas em Pepecoin (PEP) bem onde você vê os criadores, ou envie PEP a um tópico inteiro. Um clique, grátis, sem custódia."
+  }
 }

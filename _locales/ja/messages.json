@@ -1,395 +1,395 @@
 {
- "panel_title": {
-  "message": "Pepecoin でチップを贈る"
- },
- "copied": {
-  "message": "コピーしました"
- },
- "err_unreachable": {
-  "message": "現在 pepe.coffee に接続できません。接続を確認して、もう一度お試しください。"
- },
- "err_status": {
-  "message": "問題が発生しました（{status}）。もう一度お試しください。"
- },
- "close": {
-  "message": "閉じる"
- },
- "back": {
-  "message": "戻る"
- },
- "logout": {
-  "message": "ログアウト"
- },
- "foot_tagline": {
-  "message": "チップは相手のウォレットに直接届きます"
- },
- "amount": {
-  "message": "金額"
- },
- "other": {
-  "message": "その他"
- },
- "amount_pep": {
-  "message": "PEP の金額"
- },
- "msg_ph": {
-  "message": "メッセージを追加（任意）"
- },
- "message": {
-  "message": "メッセージ"
- },
- "anon_title": {
-  "message": "匿名で送る"
- },
- "anon_sub": {
-  "message": "あなたの名前は受取人に表示されません。支払い自体は公開ブロックチェーン上で確認できます。"
- },
- "send_tip": {
-  "message": "チップを送る"
- },
- "pay_other": {
-  "message": "別のウォレットで支払う"
- },
- "pay_pepe": {
-  "message": "pepe.coffee ウォレットで支払う"
- },
- "new_here": {
-  "message": "はじめてですか？<a1>無料ウォレットを作成</a1>"
- },
- "tip_one_click": {
-  "message": "無料の pepe.coffee ウォレットで、ワンクリックでチップを贈れます。<a1>ウォレットを作成</a1>"
- },
- "old_pw_tip": {
-  "message": "ウォレットはまだ独自の古いパスワードを使っています。<a1>pepe.coffee で一度開いて</a1>、アカウントのパスワードに切り替えてください。その後は、ここで直接支払えます。"
- },
- "opening_wallet": {
-  "message": "ウォレットを開いています…"
- },
- "own_page": {
-  "message": "これはあなた自身のページです。チップは他の人に贈りましょう！"
- },
- "choose_amount": {
-  "message": "金額を選択"
- },
- "not_enough": {
-  "message": "PEP が足りません"
- },
- "not_enough_warn": {
-  "message": "ウォレットには {have} あり、{amount} とネットワーク手数料には足りません。<a1>チャージする</a1>か、別のウォレットで支払ってください。"
- },
- "too_big": {
-  "message": "金額が大きすぎます"
- },
- "too_big_warn": {
-  "message": "ウォレットに少額の入金が多すぎて、一度に送れません。もっと小さい金額でお試しください。"
- },
- "send_amount": {
-  "message": "{amount} を送る"
- },
- "balance": {
-  "message": "残高"
- },
- "network_fee": {
-  "message": "ネットワーク手数料"
- },
- "pay_other_instead": {
-  "message": "代わりに別のウォレットで支払う"
- },
- "err_cant_receive": {
-  "message": "このページは現在、支払いを受け取れません。"
- },
- "sending": {
-  "message": "送信中…"
- },
- "pw_ph": {
-  "message": "pepe.coffee のパスワード"
- },
- "password": {
-  "message": "パスワード"
- },
- "unlock_send": {
-  "message": "ロック解除して {amount} を送る"
- },
- "unlocking": {
-  "message": "ロック解除中…"
- },
- "err_prepare_pw": {
-  "message": "ブラウザでパスワードを準備できませんでした。もう一度お試しください。"
- },
- "locked_info": {
-  "message": "ウォレットは 30 分後に自動でロックされました。パスワードを一度入力するとロックを解除できます。"
- },
- "cancel": {
-  "message": "キャンセル"
- },
- "err_open_wallet": {
-  "message": "先に pepe.coffee でウォレットを一度開いてください。"
- },
- "err_wrong_pw": {
-  "message": "そのパスワードではウォレットを開けません。確認して、もう一度お試しください。"
- },
- "err_pay_prepare": {
-  "message": "支払いを準備できませんでした：{msg}"
- },
- "err_pay_send": {
-  "message": "支払いを送信できませんでした。何も送信されていません。"
- },
- "login": {
-  "message": "ログイン"
- },
- "name_or_email": {
-  "message": "名前またはメールアドレス"
- },
- "logging_in": {
-  "message": "ログイン中…"
- },
- "login_title": {
-  "message": "pepe.coffee にログイン"
- },
- "login_lead_airdrop": {
-  "message": "エアドロップは、あなたの pepe.coffee ウォレットから支払われます。"
- },
- "login_lead_tip": {
-  "message": "ログインすると、ウォレットからワンクリックでチップを贈れます。"
- },
- "pw_secure": {
-  "message": "パスワードがこの端末の外に出ることはありません。"
- },
- "no_account": {
-  "message": "アカウントをお持ちでないですか？<a1>無料で作成</a1>"
- },
- "login_again": {
-  "message": "もう一度ログインしてください。"
- },
- "one_moment": {
-  "message": "少々お待ちください…"
- },
- "qr_aria": {
-  "message": "ウォレットアプリ用の QR コード"
- },
- "copy": {
-  "message": "コピー"
- },
- "waiting": {
-  "message": "お支払いをお待ちしています…"
- },
- "send_exactly": {
-  "message": "ぴったりこの金額を送ってください"
- },
- "pay_why": {
-  "message": "末尾の数字が、お支払いとメッセージを結びつけます。"
- },
- "to_address": {
-  "message": "宛先アドレス"
- },
- "open_wallet_app": {
-  "message": "ウォレットアプリで開く"
- },
- "expired": {
-  "message": "この支払いリクエストは期限切れです。"
- },
- "start_again": {
-  "message": "最初からやり直す"
- },
- "thanks": {
-  "message": "ありがとうございます！"
- },
- "thanks_body": {
-  "message": "{amount} を {name} さんに送信中です。通常、1 分以内に届きます。"
- },
- "done": {
-  "message": "完了"
- },
- "view_tx": {
-  "message": "トランザクションを見る"
- },
- "nf_invite_reddit": {
-  "message": "招待を送る"
- },
- "nf_invite_x": {
-  "message": "投稿で招待する"
- },
- "nf_msg_lichess": {
-  "message": "Lichess でメッセージを送る"
- },
- "nf_copy": {
-  "message": "招待メッセージをコピー"
- },
- "nf_lead_chat": {
-  "message": "無料ページの作成に招待しましょう。たとえば、このメッセージを相手のチャットに貼り付けます。相手が {platform} の名前を追加すれば、ここで直接チップを贈れます。"
- },
- "nf_lead_msg": {
-  "message": "無料ページの作成に招待しましょう。たとえば、このメッセージを相手に送ります。相手が {platform} の名前を追加すれば、ここで直接チップを贈れます。"
- },
- "nf_lead": {
-  "message": "無料ページの作成に招待しましょう。相手が {platform} の名前を追加すれば、ここで直接チップを贈れます。"
- },
- "nf_not_yet": {
-  "message": "はまだ pepe.coffee にいません"
- },
- "no_address": {
-  "message": "{name} さんはまだ Pepecoin アドレスを追加していないため、現在チップを受け取れません。"
- },
- "ad_title": {
-  "message": "コメントした人へのエアドロップ"
- },
- "ad_no_wallet": {
-  "message": "エアドロップは、あなたの pepe.coffee ウォレットから支払われます。まず<a1>無料ウォレットを作成</a1>してください。"
- },
- "ad_old_pw": {
-  "message": "ウォレットはまだ独自の古いパスワードを使っています。<a1>pepe.coffee で一度開いて</a1>、アカウントのパスワードに切り替えてください。"
- },
- "ad_no_names": {
-  "message": "このページでは、まだコメントした人が見つかっていません。下にスクロールしてコメントを読み込んでから、もう一度お試しください。"
- },
- "ad_checking": {
-  "message": "コメントした {n} 人を確認中…"
- },
- "try_again": {
-  "message": "もう一度試す"
- },
- "ad_too_small": {
-  "message": "1 人あたり 0.01 PEP 未満です。"
- },
- "ad_too_many": {
-  "message": "ウォレットに少額の入金が多すぎて、1 回のエアドロップでは送れません。人数を減らしてお試しください。"
- },
- "ad_pick_btn": {
-  "message": "少なくとも 1 人選んでください"
- },
- "ad_lead_over": {
-  "message": "コメントした {total} 人のうち {n} 人が pepe.coffee ページを持っています。"
- },
- "ad_lead_one": {
-  "message": "コメントした {total} 人のうち {n} 人が pepe.coffee ページを持っています。"
- },
- "ad_lead_many": {
-  "message": "コメントした {total} 人のうち {n} 人が pepe.coffee ページを持っています。"
- },
- "ad_lead_none": {
-  "message": "コメントした {total} 人のうち、pepe.coffee ページを持っている人はまだいません。"
- },
- "ad_cap": {
-  "message": "1 回のエアドロップは最大 {max} 人に届けられるため、最初の {n} 人が含まれています。残りの {over} 人には、もう一度エアドロップを送ってください。"
- },
- "ad_missing_one": {
-  "message": "1 人はまだページを持っていません。"
- },
- "ad_missing_many": {
-  "message": "{n} 人はまだページを持っていません。"
- },
- "ad_copy_invite": {
-  "message": "招待コメントをコピー"
- },
- "ad_split_aria": {
-  "message": "分け方"
- },
- "pep_each": {
-  "message": "PEP／人"
- },
- "pep_total": {
-  "message": "PEP 合計"
- },
- "ad_same": {
-  "message": "全員に同額"
- },
- "ad_split": {
-  "message": "合計を分ける"
- },
- "ad_msg_ph": {
-  "message": "全員へのメッセージを追加（任意）"
- },
- "ad_include": {
-  "message": "{name} を含める"
- },
- "show": {
-  "message": "表示"
- },
- "hide": {
-  "message": "非表示"
- },
- "ad_only_loaded": {
-  "message": "ページに読み込まれているコメントのみが対象です。スクロールするか、返信をさらに開くと、対象の人を増やせます。"
- },
- "ad_selected": {
-  "message": "{all} 人中 {on} 人を選択"
- },
- "ad_needs": {
-  "message": "このエアドロップにはネットワーク手数料を含めて {need} が必要ですが、残高は {have} です。<a1>チャージする</a1>か、もっと小さい金額を選んでください。"
- },
- "ad_send_one": {
-  "message": "{n} 人に {total} を送る"
- },
- "ad_send_many": {
-  "message": "{n} 人に {total} を送る"
- },
- "your_balance": {
-  "message": "あなたの残高"
- },
- "err_ad_prepare": {
-  "message": "エアドロップを準備できませんでした：{msg}"
- },
- "ad_check_again": {
-  "message": "リストを再確認"
- },
- "err_ad_send": {
-  "message": "エアドロップを送信できませんでした。何も送信されていません。"
- },
- "ad_sent": {
-  "message": "エアドロップを送信しました！"
- },
- "ad_done_one": {
-  "message": "1 人が {each} を受け取ります（合計 {total}）。通常、1 分以内に届きます。"
- },
- "ad_done_many": {
-  "message": "{n} 人がそれぞれ {each} を受け取ります（合計 {total}）。通常、1 分以内に届きます。"
- },
- "ad_tell_others": {
-  "message": "次回の参加方法を、ほかの人にも伝えましょう："
- },
- "err_reload": {
-  "message": "問題が発生しました。ページを再読み込みしてください。"
- },
- "verified": {
-  "message": "認証済み"
- },
- "c_tip": {
-  "message": "チップ"
- },
- "c_tip_name": {
-  "message": "{name} にチップ"
- },
- "c_tip_in": {
-  "message": "Pepecoin で {name} にチップを贈る"
- },
- "c_frame": {
-  "message": "Pepecoin で {name} にチップを贈る"
- },
- "c_airdrop_c": {
-  "message": "コメントした人へエアドロップ"
- },
- "c_airdrop_r": {
-  "message": "返信した人へエアドロップ"
- },
- "c_airdrop_c_t": {
-  "message": "Pepecoin でコメントした人へエアドロップ"
- },
- "c_airdrop_r_t": {
-  "message": "Pepecoin で返信した人へエアドロップ"
- },
- "c_toast": {
-  "message": "pepe.coffee Tip Button が更新されました。チップを贈るには、このページを再読み込みしてください。"
- },
- "c_reload": {
-  "message": "再読み込み"
- },
- "c_close": {
-  "message": "閉じる"
- },
- "ext_name": {
-  "message": "pepe.coffee Tip Button"
- },
- "ext_desc": {
-  "message": "Reddit、X、Twitch、Kick、YouTube、Rumble、GitHub などで Pepecoin のチップを贈ったり、PEP をエアドロップしたり。ワンクリックで。"
- }
+  "panel_title": {
+    "message": "Pepecoin でチップを贈る"
+  },
+  "copied": {
+    "message": "コピーしました"
+  },
+  "err_unreachable": {
+    "message": "現在 pepe.coffee に接続できません。接続を確認して、もう一度お試しください。"
+  },
+  "err_status": {
+    "message": "問題が発生しました（{status}）。もう一度お試しください。"
+  },
+  "close": {
+    "message": "閉じる"
+  },
+  "back": {
+    "message": "戻る"
+  },
+  "logout": {
+    "message": "ログアウト"
+  },
+  "foot_tagline": {
+    "message": "チップは相手のウォレットに直接届きます"
+  },
+  "amount": {
+    "message": "金額"
+  },
+  "other": {
+    "message": "その他"
+  },
+  "amount_pep": {
+    "message": "PEP の金額"
+  },
+  "msg_ph": {
+    "message": "メッセージを追加（任意）"
+  },
+  "message": {
+    "message": "メッセージ"
+  },
+  "anon_title": {
+    "message": "匿名で送る"
+  },
+  "anon_sub": {
+    "message": "あなたの名前は受取人に表示されません。支払い自体は公開ブロックチェーン上で確認できます。"
+  },
+  "send_tip": {
+    "message": "チップを送る"
+  },
+  "pay_other": {
+    "message": "別のウォレットで支払う"
+  },
+  "pay_pepe": {
+    "message": "pepe.coffee ウォレットで支払う"
+  },
+  "new_here": {
+    "message": "はじめてですか？<a1>無料ウォレットを作成</a1>"
+  },
+  "tip_one_click": {
+    "message": "無料の pepe.coffee ウォレットで、ワンクリックでチップを贈れます。<a1>ウォレットを作成</a1>"
+  },
+  "old_pw_tip": {
+    "message": "ウォレットはまだ独自の古いパスワードを使っています。<a1>pepe.coffee で一度開いて</a1>、アカウントのパスワードに切り替えてください。その後は、ここで直接支払えます。"
+  },
+  "opening_wallet": {
+    "message": "ウォレットを開いています…"
+  },
+  "own_page": {
+    "message": "これはあなた自身のページです。チップは他の人に贈りましょう！"
+  },
+  "choose_amount": {
+    "message": "金額を選択"
+  },
+  "not_enough": {
+    "message": "PEP が足りません"
+  },
+  "not_enough_warn": {
+    "message": "ウォレットには {have} あり、{amount} とネットワーク手数料には足りません。<a1>チャージする</a1>か、別のウォレットで支払ってください。"
+  },
+  "too_big": {
+    "message": "金額が大きすぎます"
+  },
+  "too_big_warn": {
+    "message": "ウォレットに少額の入金が多すぎて、一度に送れません。もっと小さい金額でお試しください。"
+  },
+  "send_amount": {
+    "message": "{amount} を送る"
+  },
+  "balance": {
+    "message": "残高"
+  },
+  "network_fee": {
+    "message": "ネットワーク手数料"
+  },
+  "pay_other_instead": {
+    "message": "代わりに別のウォレットで支払う"
+  },
+  "err_cant_receive": {
+    "message": "このページは現在、支払いを受け取れません。"
+  },
+  "sending": {
+    "message": "送信中…"
+  },
+  "pw_ph": {
+    "message": "pepe.coffee のパスワード"
+  },
+  "password": {
+    "message": "パスワード"
+  },
+  "unlock_send": {
+    "message": "ロック解除して {amount} を送る"
+  },
+  "unlocking": {
+    "message": "ロック解除中…"
+  },
+  "err_prepare_pw": {
+    "message": "ブラウザでパスワードを準備できませんでした。もう一度お試しください。"
+  },
+  "locked_info": {
+    "message": "ウォレットは 30 分後に自動でロックされました。パスワードを一度入力するとロックを解除できます。"
+  },
+  "cancel": {
+    "message": "キャンセル"
+  },
+  "err_open_wallet": {
+    "message": "先に pepe.coffee でウォレットを一度開いてください。"
+  },
+  "err_wrong_pw": {
+    "message": "そのパスワードではウォレットを開けません。確認して、もう一度お試しください。"
+  },
+  "err_pay_prepare": {
+    "message": "支払いを準備できませんでした：{msg}"
+  },
+  "err_pay_send": {
+    "message": "支払いを送信できませんでした。何も送信されていません。"
+  },
+  "login": {
+    "message": "ログイン"
+  },
+  "name_or_email": {
+    "message": "名前またはメールアドレス"
+  },
+  "logging_in": {
+    "message": "ログイン中…"
+  },
+  "login_title": {
+    "message": "pepe.coffee にログイン"
+  },
+  "login_lead_airdrop": {
+    "message": "エアドロップは、あなたの pepe.coffee ウォレットから支払われます。"
+  },
+  "login_lead_tip": {
+    "message": "ログインすると、ウォレットからワンクリックでチップを贈れます。"
+  },
+  "pw_secure": {
+    "message": "パスワードがこの端末の外に出ることはありません。"
+  },
+  "no_account": {
+    "message": "アカウントをお持ちでないですか？<a1>無料で作成</a1>"
+  },
+  "login_again": {
+    "message": "もう一度ログインしてください。"
+  },
+  "one_moment": {
+    "message": "少々お待ちください…"
+  },
+  "qr_aria": {
+    "message": "ウォレットアプリ用の QR コード"
+  },
+  "copy": {
+    "message": "コピー"
+  },
+  "waiting": {
+    "message": "お支払いをお待ちしています…"
+  },
+  "send_exactly": {
+    "message": "ぴったりこの金額を送ってください"
+  },
+  "pay_why": {
+    "message": "末尾の数字が、お支払いとメッセージを結びつけます。"
+  },
+  "to_address": {
+    "message": "宛先アドレス"
+  },
+  "open_wallet_app": {
+    "message": "ウォレットアプリで開く"
+  },
+  "expired": {
+    "message": "この支払いリクエストは期限切れです。"
+  },
+  "start_again": {
+    "message": "最初からやり直す"
+  },
+  "thanks": {
+    "message": "ありがとうございます！"
+  },
+  "thanks_body": {
+    "message": "{amount} を {name} さんに送信中です。通常、1 分以内に届きます。"
+  },
+  "done": {
+    "message": "完了"
+  },
+  "view_tx": {
+    "message": "トランザクションを見る"
+  },
+  "nf_invite_reddit": {
+    "message": "招待を送る"
+  },
+  "nf_invite_x": {
+    "message": "投稿で招待する"
+  },
+  "nf_msg_lichess": {
+    "message": "Lichess でメッセージを送る"
+  },
+  "nf_copy": {
+    "message": "招待メッセージをコピー"
+  },
+  "nf_lead_chat": {
+    "message": "無料ページの作成に招待しましょう。たとえば、このメッセージを相手のチャットに貼り付けます。相手が {platform} の名前を追加すれば、ここで直接チップを贈れます。"
+  },
+  "nf_lead_msg": {
+    "message": "無料ページの作成に招待しましょう。たとえば、このメッセージを相手に送ります。相手が {platform} の名前を追加すれば、ここで直接チップを贈れます。"
+  },
+  "nf_lead": {
+    "message": "無料ページの作成に招待しましょう。相手が {platform} の名前を追加すれば、ここで直接チップを贈れます。"
+  },
+  "nf_not_yet": {
+    "message": "はまだ pepe.coffee にいません"
+  },
+  "no_address": {
+    "message": "{name} さんはまだ Pepecoin アドレスを追加していないため、現在チップを受け取れません。"
+  },
+  "ad_title": {
+    "message": "コメントした人へのエアドロップ"
+  },
+  "ad_no_wallet": {
+    "message": "エアドロップは、あなたの pepe.coffee ウォレットから支払われます。まず<a1>無料ウォレットを作成</a1>してください。"
+  },
+  "ad_old_pw": {
+    "message": "ウォレットはまだ独自の古いパスワードを使っています。<a1>pepe.coffee で一度開いて</a1>、アカウントのパスワードに切り替えてください。"
+  },
+  "ad_no_names": {
+    "message": "このページでは、まだコメントした人が見つかっていません。下にスクロールしてコメントを読み込んでから、もう一度お試しください。"
+  },
+  "ad_checking": {
+    "message": "コメントした {n} 人を確認中…"
+  },
+  "try_again": {
+    "message": "もう一度試す"
+  },
+  "ad_too_small": {
+    "message": "1 人あたり 0.01 PEP 未満です。"
+  },
+  "ad_too_many": {
+    "message": "ウォレットに少額の入金が多すぎて、1 回のエアドロップでは送れません。人数を減らしてお試しください。"
+  },
+  "ad_pick_btn": {
+    "message": "少なくとも 1 人選んでください"
+  },
+  "ad_lead_over": {
+    "message": "コメントした {total} 人のうち {n} 人が pepe.coffee ページを持っています。"
+  },
+  "ad_lead_one": {
+    "message": "コメントした {total} 人のうち {n} 人が pepe.coffee ページを持っています。"
+  },
+  "ad_lead_many": {
+    "message": "コメントした {total} 人のうち {n} 人が pepe.coffee ページを持っています。"
+  },
+  "ad_lead_none": {
+    "message": "コメントした {total} 人のうち、pepe.coffee ページを持っている人はまだいません。"
+  },
+  "ad_cap": {
+    "message": "1 回のエアドロップは最大 {max} 人に届けられるため、最初の {n} 人が含まれています。残りの {over} 人には、もう一度エアドロップを送ってください。"
+  },
+  "ad_missing_one": {
+    "message": "1 人はまだページを持っていません。"
+  },
+  "ad_missing_many": {
+    "message": "{n} 人はまだページを持っていません。"
+  },
+  "ad_copy_invite": {
+    "message": "招待コメントをコピー"
+  },
+  "ad_split_aria": {
+    "message": "分け方"
+  },
+  "pep_each": {
+    "message": "PEP／人"
+  },
+  "pep_total": {
+    "message": "PEP 合計"
+  },
+  "ad_same": {
+    "message": "全員に同額"
+  },
+  "ad_split": {
+    "message": "合計を分ける"
+  },
+  "ad_msg_ph": {
+    "message": "全員へのメッセージを追加（任意）"
+  },
+  "ad_include": {
+    "message": "{name} を含める"
+  },
+  "show": {
+    "message": "表示"
+  },
+  "hide": {
+    "message": "非表示"
+  },
+  "ad_only_loaded": {
+    "message": "ページに読み込まれているコメントのみが対象です。スクロールするか、返信をさらに開くと、対象の人を増やせます。"
+  },
+  "ad_selected": {
+    "message": "{all} 人中 {on} 人を選択"
+  },
+  "ad_needs": {
+    "message": "このエアドロップにはネットワーク手数料を含めて {need} が必要ですが、残高は {have} です。<a1>チャージする</a1>か、もっと小さい金額を選んでください。"
+  },
+  "ad_send_one": {
+    "message": "{n} 人に {total} を送る"
+  },
+  "ad_send_many": {
+    "message": "{n} 人に {total} を送る"
+  },
+  "your_balance": {
+    "message": "あなたの残高"
+  },
+  "err_ad_prepare": {
+    "message": "エアドロップを準備できませんでした：{msg}"
+  },
+  "ad_check_again": {
+    "message": "リストを再確認"
+  },
+  "err_ad_send": {
+    "message": "エアドロップを送信できませんでした。何も送信されていません。"
+  },
+  "ad_sent": {
+    "message": "エアドロップを送信しました！"
+  },
+  "ad_done_one": {
+    "message": "1 人が {each} を受け取ります（合計 {total}）。通常、1 分以内に届きます。"
+  },
+  "ad_done_many": {
+    "message": "{n} 人がそれぞれ {each} を受け取ります（合計 {total}）。通常、1 分以内に届きます。"
+  },
+  "ad_tell_others": {
+    "message": "次回の参加方法を、ほかの人にも伝えましょう："
+  },
+  "err_reload": {
+    "message": "問題が発生しました。ページを再読み込みしてください。"
+  },
+  "verified": {
+    "message": "認証済み"
+  },
+  "c_tip": {
+    "message": "チップ"
+  },
+  "c_tip_name": {
+    "message": "{name} にチップ"
+  },
+  "c_tip_in": {
+    "message": "Pepecoin で {name} にチップを贈る"
+  },
+  "c_frame": {
+    "message": "Pepecoin で {name} にチップを贈る"
+  },
+  "c_airdrop_c": {
+    "message": "コメントした人へエアドロップ"
+  },
+  "c_airdrop_r": {
+    "message": "返信した人へエアドロップ"
+  },
+  "c_airdrop_c_t": {
+    "message": "Pepecoin でコメントした人へエアドロップ"
+  },
+  "c_airdrop_r_t": {
+    "message": "Pepecoin で返信した人へエアドロップ"
+  },
+  "c_toast": {
+    "message": "pepe.coffee Tip Button が更新されました。チップを贈るには、このページを再読み込みしてください。"
+  },
+  "c_reload": {
+    "message": "再読み込み"
+  },
+  "c_close": {
+    "message": "閉じる"
+  },
+  "ext_name": {
+    "message": "pepe.coffee Tip Button"
+  },
+  "ext_desc": {
+    "message": "クリエイターを見かけたその場で Pepecoin (PEP) の投げ銭を。スレッド全体への PEP エアドロップも可能。ワンクリック、無料。"
+  }
 }

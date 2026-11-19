@@ -1,395 +1,395 @@
 {
- "panel_title": {
-  "message": "Tip with Pepecoin"
- },
- "copied": {
-  "message": "Copied"
- },
- "err_unreachable": {
-  "message": "pepe.coffee can’t be reached right now. Check your connection and try again."
- },
- "err_status": {
-  "message": "Something went wrong ({status}). Please try again."
- },
- "close": {
-  "message": "Close"
- },
- "back": {
-  "message": "Back"
- },
- "logout": {
-  "message": "Log out"
- },
- "foot_tagline": {
-  "message": "Tips go straight to their wallet"
- },
- "amount": {
-  "message": "Amount"
- },
- "other": {
-  "message": "Other"
- },
- "amount_pep": {
-  "message": "Amount in PEP"
- },
- "msg_ph": {
-  "message": "Add a message (optional)"
- },
- "message": {
-  "message": "Message"
- },
- "anon_title": {
-  "message": "Send anonymously"
- },
- "anon_sub": {
-  "message": "Your name won’t be shown to the recipient. The payment itself stays visible on the public blockchain."
- },
- "send_tip": {
-  "message": "Send a tip"
- },
- "pay_other": {
-  "message": "Pay with another wallet"
- },
- "pay_pepe": {
-  "message": "Pay with pepe.coffee wallet"
- },
- "new_here": {
-  "message": "New here? <a1>Create a free wallet</a1>"
- },
- "tip_one_click": {
-  "message": "Tip in one click with a free pepe.coffee wallet. <a1>Create your wallet</a1>"
- },
- "old_pw_tip": {
-  "message": "Your wallet still uses its own old password. <a1>Open it once on pepe.coffee</a1> to switch it to your account password. Then paying works right here."
- },
- "opening_wallet": {
-  "message": "Opening your wallet…"
- },
- "own_page": {
-  "message": "This is your own page. Your tips are best spent on others!"
- },
- "choose_amount": {
-  "message": "Choose an amount"
- },
- "not_enough": {
-  "message": "Not enough PEP"
- },
- "not_enough_warn": {
-  "message": "You have {have} in your wallet, that’s not enough for {amount} plus the network fee. <a1>Top up</a1> or pay with another wallet."
- },
- "too_big": {
-  "message": "Amount too large"
- },
- "too_big_warn": {
-  "message": "Your wallet has too many small payments to send this at once. Try a smaller amount."
- },
- "send_amount": {
-  "message": "Send {amount}"
- },
- "balance": {
-  "message": "Balance"
- },
- "network_fee": {
-  "message": "Network fee"
- },
- "pay_other_instead": {
-  "message": "Pay with another wallet instead"
- },
- "err_cant_receive": {
-  "message": "This page can’t receive payments right now."
- },
- "sending": {
-  "message": "Sending…"
- },
- "pw_ph": {
-  "message": "Your pepe.coffee password"
- },
- "password": {
-  "message": "Password"
- },
- "unlock_send": {
-  "message": "Unlock & send {amount}"
- },
- "unlocking": {
-  "message": "Unlocking…"
- },
- "err_prepare_pw": {
-  "message": "Your browser couldn’t prepare the password. Please try again."
- },
- "locked_info": {
-  "message": "Your wallet locked itself after 30 minutes. Type your password once to unlock it."
- },
- "cancel": {
-  "message": "Cancel"
- },
- "err_open_wallet": {
-  "message": "Please open your wallet once on pepe.coffee first."
- },
- "err_wrong_pw": {
-  "message": "That password doesn’t open your wallet. Check it and try again."
- },
- "err_pay_prepare": {
-  "message": "The payment couldn’t be prepared: {msg}"
- },
- "err_pay_send": {
-  "message": "The payment couldn’t be sent. Nothing was sent."
- },
- "login": {
-  "message": "Log in"
- },
- "name_or_email": {
-  "message": "Name or email"
- },
- "logging_in": {
-  "message": "Logging in…"
- },
- "login_title": {
-  "message": "Log in to pepe.coffee"
- },
- "login_lead_airdrop": {
-  "message": "Your airdrop is paid from your pepe.coffee wallet."
- },
- "login_lead_tip": {
-  "message": "Then you can tip from your wallet in one click."
- },
- "pw_secure": {
-  "message": "Your password never leaves this device."
- },
- "no_account": {
-  "message": "No account yet? <a1>Create one for free</a1>"
- },
- "login_again": {
-  "message": "Please log in again."
- },
- "one_moment": {
-  "message": "One moment…"
- },
- "qr_aria": {
-  "message": "QR code for your wallet app"
- },
- "copy": {
-  "message": "Copy"
- },
- "waiting": {
-  "message": "Waiting for your payment…"
- },
- "send_exactly": {
-  "message": "Send exactly"
- },
- "pay_why": {
-  "message": "The last digits link your payment to your message."
- },
- "to_address": {
-  "message": "To address"
- },
- "open_wallet_app": {
-  "message": "Open in wallet app"
- },
- "expired": {
-  "message": "This payment request expired."
- },
- "start_again": {
-  "message": "Start again"
- },
- "thanks": {
-  "message": "Thank you!"
- },
- "thanks_body": {
-  "message": "{amount} on the way to {name}. It usually arrives within a minute."
- },
- "done": {
-  "message": "Done"
- },
- "view_tx": {
-  "message": "View the transaction"
- },
- "nf_invite_reddit": {
-  "message": "Send them an invite"
- },
- "nf_invite_x": {
-  "message": "Invite them in a post"
- },
- "nf_msg_lichess": {
-  "message": "Message them on Lichess"
- },
- "nf_copy": {
-  "message": "Copy invite message"
- },
- "nf_lead_chat": {
-  "message": "Invite them to create a free page, for example by pasting this message in their chat. As soon as they add their {platform} name, you can tip them right here."
- },
- "nf_lead_msg": {
-  "message": "Invite them to create a free page, for example by sending them this message. As soon as they add their {platform} name, you can tip them right here."
- },
- "nf_lead": {
-  "message": "Invite them to create a free page. As soon as they add their {platform} name, you can tip them right here."
- },
- "nf_not_yet": {
-  "message": "isn’t on pepe.coffee yet"
- },
- "no_address": {
-  "message": "{name} hasn’t added a Pepecoin address yet, so they can’t receive tips right now."
- },
- "ad_title": {
-  "message": "Airdrop to commenters"
- },
- "ad_no_wallet": {
-  "message": "An airdrop is paid from your pepe.coffee wallet. <a1>Create your free wallet</a1> first."
- },
- "ad_old_pw": {
-  "message": "Your wallet still uses its own old password. <a1>Open it once on pepe.coffee</a1> to switch it to your account password."
- },
- "ad_no_names": {
-  "message": "No commenters found on this page yet. Scroll down so the comments load, then try again."
- },
- "ad_checking": {
-  "message": "Checking {n} commenters…"
- },
- "try_again": {
-  "message": "Try again"
- },
- "ad_too_small": {
-  "message": "That’s less than 0.01 PEP per person."
- },
- "ad_too_many": {
-  "message": "Your wallet has too many small payments for one airdrop. Try fewer people."
- },
- "ad_pick_btn": {
-  "message": "Pick at least one person"
- },
- "ad_lead_over": {
-  "message": "{n} of {total} commenters have a pepe.coffee page."
- },
- "ad_lead_one": {
-  "message": "{n} of {total} commenters has a pepe.coffee page."
- },
- "ad_lead_many": {
-  "message": "{n} of {total} commenters have a pepe.coffee page."
- },
- "ad_lead_none": {
-  "message": "None of the {total} commenters has a pepe.coffee page yet."
- },
- "ad_cap": {
-  "message": "One airdrop can reach up to {max} people, so the first {n} are included. Send a second airdrop for the other {over}."
- },
- "ad_missing_one": {
-  "message": "1 person has no page yet."
- },
- "ad_missing_many": {
-  "message": "{n} people have no page yet."
- },
- "ad_copy_invite": {
-  "message": "Copy invite comment"
- },
- "ad_split_aria": {
-  "message": "How to split"
- },
- "pep_each": {
-  "message": "PEP each"
- },
- "pep_total": {
-  "message": "PEP total"
- },
- "ad_same": {
-  "message": "Same for everyone"
- },
- "ad_split": {
-  "message": "Split a total"
- },
- "ad_msg_ph": {
-  "message": "Add a message for everyone (optional)"
- },
- "ad_include": {
-  "message": "Include {name}"
- },
- "show": {
-  "message": "Show"
- },
- "hide": {
-  "message": "Hide"
- },
- "ad_only_loaded": {
-  "message": "Only comments loaded on the page are included. Scroll or open more replies to add more people."
- },
- "ad_selected": {
-  "message": "{on} of {all} people selected"
- },
- "ad_needs": {
-  "message": "This airdrop needs {need} including the network fee, you have {have}. <a1>Top up</a1> or choose a smaller amount."
- },
- "ad_send_one": {
-  "message": "Send {total} to {n} person"
- },
- "ad_send_many": {
-  "message": "Send {total} to {n} people"
- },
- "your_balance": {
-  "message": "Your balance"
- },
- "err_ad_prepare": {
-  "message": "The airdrop couldn’t be prepared: {msg}"
- },
- "ad_check_again": {
-  "message": "Check the list again"
- },
- "err_ad_send": {
-  "message": "The airdrop couldn’t be sent. Nothing was sent."
- },
- "ad_sent": {
-  "message": "Airdrop sent!"
- },
- "ad_done_one": {
-  "message": "1 person gets {each}, {total} in total. It usually arrives within a minute."
- },
- "ad_done_many": {
-  "message": "{n} people get {each} each, {total} in total. It usually arrives within a minute."
- },
- "ad_tell_others": {
-  "message": "Tell the others how to join next time:"
- },
- "err_reload": {
-  "message": "Something went wrong. Please reload the page."
- },
- "verified": {
-  "message": "Verified"
- },
- "c_tip": {
-  "message": "Tip"
- },
- "c_tip_name": {
-  "message": "Tip {name}"
- },
- "c_tip_in": {
-  "message": "Tip {name} in Pepecoin"
- },
- "c_frame": {
-  "message": "Tip {name} with Pepecoin"
- },
- "c_airdrop_c": {
-  "message": "Airdrop to commenters"
- },
- "c_airdrop_r": {
-  "message": "Airdrop to repliers"
- },
- "c_airdrop_c_t": {
-  "message": "Airdrop to commenters with Pepecoin"
- },
- "c_airdrop_r_t": {
-  "message": "Airdrop to repliers with Pepecoin"
- },
- "c_toast": {
-  "message": "The pepe.coffee Tip Button was updated. Reload this page to tip."
- },
- "c_reload": {
-  "message": "Reload"
- },
- "c_close": {
-  "message": "Close"
- },
- "ext_name": {
-  "message": "pepe.coffee Tip Button"
- },
- "ext_desc": {
-  "message": "Tip people on Reddit, X, Twitch, Kick, YouTube, Rumble, GitHub and more in Pepecoin, or airdrop PEP to a thread. One click."
- }
+  "panel_title": {
+    "message": "Tip with Pepecoin"
+  },
+  "copied": {
+    "message": "Copied"
+  },
+  "err_unreachable": {
+    "message": "pepe.coffee can’t be reached right now. Check your connection and try again."
+  },
+  "err_status": {
+    "message": "Something went wrong ({status}). Please try again."
+  },
+  "close": {
+    "message": "Close"
+  },
+  "back": {
+    "message": "Back"
+  },
+  "logout": {
+    "message": "Log out"
+  },
+  "foot_tagline": {
+    "message": "Tips go straight to their wallet"
+  },
+  "amount": {
+    "message": "Amount"
+  },
+  "other": {
+    "message": "Other"
+  },
+  "amount_pep": {
+    "message": "Amount in PEP"
+  },
+  "msg_ph": {
+    "message": "Add a message (optional)"
+  },
+  "message": {
+    "message": "Message"
+  },
+  "anon_title": {
+    "message": "Send anonymously"
+  },
+  "anon_sub": {
+    "message": "Your name won’t be shown to the recipient. The payment itself stays visible on the public blockchain."
+  },
+  "send_tip": {
+    "message": "Send a tip"
+  },
+  "pay_other": {
+    "message": "Pay with another wallet"
+  },
+  "pay_pepe": {
+    "message": "Pay with pepe.coffee wallet"
+  },
+  "new_here": {
+    "message": "New here? <a1>Create a free wallet</a1>"
+  },
+  "tip_one_click": {
+    "message": "Tip in one click with a free pepe.coffee wallet. <a1>Create your wallet</a1>"
+  },
+  "old_pw_tip": {
+    "message": "Your wallet still uses its own old password. <a1>Open it once on pepe.coffee</a1> to switch it to your account password. Then paying works right here."
+  },
+  "opening_wallet": {
+    "message": "Opening your wallet…"
+  },
+  "own_page": {
+    "message": "This is your own page. Your tips are best spent on others!"
+  },
+  "choose_amount": {
+    "message": "Choose an amount"
+  },
+  "not_enough": {
+    "message": "Not enough PEP"
+  },
+  "not_enough_warn": {
+    "message": "You have {have} in your wallet, that’s not enough for {amount} plus the network fee. <a1>Top up</a1> or pay with another wallet."
+  },
+  "too_big": {
+    "message": "Amount too large"
+  },
+  "too_big_warn": {
+    "message": "Your wallet has too many small payments to send this at once. Try a smaller amount."
+  },
+  "send_amount": {
+    "message": "Send {amount}"
+  },
+  "balance": {
+    "message": "Balance"
+  },
+  "network_fee": {
+    "message": "Network fee"
+  },
+  "pay_other_instead": {
+    "message": "Pay with another wallet instead"
+  },
+  "err_cant_receive": {
+    "message": "This page can’t receive payments right now."
+  },
+  "sending": {
+    "message": "Sending…"
+  },
+  "pw_ph": {
+    "message": "Your pepe.coffee password"
+  },
+  "password": {
+    "message": "Password"
+  },
+  "unlock_send": {
+    "message": "Unlock & send {amount}"
+  },
+  "unlocking": {
+    "message": "Unlocking…"
+  },
+  "err_prepare_pw": {
+    "message": "Your browser couldn’t prepare the password. Please try again."
+  },
+  "locked_info": {
+    "message": "Your wallet locked itself after 30 minutes. Type your password once to unlock it."
+  },
+  "cancel": {
+    "message": "Cancel"
+  },
+  "err_open_wallet": {
+    "message": "Please open your wallet once on pepe.coffee first."
+  },
+  "err_wrong_pw": {
+    "message": "That password doesn’t open your wallet. Check it and try again."
+  },
+  "err_pay_prepare": {
+    "message": "The payment couldn’t be prepared: {msg}"
+  },
+  "err_pay_send": {
+    "message": "The payment couldn’t be sent. Nothing was sent."
+  },
+  "login": {
+    "message": "Log in"
+  },
+  "name_or_email": {
+    "message": "Name or email"
+  },
+  "logging_in": {
+    "message": "Logging in…"
+  },
+  "login_title": {
+    "message": "Log in to pepe.coffee"
+  },
+  "login_lead_airdrop": {
+    "message": "Your airdrop is paid from your pepe.coffee wallet."
+  },
+  "login_lead_tip": {
+    "message": "Then you can tip from your wallet in one click."
+  },
+  "pw_secure": {
+    "message": "Your password never leaves this device."
+  },
+  "no_account": {
+    "message": "No account yet? <a1>Create one for free</a1>"
+  },
+  "login_again": {
+    "message": "Please log in again."
+  },
+  "one_moment": {
+    "message": "One moment…"
+  },
+  "qr_aria": {
+    "message": "QR code for your wallet app"
+  },
+  "copy": {
+    "message": "Copy"
+  },
+  "waiting": {
+    "message": "Waiting for your payment…"
+  },
+  "send_exactly": {
+    "message": "Send exactly"
+  },
+  "pay_why": {
+    "message": "The last digits link your payment to your message."
+  },
+  "to_address": {
+    "message": "To address"
+  },
+  "open_wallet_app": {
+    "message": "Open in wallet app"
+  },
+  "expired": {
+    "message": "This payment request expired."
+  },
+  "start_again": {
+    "message": "Start again"
+  },
+  "thanks": {
+    "message": "Thank you!"
+  },
+  "thanks_body": {
+    "message": "{amount} on the way to {name}. It usually arrives within a minute."
+  },
+  "done": {
+    "message": "Done"
+  },
+  "view_tx": {
+    "message": "View the transaction"
+  },
+  "nf_invite_reddit": {
+    "message": "Send them an invite"
+  },
+  "nf_invite_x": {
+    "message": "Invite them in a post"
+  },
+  "nf_msg_lichess": {
+    "message": "Message them on Lichess"
+  },
+  "nf_copy": {
+    "message": "Copy invite message"
+  },
+  "nf_lead_chat": {
+    "message": "Invite them to create a free page, for example by pasting this message in their chat. As soon as they add their {platform} name, you can tip them right here."
+  },
+  "nf_lead_msg": {
+    "message": "Invite them to create a free page, for example by sending them this message. As soon as they add their {platform} name, you can tip them right here."
+  },
+  "nf_lead": {
+    "message": "Invite them to create a free page. As soon as they add their {platform} name, you can tip them right here."
+  },
+  "nf_not_yet": {
+    "message": "isn’t on pepe.coffee yet"
+  },
+  "no_address": {
+    "message": "{name} hasn’t added a Pepecoin address yet, so they can’t receive tips right now."
+  },
+  "ad_title": {
+    "message": "Airdrop to commenters"
+  },
+  "ad_no_wallet": {
+    "message": "An airdrop is paid from your pepe.coffee wallet. <a1>Create your free wallet</a1> first."
+  },
+  "ad_old_pw": {
+    "message": "Your wallet still uses its own old password. <a1>Open it once on pepe.coffee</a1> to switch it to your account password."
+  },
+  "ad_no_names": {
+    "message": "No commenters found on this page yet. Scroll down so the comments load, then try again."
+  },
+  "ad_checking": {
+    "message": "Checking {n} commenters…"
+  },
+  "try_again": {
+    "message": "Try again"
+  },
+  "ad_too_small": {
+    "message": "That’s less than 0.01 PEP per person."
+  },
+  "ad_too_many": {
+    "message": "Your wallet has too many small payments for one airdrop. Try fewer people."
+  },
+  "ad_pick_btn": {
+    "message": "Pick at least one person"
+  },
+  "ad_lead_over": {
+    "message": "{n} of {total} commenters have a pepe.coffee page."
+  },
+  "ad_lead_one": {
+    "message": "{n} of {total} commenters has a pepe.coffee page."
+  },
+  "ad_lead_many": {
+    "message": "{n} of {total} commenters have a pepe.coffee page."
+  },
+  "ad_lead_none": {
+    "message": "None of the {total} commenters has a pepe.coffee page yet."
+  },
+  "ad_cap": {
+    "message": "One airdrop can reach up to {max} people, so the first {n} are included. Send a second airdrop for the other {over}."
+  },
+  "ad_missing_one": {
+    "message": "1 person has no page yet."
+  },
+  "ad_missing_many": {
+    "message": "{n} people have no page yet."
+  },
+  "ad_copy_invite": {
+    "message": "Copy invite comment"
+  },
+  "ad_split_aria": {
+    "message": "How to split"
+  },
+  "pep_each": {
+    "message": "PEP each"
+  },
+  "pep_total": {
+    "message": "PEP total"
+  },
+  "ad_same": {
+    "message": "Same for everyone"
+  },
+  "ad_split": {
+    "message": "Split a total"
+  },
+  "ad_msg_ph": {
+    "message": "Add a message for everyone (optional)"
+  },
+  "ad_include": {
+    "message": "Include {name}"
+  },
+  "show": {
+    "message": "Show"
+  },
+  "hide": {
+    "message": "Hide"
+  },
+  "ad_only_loaded": {
+    "message": "Only comments loaded on the page are included. Scroll or open more replies to add more people."
+  },
+  "ad_selected": {
+    "message": "{on} of {all} people selected"
+  },
+  "ad_needs": {
+    "message": "This airdrop needs {need} including the network fee, you have {have}. <a1>Top up</a1> or choose a smaller amount."
+  },
+  "ad_send_one": {
+    "message": "Send {total} to {n} person"
+  },
+  "ad_send_many": {
+    "message": "Send {total} to {n} people"
+  },
+  "your_balance": {
+    "message": "Your balance"
+  },
+  "err_ad_prepare": {
+    "message": "The airdrop couldn’t be prepared: {msg}"
+  },
+  "ad_check_again": {
+    "message": "Check the list again"
+  },
+  "err_ad_send": {
+    "message": "The airdrop couldn’t be sent. Nothing was sent."
+  },
+  "ad_sent": {
+    "message": "Airdrop sent!"
+  },
+  "ad_done_one": {
+    "message": "1 person gets {each}, {total} in total. It usually arrives within a minute."
+  },
+  "ad_done_many": {
+    "message": "{n} people get {each} each, {total} in total. It usually arrives within a minute."
+  },
+  "ad_tell_others": {
+    "message": "Tell the others how to join next time:"
+  },
+  "err_reload": {
+    "message": "Something went wrong. Please reload the page."
+  },
+  "verified": {
+    "message": "Verified"
+  },
+  "c_tip": {
+    "message": "Tip"
+  },
+  "c_tip_name": {
+    "message": "Tip {name}"
+  },
+  "c_tip_in": {
+    "message": "Tip {name} in Pepecoin"
+  },
+  "c_frame": {
+    "message": "Tip {name} with Pepecoin"
+  },
+  "c_airdrop_c": {
+    "message": "Airdrop to commenters"
+  },
+  "c_airdrop_r": {
+    "message": "Airdrop to repliers"
+  },
+  "c_airdrop_c_t": {
+    "message": "Airdrop to commenters with Pepecoin"
+  },
+  "c_airdrop_r_t": {
+    "message": "Airdrop to repliers with Pepecoin"
+  },
+  "c_toast": {
+    "message": "The pepe.coffee Tip Button was updated. Reload this page to tip."
+  },
+  "c_reload": {
+    "message": "Reload"
+  },
+  "c_close": {
+    "message": "Close"
+  },
+  "ext_name": {
+    "message": "pepe.coffee Tip Button"
+  },
+  "ext_desc": {
+    "message": "Tip creators in Pepecoin (PEP) right where you see them, or airdrop PEP to a whole thread. One click, free, non-custodial."
+  }
 }

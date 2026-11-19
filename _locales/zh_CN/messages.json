@@ -1,395 +1,395 @@
 {
- "panel_title": {
-  "message": "用 Pepecoin 打赏"
- },
- "copied": {
-  "message": "已复制"
- },
- "err_unreachable": {
-  "message": "目前无法连接 pepe.coffee。请检查网络连接后重试。"
- },
- "err_status": {
-  "message": "出错了（{status}）。请重试。"
- },
- "close": {
-  "message": "关闭"
- },
- "back": {
-  "message": "返回"
- },
- "logout": {
-  "message": "退出登录"
- },
- "foot_tagline": {
-  "message": "打赏直接进入对方的钱包"
- },
- "amount": {
-  "message": "金额"
- },
- "other": {
-  "message": "其他"
- },
- "amount_pep": {
-  "message": "PEP 金额"
- },
- "msg_ph": {
-  "message": "添加留言（可选）"
- },
- "message": {
-  "message": "留言"
- },
- "anon_title": {
-  "message": "匿名发送"
- },
- "anon_sub": {
-  "message": "收款人看不到你的名字。付款本身仍会显示在公开的区块链上。"
- },
- "send_tip": {
-  "message": "发送打赏"
- },
- "pay_other": {
-  "message": "使用其他钱包支付"
- },
- "pay_pepe": {
-  "message": "使用 pepe.coffee 钱包支付"
- },
- "new_here": {
-  "message": "第一次来？<a1>创建免费钱包</a1>"
- },
- "tip_one_click": {
-  "message": "用免费的 pepe.coffee 钱包一键打赏。<a1>创建你的钱包</a1>"
- },
- "old_pw_tip": {
-  "message": "你的钱包仍在使用它自己的旧密码。<a1>请先在 pepe.coffee 上打开一次</a1>，切换为你的账户密码。之后就可以直接在这里支付了。"
- },
- "opening_wallet": {
-  "message": "正在打开你的钱包…"
- },
- "own_page": {
-  "message": "这是你自己的页面。你的打赏最好留给别人！"
- },
- "choose_amount": {
-  "message": "请选择金额"
- },
- "not_enough": {
-  "message": "PEP 不足"
- },
- "not_enough_warn": {
-  "message": "你的钱包里有 {have}，不足以支付 {amount} 加网络费用。<a1>请充值</a1>或使用其他钱包支付。"
- },
- "too_big": {
-  "message": "金额过大"
- },
- "too_big_warn": {
-  "message": "你的钱包里小额付款太多，无法一次发送。请试试较小的金额。"
- },
- "send_amount": {
-  "message": "发送 {amount}"
- },
- "balance": {
-  "message": "余额"
- },
- "network_fee": {
-  "message": "网络费用"
- },
- "pay_other_instead": {
-  "message": "改用其他钱包支付"
- },
- "err_cant_receive": {
-  "message": "该页面目前无法收款。"
- },
- "sending": {
-  "message": "正在发送…"
- },
- "pw_ph": {
-  "message": "你的 pepe.coffee 密码"
- },
- "password": {
-  "message": "密码"
- },
- "unlock_send": {
-  "message": "解锁并发送 {amount}"
- },
- "unlocking": {
-  "message": "正在解锁…"
- },
- "err_prepare_pw": {
-  "message": "浏览器无法处理密码。请重试。"
- },
- "locked_info": {
-  "message": "你的钱包在 30 分钟后自动锁定了。输入一次密码即可解锁。"
- },
- "cancel": {
-  "message": "取消"
- },
- "err_open_wallet": {
-  "message": "请先在 pepe.coffee 上打开一次你的钱包。"
- },
- "err_wrong_pw": {
-  "message": "这个密码无法打开你的钱包。请检查后重试。"
- },
- "err_pay_prepare": {
-  "message": "无法准备这笔付款：{msg}"
- },
- "err_pay_send": {
-  "message": "无法发送这笔付款。没有发送任何内容。"
- },
- "login": {
-  "message": "登录"
- },
- "name_or_email": {
-  "message": "用户名或邮箱"
- },
- "logging_in": {
-  "message": "正在登录…"
- },
- "login_title": {
-  "message": "登录 pepe.coffee"
- },
- "login_lead_airdrop": {
-  "message": "你的空投将由你的 pepe.coffee 钱包支付。"
- },
- "login_lead_tip": {
-  "message": "登录后即可从你的钱包一键打赏。"
- },
- "pw_secure": {
-  "message": "你的密码不会离开这台设备。"
- },
- "no_account": {
-  "message": "还没有账户？<a1>免费创建一个</a1>"
- },
- "login_again": {
-  "message": "请重新登录。"
- },
- "one_moment": {
-  "message": "请稍候…"
- },
- "qr_aria": {
-  "message": "用于你的钱包应用的二维码"
- },
- "copy": {
-  "message": "复制"
- },
- "waiting": {
-  "message": "正在等待你的付款…"
- },
- "send_exactly": {
-  "message": "请精确发送"
- },
- "pay_why": {
-  "message": "末尾的几位数字会把你的付款与你的留言关联起来。"
- },
- "to_address": {
-  "message": "收款地址"
- },
- "open_wallet_app": {
-  "message": "在钱包应用中打开"
- },
- "expired": {
-  "message": "这个付款请求已过期。"
- },
- "start_again": {
-  "message": "重新开始"
- },
- "thanks": {
-  "message": "谢谢！"
- },
- "thanks_body": {
-  "message": "{amount} 正在发送给 {name}。通常一分钟内到账。"
- },
- "done": {
-  "message": "完成"
- },
- "view_tx": {
-  "message": "查看交易"
- },
- "nf_invite_reddit": {
-  "message": "发送邀请"
- },
- "nf_invite_x": {
-  "message": "在帖子中邀请"
- },
- "nf_msg_lichess": {
-  "message": "在 Lichess 上给对方发消息"
- },
- "nf_copy": {
-  "message": "复制邀请消息"
- },
- "nf_lead_chat": {
-  "message": "邀请对方创建免费页面，例如把这条消息粘贴到对方的聊天中。对方一添加自己的 {platform} 名称，你就可以直接在这里打赏。"
- },
- "nf_lead_msg": {
-  "message": "邀请对方创建免费页面，例如把这条消息发给对方。对方一添加自己的 {platform} 名称，你就可以直接在这里打赏。"
- },
- "nf_lead": {
-  "message": "邀请对方创建免费页面。对方一添加自己的 {platform} 名称，你就可以直接在这里打赏。"
- },
- "nf_not_yet": {
-  "message": "还没有加入 pepe.coffee"
- },
- "no_address": {
-  "message": "{name} 还没有添加 Pepecoin 地址，因此目前无法收到打赏。"
- },
- "ad_title": {
-  "message": "向评论者空投"
- },
- "ad_no_wallet": {
-  "message": "空投由你的 pepe.coffee 钱包支付。请先<a1>创建你的免费钱包</a1>。"
- },
- "ad_old_pw": {
-  "message": "你的钱包仍在使用它自己的旧密码。<a1>请先在 pepe.coffee 上打开一次</a1>，切换为你的账户密码。"
- },
- "ad_no_names": {
-  "message": "此页面上还没有找到评论者。请向下滚动以加载评论，然后重试。"
- },
- "ad_checking": {
-  "message": "正在检查 {n} 位评论者…"
- },
- "try_again": {
-  "message": "重试"
- },
- "ad_too_small": {
-  "message": "这低于每人 0.01 PEP。"
- },
- "ad_too_many": {
-  "message": "你的钱包里小额付款太多，无法一次空投。请减少人数再试。"
- },
- "ad_pick_btn": {
-  "message": "请至少选择一人"
- },
- "ad_lead_over": {
-  "message": "{total} 位评论者中有 {n} 位拥有 pepe.coffee 页面。"
- },
- "ad_lead_one": {
-  "message": "{total} 位评论者中有 {n} 位拥有 pepe.coffee 页面。"
- },
- "ad_lead_many": {
-  "message": "{total} 位评论者中有 {n} 位拥有 pepe.coffee 页面。"
- },
- "ad_lead_none": {
-  "message": "{total} 位评论者中还没有人拥有 pepe.coffee 页面。"
- },
- "ad_cap": {
-  "message": "一次空投最多可覆盖 {max} 人，因此包含了前 {n} 人。请为其余 {over} 人再发一次空投。"
- },
- "ad_missing_one": {
-  "message": "1 人还没有页面。"
- },
- "ad_missing_many": {
-  "message": "{n} 人还没有页面。"
- },
- "ad_copy_invite": {
-  "message": "复制邀请评论"
- },
- "ad_split_aria": {
-  "message": "分配方式"
- },
- "pep_each": {
-  "message": "PEP／人"
- },
- "pep_total": {
-  "message": "PEP 总额"
- },
- "ad_same": {
-  "message": "人人相同"
- },
- "ad_split": {
-  "message": "平分总额"
- },
- "ad_msg_ph": {
-  "message": "给所有人留言（可选）"
- },
- "ad_include": {
-  "message": "包含 {name}"
- },
- "show": {
-  "message": "显示"
- },
- "hide": {
-  "message": "隐藏"
- },
- "ad_only_loaded": {
-  "message": "只包含页面上已加载的评论。滚动页面或展开更多回复可添加更多人。"
- },
- "ad_selected": {
-  "message": "已选择 {on}／{all} 人"
- },
- "ad_needs": {
-  "message": "此次空投含网络费用共需 {need}，而你有 {have}。<a1>请充值</a1>或选择较小的金额。"
- },
- "ad_send_one": {
-  "message": "向 {n} 人发送 {total}"
- },
- "ad_send_many": {
-  "message": "向 {n} 人发送 {total}"
- },
- "your_balance": {
-  "message": "你的余额"
- },
- "err_ad_prepare": {
-  "message": "无法准备空投：{msg}"
- },
- "ad_check_again": {
-  "message": "重新检查名单"
- },
- "err_ad_send": {
-  "message": "无法发送空投。没有发送任何内容。"
- },
- "ad_sent": {
-  "message": "空投已发送！"
- },
- "ad_done_one": {
-  "message": "1 人获得 {each}，共 {total}。通常一分钟内到账。"
- },
- "ad_done_many": {
-  "message": "{n} 人每人获得 {each}，共 {total}。通常一分钟内到账。"
- },
- "ad_tell_others": {
-  "message": "告诉其他人下次如何参与："
- },
- "err_reload": {
-  "message": "出错了。请重新加载页面。"
- },
- "verified": {
-  "message": "已验证"
- },
- "c_tip": {
-  "message": "打赏"
- },
- "c_tip_name": {
-  "message": "打赏 {name}"
- },
- "c_tip_in": {
-  "message": "用 Pepecoin 打赏 {name}"
- },
- "c_frame": {
-  "message": "用 Pepecoin 打赏 {name}"
- },
- "c_airdrop_c": {
-  "message": "向评论者空投"
- },
- "c_airdrop_r": {
-  "message": "向回复者空投"
- },
- "c_airdrop_c_t": {
-  "message": "用 Pepecoin 向评论者空投"
- },
- "c_airdrop_r_t": {
-  "message": "用 Pepecoin 向回复者空投"
- },
- "c_toast": {
-  "message": "pepe.coffee Tip Button 已更新。请刷新此页面后再打赏。"
- },
- "c_reload": {
-  "message": "刷新"
- },
- "c_close": {
-  "message": "关闭"
- },
- "ext_name": {
-  "message": "pepe.coffee Tip Button"
- },
- "ext_desc": {
-  "message": "在 Reddit、X、Twitch、Kick、YouTube、Rumble、GitHub 等平台用 Pepecoin 打赏，或为整个帖子空投 PEP。一键完成。"
- }
+  "panel_title": {
+    "message": "用 Pepecoin 打赏"
+  },
+  "copied": {
+    "message": "已复制"
+  },
+  "err_unreachable": {
+    "message": "目前无法连接 pepe.coffee。请检查网络连接后重试。"
+  },
+  "err_status": {
+    "message": "出错了（{status}）。请重试。"
+  },
+  "close": {
+    "message": "关闭"
+  },
+  "back": {
+    "message": "返回"
+  },
+  "logout": {
+    "message": "退出登录"
+  },
+  "foot_tagline": {
+    "message": "打赏直接进入对方的钱包"
+  },
+  "amount": {
+    "message": "金额"
+  },
+  "other": {
+    "message": "其他"
+  },
+  "amount_pep": {
+    "message": "PEP 金额"
+  },
+  "msg_ph": {
+    "message": "添加留言（可选）"
+  },
+  "message": {
+    "message": "留言"
+  },
+  "anon_title": {
+    "message": "匿名发送"
+  },
+  "anon_sub": {
+    "message": "收款人看不到你的名字。付款本身仍会显示在公开的区块链上。"
+  },
+  "send_tip": {
+    "message": "发送打赏"
+  },
+  "pay_other": {
+    "message": "使用其他钱包支付"
+  },
+  "pay_pepe": {
+    "message": "使用 pepe.coffee 钱包支付"
+  },
+  "new_here": {
+    "message": "第一次来？<a1>创建免费钱包</a1>"
+  },
+  "tip_one_click": {
+    "message": "用免费的 pepe.coffee 钱包一键打赏。<a1>创建你的钱包</a1>"
+  },
+  "old_pw_tip": {
+    "message": "你的钱包仍在使用它自己的旧密码。<a1>请先在 pepe.coffee 上打开一次</a1>，切换为你的账户密码。之后就可以直接在这里支付了。"
+  },
+  "opening_wallet": {
+    "message": "正在打开你的钱包…"
+  },
+  "own_page": {
+    "message": "这是你自己的页面。你的打赏最好留给别人！"
+  },
+  "choose_amount": {
+    "message": "请选择金额"
+  },
+  "not_enough": {
+    "message": "PEP 不足"
+  },
+  "not_enough_warn": {
+    "message": "你的钱包里有 {have}，不足以支付 {amount} 加网络费用。<a1>请充值</a1>或使用其他钱包支付。"
+  },
+  "too_big": {
+    "message": "金额过大"
+  },
+  "too_big_warn": {
+    "message": "你的钱包里小额付款太多，无法一次发送。请试试较小的金额。"
+  },
+  "send_amount": {
+    "message": "发送 {amount}"
+  },
+  "balance": {
+    "message": "余额"
+  },
+  "network_fee": {
+    "message": "网络费用"
+  },
+  "pay_other_instead": {
+    "message": "改用其他钱包支付"
+  },
+  "err_cant_receive": {
+    "message": "该页面目前无法收款。"
+  },
+  "sending": {
+    "message": "正在发送…"
+  },
+  "pw_ph": {
+    "message": "你的 pepe.coffee 密码"
+  },
+  "password": {
+    "message": "密码"
+  },
+  "unlock_send": {
+    "message": "解锁并发送 {amount}"
+  },
+  "unlocking": {
+    "message": "正在解锁…"
+  },
+  "err_prepare_pw": {
+    "message": "浏览器无法处理密码。请重试。"
+  },
+  "locked_info": {
+    "message": "你的钱包在 30 分钟后自动锁定了。输入一次密码即可解锁。"
+  },
+  "cancel": {
+    "message": "取消"
+  },
+  "err_open_wallet": {
+    "message": "请先在 pepe.coffee 上打开一次你的钱包。"
+  },
+  "err_wrong_pw": {
+    "message": "这个密码无法打开你的钱包。请检查后重试。"
+  },
+  "err_pay_prepare": {
+    "message": "无法准备这笔付款：{msg}"
+  },
+  "err_pay_send": {
+    "message": "无法发送这笔付款。没有发送任何内容。"
+  },
+  "login": {
+    "message": "登录"
+  },
+  "name_or_email": {
+    "message": "用户名或邮箱"
+  },
+  "logging_in": {
+    "message": "正在登录…"
+  },
+  "login_title": {
+    "message": "登录 pepe.coffee"
+  },
+  "login_lead_airdrop": {
+    "message": "你的空投将由你的 pepe.coffee 钱包支付。"
+  },
+  "login_lead_tip": {
+    "message": "登录后即可从你的钱包一键打赏。"
+  },
+  "pw_secure": {
+    "message": "你的密码不会离开这台设备。"
+  },
+  "no_account": {
+    "message": "还没有账户？<a1>免费创建一个</a1>"
+  },
+  "login_again": {
+    "message": "请重新登录。"
+  },
+  "one_moment": {
+    "message": "请稍候…"
+  },
+  "qr_aria": {
+    "message": "用于你的钱包应用的二维码"
+  },
+  "copy": {
+    "message": "复制"
+  },
+  "waiting": {
+    "message": "正在等待你的付款…"
+  },
+  "send_exactly": {
+    "message": "请精确发送"
+  },
+  "pay_why": {
+    "message": "末尾的几位数字会把你的付款与你的留言关联起来。"
+  },
+  "to_address": {
+    "message": "收款地址"
+  },
+  "open_wallet_app": {
+    "message": "在钱包应用中打开"
+  },
+  "expired": {
+    "message": "这个付款请求已过期。"
+  },
+  "start_again": {
+    "message": "重新开始"
+  },
+  "thanks": {
+    "message": "谢谢！"
+  },
+  "thanks_body": {
+    "message": "{amount} 正在发送给 {name}。通常一分钟内到账。"
+  },
+  "done": {
+    "message": "完成"
+  },
+  "view_tx": {
+    "message": "查看交易"
+  },
+  "nf_invite_reddit": {
+    "message": "发送邀请"
+  },
+  "nf_invite_x": {
+    "message": "在帖子中邀请"
+  },
+  "nf_msg_lichess": {
+    "message": "在 Lichess 上给对方发消息"
+  },
+  "nf_copy": {
+    "message": "复制邀请消息"
+  },
+  "nf_lead_chat": {
+    "message": "邀请对方创建免费页面，例如把这条消息粘贴到对方的聊天中。对方一添加自己的 {platform} 名称，你就可以直接在这里打赏。"
+  },
+  "nf_lead_msg": {
+    "message": "邀请对方创建免费页面，例如把这条消息发给对方。对方一添加自己的 {platform} 名称，你就可以直接在这里打赏。"
+  },
+  "nf_lead": {
+    "message": "邀请对方创建免费页面。对方一添加自己的 {platform} 名称，你就可以直接在这里打赏。"
+  },
+  "nf_not_yet": {
+    "message": "还没有加入 pepe.coffee"
+  },
+  "no_address": {
+    "message": "{name} 还没有添加 Pepecoin 地址，因此目前无法收到打赏。"
+  },
+  "ad_title": {
+    "message": "向评论者空投"
+  },
+  "ad_no_wallet": {
+    "message": "空投由你的 pepe.coffee 钱包支付。请先<a1>创建你的免费钱包</a1>。"
+  },
+  "ad_old_pw": {
+    "message": "你的钱包仍在使用它自己的旧密码。<a1>请先在 pepe.coffee 上打开一次</a1>，切换为你的账户密码。"
+  },
+  "ad_no_names": {
+    "message": "此页面上还没有找到评论者。请向下滚动以加载评论，然后重试。"
+  },
+  "ad_checking": {
+    "message": "正在检查 {n} 位评论者…"
+  },
+  "try_again": {
+    "message": "重试"
+  },
+  "ad_too_small": {
+    "message": "这低于每人 0.01 PEP。"
+  },
+  "ad_too_many": {
+    "message": "你的钱包里小额付款太多，无法一次空投。请减少人数再试。"
+  },
+  "ad_pick_btn": {
+    "message": "请至少选择一人"
+  },
+  "ad_lead_over": {
+    "message": "{total} 位评论者中有 {n} 位拥有 pepe.coffee 页面。"
+  },
+  "ad_lead_one": {
+    "message": "{total} 位评论者中有 {n} 位拥有 pepe.coffee 页面。"
+  },
+  "ad_lead_many": {
+    "message": "{total} 位评论者中有 {n} 位拥有 pepe.coffee 页面。"
+  },
+  "ad_lead_none": {
+    "message": "{total} 位评论者中还没有人拥有 pepe.coffee 页面。"
+  },
+  "ad_cap": {
+    "message": "一次空投最多可覆盖 {max} 人，因此包含了前 {n} 人。请为其余 {over} 人再发一次空投。"
+  },
+  "ad_missing_one": {
+    "message": "1 人还没有页面。"
+  },
+  "ad_missing_many": {
+    "message": "{n} 人还没有页面。"
+  },
+  "ad_copy_invite": {
+    "message": "复制邀请评论"
+  },
+  "ad_split_aria": {
+    "message": "分配方式"
+  },
+  "pep_each": {
+    "message": "PEP／人"
+  },
+  "pep_total": {
+    "message": "PEP 总额"
+  },
+  "ad_same": {
+    "message": "人人相同"
+  },
+  "ad_split": {
+    "message": "平分总额"
+  },
+  "ad_msg_ph": {
+    "message": "给所有人留言（可选）"
+  },
+  "ad_include": {
+    "message": "包含 {name}"
+  },
+  "show": {
+    "message": "显示"
+  },
+  "hide": {
+    "message": "隐藏"
+  },
+  "ad_only_loaded": {
+    "message": "只包含页面上已加载的评论。滚动页面或展开更多回复可添加更多人。"
+  },
+  "ad_selected": {
+    "message": "已选择 {on}／{all} 人"
+  },
+  "ad_needs": {
+    "message": "此次空投含网络费用共需 {need}，而你有 {have}。<a1>请充值</a1>或选择较小的金额。"
+  },
+  "ad_send_one": {
+    "message": "向 {n} 人发送 {total}"
+  },
+  "ad_send_many": {
+    "message": "向 {n} 人发送 {total}"
+  },
+  "your_balance": {
+    "message": "你的余额"
+  },
+  "err_ad_prepare": {
+    "message": "无法准备空投：{msg}"
+  },
+  "ad_check_again": {
+    "message": "重新检查名单"
+  },
+  "err_ad_send": {
+    "message": "无法发送空投。没有发送任何内容。"
+  },
+  "ad_sent": {
+    "message": "空投已发送！"
+  },
+  "ad_done_one": {
+    "message": "1 人获得 {each}，共 {total}。通常一分钟内到账。"
+  },
+  "ad_done_many": {
+    "message": "{n} 人每人获得 {each}，共 {total}。通常一分钟内到账。"
+  },
+  "ad_tell_others": {
+    "message": "告诉其他人下次如何参与："
+  },
+  "err_reload": {
+    "message": "出错了。请重新加载页面。"
+  },
+  "verified": {
+    "message": "已验证"
+  },
+  "c_tip": {
+    "message": "打赏"
+  },
+  "c_tip_name": {
+    "message": "打赏 {name}"
+  },
+  "c_tip_in": {
+    "message": "用 Pepecoin 打赏 {name}"
+  },
+  "c_frame": {
+    "message": "用 Pepecoin 打赏 {name}"
+  },
+  "c_airdrop_c": {
+    "message": "向评论者空投"
+  },
+  "c_airdrop_r": {
+    "message": "向回复者空投"
+  },
+  "c_airdrop_c_t": {
+    "message": "用 Pepecoin 向评论者空投"
+  },
+  "c_airdrop_r_t": {
+    "message": "用 Pepecoin 向回复者空投"
+  },
+  "c_toast": {
+    "message": "pepe.coffee Tip Button 已更新。请刷新此页面后再打赏。"
+  },
+  "c_reload": {
+    "message": "刷新"
+  },
+  "c_close": {
+    "message": "关闭"
+  },
+  "ext_name": {
+    "message": "pepe.coffee Tip Button"
+  },
+  "ext_desc": {
+    "message": "在你看到创作者的地方直接用 Pepecoin (PEP) 打赏，或向整个帖子的评论者空投 PEP。一键完成，免费。"
+  }
 }

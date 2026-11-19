@@ -1,395 +1,395 @@
 {
- "panel_title": {
-  "message": "Pepecoin ile bahşiş ver"
- },
- "copied": {
-  "message": "Kopyalandı"
- },
- "err_unreachable": {
-  "message": "pepe.coffee şu anda erişilemiyor. Bağlantını kontrol edip tekrar dene."
- },
- "err_status": {
-  "message": "Bir şeyler ters gitti ({status}). Lütfen tekrar dene."
- },
- "close": {
-  "message": "Kapat"
- },
- "back": {
-  "message": "Geri"
- },
- "logout": {
-  "message": "Çıkış yap"
- },
- "foot_tagline": {
-  "message": "Bahşişler doğrudan cüzdanına gider"
- },
- "amount": {
-  "message": "Miktar"
- },
- "other": {
-  "message": "Diğer"
- },
- "amount_pep": {
-  "message": "PEP cinsinden miktar"
- },
- "msg_ph": {
-  "message": "Bir mesaj ekle (isteğe bağlı)"
- },
- "message": {
-  "message": "Mesaj"
- },
- "anon_title": {
-  "message": "Anonim gönder"
- },
- "anon_sub": {
-  "message": "Adın alıcıya gösterilmez. Ödemenin kendisi herkese açık blokzincirinde görünür kalır."
- },
- "send_tip": {
-  "message": "Bahşiş gönder"
- },
- "pay_other": {
-  "message": "Başka bir cüzdanla öde"
- },
- "pay_pepe": {
-  "message": "pepe.coffee cüzdanıyla öde"
- },
- "new_here": {
-  "message": "Burada yeni misin? <a1>Ücretsiz cüzdan oluştur</a1>"
- },
- "tip_one_click": {
-  "message": "Ücretsiz bir pepe.coffee cüzdanıyla tek tıkla bahşiş ver. <a1>Cüzdanını oluştur</a1>"
- },
- "old_pw_tip": {
-  "message": "Cüzdanın hâlâ kendi eski şifresini kullanıyor. Hesap şifrene geçirmek için <a1>onu bir kez pepe.coffee’de aç</a1>. Sonra ödeme doğrudan burada çalışır."
- },
- "opening_wallet": {
-  "message": "Cüzdanın açılıyor…"
- },
- "own_page": {
-  "message": "Bu senin kendi sayfan. Bahşişlerini başkalarına vermek daha iyi!"
- },
- "choose_amount": {
-  "message": "Bir miktar seç"
- },
- "not_enough": {
-  "message": "Yetersiz PEP"
- },
- "not_enough_warn": {
-  "message": "Cüzdanında {have} var, bu {amount} artı ağ ücreti için yeterli değil. <a1>Bakiye yükle</a1> veya başka bir cüzdanla öde."
- },
- "too_big": {
-  "message": "Miktar çok büyük"
- },
- "too_big_warn": {
-  "message": "Cüzdanında bunu tek seferde göndermek için çok fazla küçük ödeme var. Daha küçük bir miktar dene."
- },
- "send_amount": {
-  "message": "{amount} gönder"
- },
- "balance": {
-  "message": "Bakiye"
- },
- "network_fee": {
-  "message": "Ağ ücreti"
- },
- "pay_other_instead": {
-  "message": "Bunun yerine başka bir cüzdanla öde"
- },
- "err_cant_receive": {
-  "message": "Bu sayfa şu anda ödeme alamıyor."
- },
- "sending": {
-  "message": "Gönderiliyor…"
- },
- "pw_ph": {
-  "message": "pepe.coffee şifren"
- },
- "password": {
-  "message": "Şifre"
- },
- "unlock_send": {
-  "message": "Kilidi aç ve {amount} gönder"
- },
- "unlocking": {
-  "message": "Kilit açılıyor…"
- },
- "err_prepare_pw": {
-  "message": "Tarayıcın şifreyi hazırlayamadı. Lütfen tekrar dene."
- },
- "locked_info": {
-  "message": "Cüzdanın 30 dakika sonra kendini kilitledi. Kilidini açmak için şifreni bir kez yaz."
- },
- "cancel": {
-  "message": "İptal"
- },
- "err_open_wallet": {
-  "message": "Lütfen önce cüzdanını bir kez pepe.coffee’de aç."
- },
- "err_wrong_pw": {
-  "message": "Bu şifre cüzdanını açmıyor. Kontrol edip tekrar dene."
- },
- "err_pay_prepare": {
-  "message": "Ödeme hazırlanamadı: {msg}"
- },
- "err_pay_send": {
-  "message": "Ödeme gönderilemedi. Hiçbir şey gönderilmedi."
- },
- "login": {
-  "message": "Giriş yap"
- },
- "name_or_email": {
-  "message": "Ad veya e-posta"
- },
- "logging_in": {
-  "message": "Giriş yapılıyor…"
- },
- "login_title": {
-  "message": "pepe.coffee’ye giriş yap"
- },
- "login_lead_airdrop": {
-  "message": "Airdrop’un pepe.coffee cüzdanından ödenir."
- },
- "login_lead_tip": {
-  "message": "Sonra cüzdanından tek tıkla bahşiş verebilirsin."
- },
- "pw_secure": {
-  "message": "Şifren bu cihazdan hiç çıkmaz."
- },
- "no_account": {
-  "message": "Henüz hesabın yok mu? <a1>Ücretsiz oluştur</a1>"
- },
- "login_again": {
-  "message": "Lütfen tekrar giriş yap."
- },
- "one_moment": {
-  "message": "Bir saniye…"
- },
- "qr_aria": {
-  "message": "Cüzdan uygulaman için QR kod"
- },
- "copy": {
-  "message": "Kopyala"
- },
- "waiting": {
-  "message": "Ödemen bekleniyor…"
- },
- "send_exactly": {
-  "message": "Tam olarak şunu gönder"
- },
- "pay_why": {
-  "message": "Son basamaklar ödemeni mesajınla eşleştirir."
- },
- "to_address": {
-  "message": "Adrese"
- },
- "open_wallet_app": {
-  "message": "Cüzdan uygulamasında aç"
- },
- "expired": {
-  "message": "Bu ödeme isteğinin süresi doldu."
- },
- "start_again": {
-  "message": "Yeniden başla"
- },
- "thanks": {
-  "message": "Teşekkürler!"
- },
- "thanks_body": {
-  "message": "{amount}, {name} kişisine gidiyor. Genellikle bir dakika içinde ulaşır."
- },
- "done": {
-  "message": "Tamam"
- },
- "view_tx": {
-  "message": "İşlemi görüntüle"
- },
- "nf_invite_reddit": {
-  "message": "Davet gönder"
- },
- "nf_invite_x": {
-  "message": "Bir gönderide davet et"
- },
- "nf_msg_lichess": {
-  "message": "Lichess’te mesaj gönder"
- },
- "nf_copy": {
-  "message": "Davet mesajını kopyala"
- },
- "nf_lead_chat": {
-  "message": "Onu ücretsiz bir sayfa oluşturmaya davet et, örneğin bu mesajı sohbetine yapıştırarak. {platform} adını ekler eklemez ona doğrudan buradan bahşiş verebilirsin."
- },
- "nf_lead_msg": {
-  "message": "Onu ücretsiz bir sayfa oluşturmaya davet et, örneğin bu mesajı ona göndererek. {platform} adını ekler eklemez ona doğrudan buradan bahşiş verebilirsin."
- },
- "nf_lead": {
-  "message": "Onu ücretsiz bir sayfa oluşturmaya davet et. {platform} adını ekler eklemez ona doğrudan buradan bahşiş verebilirsin."
- },
- "nf_not_yet": {
-  "message": "henüz pepe.coffee’de değil"
- },
- "no_address": {
-  "message": "{name} henüz bir Pepecoin adresi eklemedi, bu yüzden şu anda bahşiş alamıyor."
- },
- "ad_title": {
-  "message": "Yorum yapanlara airdrop"
- },
- "ad_no_wallet": {
-  "message": "Bir airdrop pepe.coffee cüzdanından ödenir. Önce <a1>ücretsiz cüzdanını oluştur</a1>."
- },
- "ad_old_pw": {
-  "message": "Cüzdanın hâlâ kendi eski şifresini kullanıyor. Hesap şifrene geçirmek için <a1>onu bir kez pepe.coffee’de aç</a1>."
- },
- "ad_no_names": {
-  "message": "Bu sayfada henüz yorum yapan bulunamadı. Yorumların yüklenmesi için aşağı kaydır, sonra tekrar dene."
- },
- "ad_checking": {
-  "message": "{n} yorum yapan kontrol ediliyor…"
- },
- "try_again": {
-  "message": "Tekrar dene"
- },
- "ad_too_small": {
-  "message": "Bu, kişi başı 0,01 PEP’ten az."
- },
- "ad_too_many": {
-  "message": "Cüzdanında tek bir airdrop için çok fazla küçük ödeme var. Daha az kişiyle dene."
- },
- "ad_pick_btn": {
-  "message": "En az bir kişi seç"
- },
- "ad_lead_over": {
-  "message": "{total} yorum yapandan {n} kişinin pepe.coffee sayfası var."
- },
- "ad_lead_one": {
-  "message": "{total} yorum yapandan {n} kişinin pepe.coffee sayfası var."
- },
- "ad_lead_many": {
-  "message": "{total} yorum yapandan {n} kişinin pepe.coffee sayfası var."
- },
- "ad_lead_none": {
-  "message": "{total} yorum yapanın hiçbirinin henüz pepe.coffee sayfası yok."
- },
- "ad_cap": {
-  "message": "Bir airdrop en fazla {max} kişiye ulaşabilir, bu yüzden ilk {n} kişi dahil. Kalan {over} kişi için ikinci bir airdrop gönder."
- },
- "ad_missing_one": {
-  "message": "1 kişinin henüz sayfası yok."
- },
- "ad_missing_many": {
-  "message": "{n} kişinin henüz sayfası yok."
- },
- "ad_copy_invite": {
-  "message": "Davet yorumunu kopyala"
- },
- "ad_split_aria": {
-  "message": "Nasıl bölünsün"
- },
- "pep_each": {
-  "message": "PEP kişi başı"
- },
- "pep_total": {
-  "message": "PEP toplam"
- },
- "ad_same": {
-  "message": "Herkese eşit"
- },
- "ad_split": {
-  "message": "Toplamı böl"
- },
- "ad_msg_ph": {
-  "message": "Herkes için bir mesaj ekle (isteğe bağlı)"
- },
- "ad_include": {
-  "message": "{name} kişisini dahil et"
- },
- "show": {
-  "message": "Göster"
- },
- "hide": {
-  "message": "Gizle"
- },
- "ad_only_loaded": {
-  "message": "Yalnızca sayfada yüklenmiş yorumlar dahildir. Daha fazla kişi eklemek için kaydır veya daha fazla yanıt aç."
- },
- "ad_selected": {
-  "message": "{all} kişiden {on} kişi seçildi"
- },
- "ad_needs": {
-  "message": "Bu airdrop ağ ücreti dahil {need} gerektiriyor, sende {have} var. <a1>Bakiye yükle</a1> veya daha küçük bir miktar seç."
- },
- "ad_send_one": {
-  "message": "{total} tutarını {n} kişiye gönder"
- },
- "ad_send_many": {
-  "message": "{total} tutarını {n} kişiye gönder"
- },
- "your_balance": {
-  "message": "Bakiyen"
- },
- "err_ad_prepare": {
-  "message": "Airdrop hazırlanamadı: {msg}"
- },
- "ad_check_again": {
-  "message": "Listeyi tekrar kontrol et"
- },
- "err_ad_send": {
-  "message": "Airdrop gönderilemedi. Hiçbir şey gönderilmedi."
- },
- "ad_sent": {
-  "message": "Airdrop gönderildi!"
- },
- "ad_done_one": {
-  "message": "1 kişi {each} alıyor, toplam {total}. Genellikle bir dakika içinde ulaşır."
- },
- "ad_done_many": {
-  "message": "{n} kişi kişi başı {each} alıyor, toplam {total}. Genellikle bir dakika içinde ulaşır."
- },
- "ad_tell_others": {
-  "message": "Diğerlerine bir dahaki sefere nasıl katılacaklarını söyle:"
- },
- "err_reload": {
-  "message": "Bir şeyler ters gitti. Lütfen sayfayı yenile."
- },
- "verified": {
-  "message": "Doğrulanmış"
- },
- "c_tip": {
-  "message": "Bahşiş"
- },
- "c_tip_name": {
-  "message": "{name} için bahşiş"
- },
- "c_tip_in": {
-  "message": "{name} kişisine Pepecoin ile bahşiş ver"
- },
- "c_frame": {
-  "message": "{name} kişisine Pepecoin ile bahşiş ver"
- },
- "c_airdrop_c": {
-  "message": "Yorum yapanlara airdrop"
- },
- "c_airdrop_r": {
-  "message": "Yanıt verenlere airdrop"
- },
- "c_airdrop_c_t": {
-  "message": "Yorum yapanlara Pepecoin ile airdrop"
- },
- "c_airdrop_r_t": {
-  "message": "Yanıt verenlere Pepecoin ile airdrop"
- },
- "c_toast": {
-  "message": "pepe.coffee Tip Button güncellendi. Bahşiş vermek için bu sayfayı yenile."
- },
- "c_reload": {
-  "message": "Yenile"
- },
- "c_close": {
-  "message": "Kapat"
- },
- "ext_name": {
-  "message": "pepe.coffee Tip Button"
- },
- "ext_desc": {
-  "message": "Reddit, X, Twitch, Kick, YouTube, Rumble, GitHub ve daha fazlasında Pepecoin ile bahşiş ver ya da PEP airdrop’u yap. Tek tık."
- }
+  "panel_title": {
+    "message": "Pepecoin ile bahşiş ver"
+  },
+  "copied": {
+    "message": "Kopyalandı"
+  },
+  "err_unreachable": {
+    "message": "pepe.coffee şu anda erişilemiyor. Bağlantını kontrol edip tekrar dene."
+  },
+  "err_status": {
+    "message": "Bir şeyler ters gitti ({status}). Lütfen tekrar dene."
+  },
+  "close": {
+    "message": "Kapat"
+  },
+  "back": {
+    "message": "Geri"
+  },
+  "logout": {
+    "message": "Çıkış yap"
+  },
+  "foot_tagline": {
+    "message": "Bahşişler doğrudan cüzdanına gider"
+  },
+  "amount": {
+    "message": "Miktar"
+  },
+  "other": {
+    "message": "Diğer"
+  },
+  "amount_pep": {
+    "message": "PEP cinsinden miktar"
+  },
+  "msg_ph": {
+    "message": "Bir mesaj ekle (isteğe bağlı)"
+  },
+  "message": {
+    "message": "Mesaj"
+  },
+  "anon_title": {
+    "message": "Anonim gönder"
+  },
+  "anon_sub": {
+    "message": "Adın alıcıya gösterilmez. Ödemenin kendisi herkese açık blokzincirinde görünür kalır."
+  },
+  "send_tip": {
+    "message": "Bahşiş gönder"
+  },
+  "pay_other": {
+    "message": "Başka bir cüzdanla öde"
+  },
+  "pay_pepe": {
+    "message": "pepe.coffee cüzdanıyla öde"
+  },
+  "new_here": {
+    "message": "Burada yeni misin? <a1>Ücretsiz cüzdan oluştur</a1>"
+  },
+  "tip_one_click": {
+    "message": "Ücretsiz bir pepe.coffee cüzdanıyla tek tıkla bahşiş ver. <a1>Cüzdanını oluştur</a1>"
+  },
+  "old_pw_tip": {
+    "message": "Cüzdanın hâlâ kendi eski şifresini kullanıyor. Hesap şifrene geçirmek için <a1>onu bir kez pepe.coffee’de aç</a1>. Sonra ödeme doğrudan burada çalışır."
+  },
+  "opening_wallet": {
+    "message": "Cüzdanın açılıyor…"
+  },
+  "own_page": {
+    "message": "Bu senin kendi sayfan. Bahşişlerini başkalarına vermek daha iyi!"
+  },
+  "choose_amount": {
+    "message": "Bir miktar seç"
+  },
+  "not_enough": {
+    "message": "Yetersiz PEP"
+  },
+  "not_enough_warn": {
+    "message": "Cüzdanında {have} var, bu {amount} artı ağ ücreti için yeterli değil. <a1>Bakiye yükle</a1> veya başka bir cüzdanla öde."
+  },
+  "too_big": {
+    "message": "Miktar çok büyük"
+  },
+  "too_big_warn": {
+    "message": "Cüzdanında bunu tek seferde göndermek için çok fazla küçük ödeme var. Daha küçük bir miktar dene."
+  },
+  "send_amount": {
+    "message": "{amount} gönder"
+  },
+  "balance": {
+    "message": "Bakiye"
+  },
+  "network_fee": {
+    "message": "Ağ ücreti"
+  },
+  "pay_other_instead": {
+    "message": "Bunun yerine başka bir cüzdanla öde"
+  },
+  "err_cant_receive": {
+    "message": "Bu sayfa şu anda ödeme alamıyor."
+  },
+  "sending": {
+    "message": "Gönderiliyor…"
+  },
+  "pw_ph": {
+    "message": "pepe.coffee şifren"
+  },
+  "password": {
+    "message": "Şifre"
+  },
+  "unlock_send": {
+    "message": "Kilidi aç ve {amount} gönder"
+  },
+  "unlocking": {
+    "message": "Kilit açılıyor…"
+  },
+  "err_prepare_pw": {
+    "message": "Tarayıcın şifreyi hazırlayamadı. Lütfen tekrar dene."
+  },
+  "locked_info": {
+    "message": "Cüzdanın 30 dakika sonra kendini kilitledi. Kilidini açmak için şifreni bir kez yaz."
+  },
+  "cancel": {
+    "message": "İptal"
+  },
+  "err_open_wallet": {
+    "message": "Lütfen önce cüzdanını bir kez pepe.coffee’de aç."
+  },
+  "err_wrong_pw": {
+    "message": "Bu şifre cüzdanını açmıyor. Kontrol edip tekrar dene."
+  },
+  "err_pay_prepare": {
+    "message": "Ödeme hazırlanamadı: {msg}"
+  },
+  "err_pay_send": {
+    "message": "Ödeme gönderilemedi. Hiçbir şey gönderilmedi."
+  },
+  "login": {
+    "message": "Giriş yap"
+  },
+  "name_or_email": {
+    "message": "Ad veya e-posta"
+  },
+  "logging_in": {
+    "message": "Giriş yapılıyor…"
+  },
+  "login_title": {
+    "message": "pepe.coffee’ye giriş yap"
+  },
+  "login_lead_airdrop": {
+    "message": "Airdrop’un pepe.coffee cüzdanından ödenir."
+  },
+  "login_lead_tip": {
+    "message": "Sonra cüzdanından tek tıkla bahşiş verebilirsin."
+  },
+  "pw_secure": {
+    "message": "Şifren bu cihazdan hiç çıkmaz."
+  },
+  "no_account": {
+    "message": "Henüz hesabın yok mu? <a1>Ücretsiz oluştur</a1>"
+  },
+  "login_again": {
+    "message": "Lütfen tekrar giriş yap."
+  },
+  "one_moment": {
+    "message": "Bir saniye…"
+  },
+  "qr_aria": {
+    "message": "Cüzdan uygulaman için QR kod"
+  },
+  "copy": {
+    "message": "Kopyala"
+  },
+  "waiting": {
+    "message": "Ödemen bekleniyor…"
+  },
+  "send_exactly": {
+    "message": "Tam olarak şunu gönder"
+  },
+  "pay_why": {
+    "message": "Son basamaklar ödemeni mesajınla eşleştirir."
+  },
+  "to_address": {
+    "message": "Adrese"
+  },
+  "open_wallet_app": {
+    "message": "Cüzdan uygulamasında aç"
+  },
+  "expired": {
+    "message": "Bu ödeme isteğinin süresi doldu."
+  },
+  "start_again": {
+    "message": "Yeniden başla"
+  },
+  "thanks": {
+    "message": "Teşekkürler!"
+  },
+  "thanks_body": {
+    "message": "{amount}, {name} kişisine gidiyor. Genellikle bir dakika içinde ulaşır."
+  },
+  "done": {
+    "message": "Tamam"
+  },
+  "view_tx": {
+    "message": "İşlemi görüntüle"
+  },
+  "nf_invite_reddit": {
+    "message": "Davet gönder"
+  },
+  "nf_invite_x": {
+    "message": "Bir gönderide davet et"
+  },
+  "nf_msg_lichess": {
+    "message": "Lichess’te mesaj gönder"
+  },
+  "nf_copy": {
+    "message": "Davet mesajını kopyala"
+  },
+  "nf_lead_chat": {
+    "message": "Onu ücretsiz bir sayfa oluşturmaya davet et, örneğin bu mesajı sohbetine yapıştırarak. {platform} adını ekler eklemez ona doğrudan buradan bahşiş verebilirsin."
+  },
+  "nf_lead_msg": {
+    "message": "Onu ücretsiz bir sayfa oluşturmaya davet et, örneğin bu mesajı ona göndererek. {platform} adını ekler eklemez ona doğrudan buradan bahşiş verebilirsin."
+  },
+  "nf_lead": {
+    "message": "Onu ücretsiz bir sayfa oluşturmaya davet et. {platform} adını ekler eklemez ona doğrudan buradan bahşiş verebilirsin."
+  },
+  "nf_not_yet": {
+    "message": "henüz pepe.coffee’de değil"
+  },
+  "no_address": {
+    "message": "{name} henüz bir Pepecoin adresi eklemedi, bu yüzden şu anda bahşiş alamıyor."
+  },
+  "ad_title": {
+    "message": "Yorum yapanlara airdrop"
+  },
+  "ad_no_wallet": {
+    "message": "Bir airdrop pepe.coffee cüzdanından ödenir. Önce <a1>ücretsiz cüzdanını oluştur</a1>."
+  },
+  "ad_old_pw": {
+    "message": "Cüzdanın hâlâ kendi eski şifresini kullanıyor. Hesap şifrene geçirmek için <a1>onu bir kez pepe.coffee’de aç</a1>."
+  },
+  "ad_no_names": {
+    "message": "Bu sayfada henüz yorum yapan bulunamadı. Yorumların yüklenmesi için aşağı kaydır, sonra tekrar dene."
+  },
+  "ad_checking": {
+    "message": "{n} yorum yapan kontrol ediliyor…"
+  },
+  "try_again": {
+    "message": "Tekrar dene"
+  },
+  "ad_too_small": {
+    "message": "Bu, kişi başı 0,01 PEP’ten az."
+  },
+  "ad_too_many": {
+    "message": "Cüzdanında tek bir airdrop için çok fazla küçük ödeme var. Daha az kişiyle dene."
+  },
+  "ad_pick_btn": {
+    "message": "En az bir kişi seç"
+  },
+  "ad_lead_over": {
+    "message": "{total} yorum yapandan {n} kişinin pepe.coffee sayfası var."
+  },
+  "ad_lead_one": {
+    "message": "{total} yorum yapandan {n} kişinin pepe.coffee sayfası var."
+  },
+  "ad_lead_many": {
+    "message": "{total} yorum yapandan {n} kişinin pepe.coffee sayfası var."
+  },
+  "ad_lead_none": {
+    "message": "{total} yorum yapanın hiçbirinin henüz pepe.coffee sayfası yok."
+  },
+  "ad_cap": {
+    "message": "Bir airdrop en fazla {max} kişiye ulaşabilir, bu yüzden ilk {n} kişi dahil. Kalan {over} kişi için ikinci bir airdrop gönder."
+  },
+  "ad_missing_one": {
+    "message": "1 kişinin henüz sayfası yok."
+  },
+  "ad_missing_many": {
+    "message": "{n} kişinin henüz sayfası yok."
+  },
+  "ad_copy_invite": {
+    "message": "Davet yorumunu kopyala"
+  },
+  "ad_split_aria": {
+    "message": "Nasıl bölünsün"
+  },
+  "pep_each": {
+    "message": "PEP kişi başı"
+  },
+  "pep_total": {
+    "message": "PEP toplam"
+  },
+  "ad_same": {
+    "message": "Herkese eşit"
+  },
+  "ad_split": {
+    "message": "Toplamı böl"
+  },
+  "ad_msg_ph": {
+    "message": "Herkes için bir mesaj ekle (isteğe bağlı)"
+  },
+  "ad_include": {
+    "message": "{name} kişisini dahil et"
+  },
+  "show": {
+    "message": "Göster"
+  },
+  "hide": {
+    "message": "Gizle"
+  },
+  "ad_only_loaded": {
+    "message": "Yalnızca sayfada yüklenmiş yorumlar dahildir. Daha fazla kişi eklemek için kaydır veya daha fazla yanıt aç."
+  },
+  "ad_selected": {
+    "message": "{all} kişiden {on} kişi seçildi"
+  },
+  "ad_needs": {
+    "message": "Bu airdrop ağ ücreti dahil {need} gerektiriyor, sende {have} var. <a1>Bakiye yükle</a1> veya daha küçük bir miktar seç."
+  },
+  "ad_send_one": {
+    "message": "{total} tutarını {n} kişiye gönder"
+  },
+  "ad_send_many": {
+    "message": "{total} tutarını {n} kişiye gönder"
+  },
+  "your_balance": {
+    "message": "Bakiyen"
+  },
+  "err_ad_prepare": {
+    "message": "Airdrop hazırlanamadı: {msg}"
+  },
+  "ad_check_again": {
+    "message": "Listeyi tekrar kontrol et"
+  },
+  "err_ad_send": {
+    "message": "Airdrop gönderilemedi. Hiçbir şey gönderilmedi."
+  },
+  "ad_sent": {
+    "message": "Airdrop gönderildi!"
+  },
+  "ad_done_one": {
+    "message": "1 kişi {each} alıyor, toplam {total}. Genellikle bir dakika içinde ulaşır."
+  },
+  "ad_done_many": {
+    "message": "{n} kişi kişi başı {each} alıyor, toplam {total}. Genellikle bir dakika içinde ulaşır."
+  },
+  "ad_tell_others": {
+    "message": "Diğerlerine bir dahaki sefere nasıl katılacaklarını söyle:"
+  },
+  "err_reload": {
+    "message": "Bir şeyler ters gitti. Lütfen sayfayı yenile."
+  },
+  "verified": {
+    "message": "Doğrulanmış"
+  },
+  "c_tip": {
+    "message": "Bahşiş"
+  },
+  "c_tip_name": {
+    "message": "{name} için bahşiş"
+  },
+  "c_tip_in": {
+    "message": "{name} kişisine Pepecoin ile bahşiş ver"
+  },
+  "c_frame": {
+    "message": "{name} kişisine Pepecoin ile bahşiş ver"
+  },
+  "c_airdrop_c": {
+    "message": "Yorum yapanlara airdrop"
+  },
+  "c_airdrop_r": {
+    "message": "Yanıt verenlere airdrop"
+  },
+  "c_airdrop_c_t": {
+    "message": "Yorum yapanlara Pepecoin ile airdrop"
+  },
+  "c_airdrop_r_t": {
+    "message": "Yanıt verenlere Pepecoin ile airdrop"
+  },
+  "c_toast": {
+    "message": "pepe.coffee Tip Button güncellendi. Bahşiş vermek için bu sayfayı yenile."
+  },
+  "c_reload": {
+    "message": "Yenile"
+  },
+  "c_close": {
+    "message": "Kapat"
+  },
+  "ext_name": {
+    "message": "pepe.coffee Tip Button"
+  },
+  "ext_desc": {
+    "message": "İçerik üreticilerine Pepecoin (PEP) ile tam gördüğün yerde bahşiş ver ya da bir konuya PEP dağıt. Tek tık, ücretsiz."
+  }
 }

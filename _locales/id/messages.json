@@ -1,395 +1,395 @@
 {
- "panel_title": {
-  "message": "Beri tip dengan Pepecoin"
- },
- "copied": {
-  "message": "Disalin"
- },
- "err_unreachable": {
-  "message": "pepe.coffee tidak dapat dijangkau saat ini. Periksa koneksi Anda dan coba lagi."
- },
- "err_status": {
-  "message": "Terjadi kesalahan ({status}). Silakan coba lagi."
- },
- "close": {
-  "message": "Tutup"
- },
- "back": {
-  "message": "Kembali"
- },
- "logout": {
-  "message": "Keluar"
- },
- "foot_tagline": {
-  "message": "Tip langsung masuk ke wallet mereka"
- },
- "amount": {
-  "message": "Jumlah"
- },
- "other": {
-  "message": "Lainnya"
- },
- "amount_pep": {
-  "message": "Jumlah dalam PEP"
- },
- "msg_ph": {
-  "message": "Tambahkan pesan (opsional)"
- },
- "message": {
-  "message": "Pesan"
- },
- "anon_title": {
-  "message": "Kirim secara anonim"
- },
- "anon_sub": {
-  "message": "Nama Anda tidak akan ditampilkan kepada penerima. Pembayarannya sendiri tetap terlihat di blockchain publik."
- },
- "send_tip": {
-  "message": "Kirim tip"
- },
- "pay_other": {
-  "message": "Bayar dengan wallet lain"
- },
- "pay_pepe": {
-  "message": "Bayar dengan wallet pepe.coffee"
- },
- "new_here": {
-  "message": "Baru di sini? <a1>Buat wallet gratis</a1>"
- },
- "tip_one_click": {
-  "message": "Beri tip dengan satu klik memakai wallet pepe.coffee gratis. <a1>Buat wallet Anda</a1>"
- },
- "old_pw_tip": {
-  "message": "Wallet Anda masih memakai kata sandi lamanya sendiri. <a1>Buka sekali di pepe.coffee</a1> untuk beralih ke kata sandi akun Anda. Setelah itu, pembayaran bisa dilakukan langsung di sini."
- },
- "opening_wallet": {
-  "message": "Membuka wallet Anda…"
- },
- "own_page": {
-  "message": "Ini halaman Anda sendiri. Tip Anda lebih baik diberikan kepada orang lain!"
- },
- "choose_amount": {
-  "message": "Pilih jumlah"
- },
- "not_enough": {
-  "message": "PEP tidak cukup"
- },
- "not_enough_warn": {
-  "message": "Anda punya {have} di wallet, itu tidak cukup untuk {amount} ditambah biaya jaringan. <a1>Isi saldo</a1> atau bayar dengan wallet lain."
- },
- "too_big": {
-  "message": "Jumlah terlalu besar"
- },
- "too_big_warn": {
-  "message": "Wallet Anda memiliki terlalu banyak pembayaran kecil untuk mengirim ini sekaligus. Coba jumlah yang lebih kecil."
- },
- "send_amount": {
-  "message": "Kirim {amount}"
- },
- "balance": {
-  "message": "Saldo"
- },
- "network_fee": {
-  "message": "Biaya jaringan"
- },
- "pay_other_instead": {
-  "message": "Bayar dengan wallet lain saja"
- },
- "err_cant_receive": {
-  "message": "Halaman ini tidak dapat menerima pembayaran saat ini."
- },
- "sending": {
-  "message": "Mengirim…"
- },
- "pw_ph": {
-  "message": "Kata sandi pepe.coffee Anda"
- },
- "password": {
-  "message": "Kata sandi"
- },
- "unlock_send": {
-  "message": "Buka kunci dan kirim {amount}"
- },
- "unlocking": {
-  "message": "Membuka kunci…"
- },
- "err_prepare_pw": {
-  "message": "Browser Anda tidak dapat menyiapkan kata sandi. Silakan coba lagi."
- },
- "locked_info": {
-  "message": "Wallet Anda terkunci sendiri setelah 30 menit. Ketik kata sandi Anda sekali untuk membukanya."
- },
- "cancel": {
-  "message": "Batal"
- },
- "err_open_wallet": {
-  "message": "Silakan buka wallet Anda sekali di pepe.coffee terlebih dahulu."
- },
- "err_wrong_pw": {
-  "message": "Kata sandi itu tidak dapat membuka wallet Anda. Periksa dan coba lagi."
- },
- "err_pay_prepare": {
-  "message": "Pembayaran tidak dapat disiapkan: {msg}"
- },
- "err_pay_send": {
-  "message": "Pembayaran tidak dapat dikirim. Tidak ada yang terkirim."
- },
- "login": {
-  "message": "Masuk"
- },
- "name_or_email": {
-  "message": "Nama atau email"
- },
- "logging_in": {
-  "message": "Sedang masuk…"
- },
- "login_title": {
-  "message": "Masuk ke pepe.coffee"
- },
- "login_lead_airdrop": {
-  "message": "Airdrop Anda dibayar dari wallet pepe.coffee Anda."
- },
- "login_lead_tip": {
-  "message": "Setelah itu Anda bisa memberi tip dari wallet Anda dengan satu klik."
- },
- "pw_secure": {
-  "message": "Kata sandi Anda tidak pernah meninggalkan perangkat ini."
- },
- "no_account": {
-  "message": "Belum punya akun? <a1>Buat gratis</a1>"
- },
- "login_again": {
-  "message": "Silakan masuk lagi."
- },
- "one_moment": {
-  "message": "Sebentar…"
- },
- "qr_aria": {
-  "message": "Kode QR untuk aplikasi wallet Anda"
- },
- "copy": {
-  "message": "Salin"
- },
- "waiting": {
-  "message": "Menunggu pembayaran Anda…"
- },
- "send_exactly": {
-  "message": "Kirim persis"
- },
- "pay_why": {
-  "message": "Digit terakhir mengaitkan pembayaran Anda dengan pesan Anda."
- },
- "to_address": {
-  "message": "Ke alamat"
- },
- "open_wallet_app": {
-  "message": "Buka di aplikasi wallet"
- },
- "expired": {
-  "message": "Permintaan pembayaran ini sudah kedaluwarsa."
- },
- "start_again": {
-  "message": "Mulai lagi"
- },
- "thanks": {
-  "message": "Terima kasih!"
- },
- "thanks_body": {
-  "message": "{amount} sedang dikirim ke {name}. Biasanya tiba dalam waktu sekitar satu menit."
- },
- "done": {
-  "message": "Selesai"
- },
- "view_tx": {
-  "message": "Lihat transaksi"
- },
- "nf_invite_reddit": {
-  "message": "Kirim undangan"
- },
- "nf_invite_x": {
-  "message": "Undang lewat postingan"
- },
- "nf_msg_lichess": {
-  "message": "Kirim pesan di Lichess"
- },
- "nf_copy": {
-  "message": "Salin pesan undangan"
- },
- "nf_lead_chat": {
-  "message": "Undang mereka membuat halaman gratis, misalnya dengan menempelkan pesan ini di chat mereka. Begitu mereka menambahkan nama {platform}, Anda bisa memberi tip langsung di sini."
- },
- "nf_lead_msg": {
-  "message": "Undang mereka membuat halaman gratis, misalnya dengan mengirimkan pesan ini kepada mereka. Begitu mereka menambahkan nama {platform}, Anda bisa memberi tip langsung di sini."
- },
- "nf_lead": {
-  "message": "Undang mereka membuat halaman gratis. Begitu mereka menambahkan nama {platform}, Anda bisa memberi tip langsung di sini."
- },
- "nf_not_yet": {
-  "message": "belum ada di pepe.coffee"
- },
- "no_address": {
-  "message": "{name} belum menambahkan alamat Pepecoin, jadi saat ini belum bisa menerima tip."
- },
- "ad_title": {
-  "message": "Airdrop ke pemberi komentar"
- },
- "ad_no_wallet": {
-  "message": "Airdrop dibayar dari wallet pepe.coffee Anda. <a1>Buat wallet gratis Anda</a1> terlebih dahulu."
- },
- "ad_old_pw": {
-  "message": "Wallet Anda masih memakai kata sandi lamanya sendiri. <a1>Buka sekali di pepe.coffee</a1> untuk beralih ke kata sandi akun Anda."
- },
- "ad_no_names": {
-  "message": "Belum ada pemberi komentar yang ditemukan di halaman ini. Gulir ke bawah agar komentar dimuat, lalu coba lagi."
- },
- "ad_checking": {
-  "message": "Memeriksa {n} pemberi komentar…"
- },
- "try_again": {
-  "message": "Coba lagi"
- },
- "ad_too_small": {
-  "message": "Itu kurang dari 0,01 PEP per orang."
- },
- "ad_too_many": {
-  "message": "Wallet Anda memiliki terlalu banyak pembayaran kecil untuk satu airdrop. Coba dengan lebih sedikit orang."
- },
- "ad_pick_btn": {
-  "message": "Pilih setidaknya satu orang"
- },
- "ad_lead_over": {
-  "message": "{n} dari {total} pemberi komentar memiliki halaman pepe.coffee."
- },
- "ad_lead_one": {
-  "message": "{n} dari {total} pemberi komentar memiliki halaman pepe.coffee."
- },
- "ad_lead_many": {
-  "message": "{n} dari {total} pemberi komentar memiliki halaman pepe.coffee."
- },
- "ad_lead_none": {
-  "message": "Belum ada dari {total} pemberi komentar yang memiliki halaman pepe.coffee."
- },
- "ad_cap": {
-  "message": "Satu airdrop dapat menjangkau hingga {max} orang, jadi {n} orang pertama disertakan. Kirim airdrop kedua untuk {over} orang lainnya."
- },
- "ad_missing_one": {
-  "message": "1 orang belum punya halaman."
- },
- "ad_missing_many": {
-  "message": "{n} orang belum punya halaman."
- },
- "ad_copy_invite": {
-  "message": "Salin komentar undangan"
- },
- "ad_split_aria": {
-  "message": "Cara membagi"
- },
- "pep_each": {
-  "message": "PEP per orang"
- },
- "pep_total": {
-  "message": "PEP total"
- },
- "ad_same": {
-  "message": "Sama untuk semua"
- },
- "ad_split": {
-  "message": "Bagi total"
- },
- "ad_msg_ph": {
-  "message": "Tambahkan pesan untuk semua (opsional)"
- },
- "ad_include": {
-  "message": "Sertakan {name}"
- },
- "show": {
-  "message": "Tampilkan"
- },
- "hide": {
-  "message": "Sembunyikan"
- },
- "ad_only_loaded": {
-  "message": "Hanya komentar yang dimuat di halaman yang disertakan. Gulir atau buka lebih banyak balasan untuk menambah orang."
- },
- "ad_selected": {
-  "message": "{on} dari {all} orang dipilih"
- },
- "ad_needs": {
-  "message": "Airdrop ini membutuhkan {need} termasuk biaya jaringan, dan Anda punya {have}. <a1>Isi saldo</a1> atau pilih jumlah yang lebih kecil."
- },
- "ad_send_one": {
-  "message": "Kirim {total} ke {n} orang"
- },
- "ad_send_many": {
-  "message": "Kirim {total} ke {n} orang"
- },
- "your_balance": {
-  "message": "Saldo Anda"
- },
- "err_ad_prepare": {
-  "message": "Airdrop tidak dapat disiapkan: {msg}"
- },
- "ad_check_again": {
-  "message": "Periksa daftar lagi"
- },
- "err_ad_send": {
-  "message": "Airdrop tidak dapat dikirim. Tidak ada yang terkirim."
- },
- "ad_sent": {
-  "message": "Airdrop terkirim!"
- },
- "ad_done_one": {
-  "message": "1 orang menerima {each}, total {total}. Biasanya tiba dalam waktu sekitar satu menit."
- },
- "ad_done_many": {
-  "message": "{n} orang menerima {each} per orang, total {total}. Biasanya tiba dalam waktu sekitar satu menit."
- },
- "ad_tell_others": {
-  "message": "Beri tahu yang lain cara bergabung lain kali:"
- },
- "err_reload": {
-  "message": "Terjadi kesalahan. Silakan muat ulang halaman."
- },
- "verified": {
-  "message": "Terverifikasi"
- },
- "c_tip": {
-  "message": "Tip"
- },
- "c_tip_name": {
-  "message": "Tip untuk {name}"
- },
- "c_tip_in": {
-  "message": "Beri tip kepada {name} dengan Pepecoin"
- },
- "c_frame": {
-  "message": "Beri tip kepada {name} dengan Pepecoin"
- },
- "c_airdrop_c": {
-  "message": "Airdrop ke pemberi komentar"
- },
- "c_airdrop_r": {
-  "message": "Airdrop ke pemberi balasan"
- },
- "c_airdrop_c_t": {
-  "message": "Airdrop ke pemberi komentar dengan Pepecoin"
- },
- "c_airdrop_r_t": {
-  "message": "Airdrop ke pemberi balasan dengan Pepecoin"
- },
- "c_toast": {
-  "message": "pepe.coffee Tip Button telah diperbarui. Muat ulang halaman ini untuk memberi tip."
- },
- "c_reload": {
-  "message": "Muat ulang"
- },
- "c_close": {
-  "message": "Tutup"
- },
- "ext_name": {
-  "message": "pepe.coffee Tip Button"
- },
- "ext_desc": {
-  "message": "Beri tip dengan Pepecoin di Reddit, X, Twitch, Kick, YouTube, Rumble, GitHub dan lainnya, atau airdrop PEP. Cukup satu klik."
- }
+  "panel_title": {
+    "message": "Beri tip dengan Pepecoin"
+  },
+  "copied": {
+    "message": "Disalin"
+  },
+  "err_unreachable": {
+    "message": "pepe.coffee tidak dapat dijangkau saat ini. Periksa koneksi Anda dan coba lagi."
+  },
+  "err_status": {
+    "message": "Terjadi kesalahan ({status}). Silakan coba lagi."
+  },
+  "close": {
+    "message": "Tutup"
+  },
+  "back": {
+    "message": "Kembali"
+  },
+  "logout": {
+    "message": "Keluar"
+  },
+  "foot_tagline": {
+    "message": "Tip langsung masuk ke wallet mereka"
+  },
+  "amount": {
+    "message": "Jumlah"
+  },
+  "other": {
+    "message": "Lainnya"
+  },
+  "amount_pep": {
+    "message": "Jumlah dalam PEP"
+  },
+  "msg_ph": {
+    "message": "Tambahkan pesan (opsional)"
+  },
+  "message": {
+    "message": "Pesan"
+  },
+  "anon_title": {
+    "message": "Kirim secara anonim"
+  },
+  "anon_sub": {
+    "message": "Nama Anda tidak akan ditampilkan kepada penerima. Pembayarannya sendiri tetap terlihat di blockchain publik."
+  },
+  "send_tip": {
+    "message": "Kirim tip"
+  },
+  "pay_other": {
+    "message": "Bayar dengan wallet lain"
+  },
+  "pay_pepe": {
+    "message": "Bayar dengan wallet pepe.coffee"
+  },
+  "new_here": {
+    "message": "Baru di sini? <a1>Buat wallet gratis</a1>"
+  },
+  "tip_one_click": {
+    "message": "Beri tip dengan satu klik memakai wallet pepe.coffee gratis. <a1>Buat wallet Anda</a1>"
+  },
+  "old_pw_tip": {
+    "message": "Wallet Anda masih memakai kata sandi lamanya sendiri. <a1>Buka sekali di pepe.coffee</a1> untuk beralih ke kata sandi akun Anda. Setelah itu, pembayaran bisa dilakukan langsung di sini."
+  },
+  "opening_wallet": {
+    "message": "Membuka wallet Anda…"
+  },
+  "own_page": {
+    "message": "Ini halaman Anda sendiri. Tip Anda lebih baik diberikan kepada orang lain!"
+  },
+  "choose_amount": {
+    "message": "Pilih jumlah"
+  },
+  "not_enough": {
+    "message": "PEP tidak cukup"
+  },
+  "not_enough_warn": {
+    "message": "Anda punya {have} di wallet, itu tidak cukup untuk {amount} ditambah biaya jaringan. <a1>Isi saldo</a1> atau bayar dengan wallet lain."
+  },
+  "too_big": {
+    "message": "Jumlah terlalu besar"
+  },
+  "too_big_warn": {
+    "message": "Wallet Anda memiliki terlalu banyak pembayaran kecil untuk mengirim ini sekaligus. Coba jumlah yang lebih kecil."
+  },
+  "send_amount": {
+    "message": "Kirim {amount}"
+  },
+  "balance": {
+    "message": "Saldo"
+  },
+  "network_fee": {
+    "message": "Biaya jaringan"
+  },
+  "pay_other_instead": {
+    "message": "Bayar dengan wallet lain saja"
+  },
+  "err_cant_receive": {
+    "message": "Halaman ini tidak dapat menerima pembayaran saat ini."
+  },
+  "sending": {
+    "message": "Mengirim…"
+  },
+  "pw_ph": {
+    "message": "Kata sandi pepe.coffee Anda"
+  },
+  "password": {
+    "message": "Kata sandi"
+  },
+  "unlock_send": {
+    "message": "Buka kunci dan kirim {amount}"
+  },
+  "unlocking": {
+    "message": "Membuka kunci…"
+  },
+  "err_prepare_pw": {
+    "message": "Browser Anda tidak dapat menyiapkan kata sandi. Silakan coba lagi."
+  },
+  "locked_info": {
+    "message": "Wallet Anda terkunci sendiri setelah 30 menit. Ketik kata sandi Anda sekali untuk membukanya."
+  },
+  "cancel": {
+    "message": "Batal"
+  },
+  "err_open_wallet": {
+    "message": "Silakan buka wallet Anda sekali di pepe.coffee terlebih dahulu."
+  },
+  "err_wrong_pw": {
+    "message": "Kata sandi itu tidak dapat membuka wallet Anda. Periksa dan coba lagi."
+  },
+  "err_pay_prepare": {
+    "message": "Pembayaran tidak dapat disiapkan: {msg}"
+  },
+  "err_pay_send": {
+    "message": "Pembayaran tidak dapat dikirim. Tidak ada yang terkirim."
+  },
+  "login": {
+    "message": "Masuk"
+  },
+  "name_or_email": {
+    "message": "Nama atau email"
+  },
+  "logging_in": {
+    "message": "Sedang masuk…"
+  },
+  "login_title": {
+    "message": "Masuk ke pepe.coffee"
+  },
+  "login_lead_airdrop": {
+    "message": "Airdrop Anda dibayar dari wallet pepe.coffee Anda."
+  },
+  "login_lead_tip": {
+    "message": "Setelah itu Anda bisa memberi tip dari wallet Anda dengan satu klik."
+  },
+  "pw_secure": {
+    "message": "Kata sandi Anda tidak pernah meninggalkan perangkat ini."
+  },
+  "no_account": {
+    "message": "Belum punya akun? <a1>Buat gratis</a1>"
+  },
+  "login_again": {
+    "message": "Silakan masuk lagi."
+  },
+  "one_moment": {
+    "message": "Sebentar…"
+  },
+  "qr_aria": {
+    "message": "Kode QR untuk aplikasi wallet Anda"
+  },
+  "copy": {
+    "message": "Salin"
+  },
+  "waiting": {
+    "message": "Menunggu pembayaran Anda…"
+  },
+  "send_exactly": {
+    "message": "Kirim persis"
+  },
+  "pay_why": {
+    "message": "Digit terakhir mengaitkan pembayaran Anda dengan pesan Anda."
+  },
+  "to_address": {
+    "message": "Ke alamat"
+  },
+  "open_wallet_app": {
+    "message": "Buka di aplikasi wallet"
+  },
+  "expired": {
+    "message": "Permintaan pembayaran ini sudah kedaluwarsa."
+  },
+  "start_again": {
+    "message": "Mulai lagi"
+  },
+  "thanks": {
+    "message": "Terima kasih!"
+  },
+  "thanks_body": {
+    "message": "{amount} sedang dikirim ke {name}. Biasanya tiba dalam waktu sekitar satu menit."
+  },
+  "done": {
+    "message": "Selesai"
+  },
+  "view_tx": {
+    "message": "Lihat transaksi"
+  },
+  "nf_invite_reddit": {
+    "message": "Kirim undangan"
+  },
+  "nf_invite_x": {
+    "message": "Undang lewat postingan"
+  },
+  "nf_msg_lichess": {
+    "message": "Kirim pesan di Lichess"
+  },
+  "nf_copy": {
+    "message": "Salin pesan undangan"
+  },
+  "nf_lead_chat": {
+    "message": "Undang mereka membuat halaman gratis, misalnya dengan menempelkan pesan ini di chat mereka. Begitu mereka menambahkan nama {platform}, Anda bisa memberi tip langsung di sini."
+  },
+  "nf_lead_msg": {
+    "message": "Undang mereka membuat halaman gratis, misalnya dengan mengirimkan pesan ini kepada mereka. Begitu mereka menambahkan nama {platform}, Anda bisa memberi tip langsung di sini."
+  },
+  "nf_lead": {
+    "message": "Undang mereka membuat halaman gratis. Begitu mereka menambahkan nama {platform}, Anda bisa memberi tip langsung di sini."
+  },
+  "nf_not_yet": {
+    "message": "belum ada di pepe.coffee"
+  },
+  "no_address": {
+    "message": "{name} belum menambahkan alamat Pepecoin, jadi saat ini belum bisa menerima tip."
+  },
+  "ad_title": {
+    "message": "Airdrop ke pemberi komentar"
+  },
+  "ad_no_wallet": {
+    "message": "Airdrop dibayar dari wallet pepe.coffee Anda. <a1>Buat wallet gratis Anda</a1> terlebih dahulu."
+  },
+  "ad_old_pw": {
+    "message": "Wallet Anda masih memakai kata sandi lamanya sendiri. <a1>Buka sekali di pepe.coffee</a1> untuk beralih ke kata sandi akun Anda."
+  },
+  "ad_no_names": {
+    "message": "Belum ada pemberi komentar yang ditemukan di halaman ini. Gulir ke bawah agar komentar dimuat, lalu coba lagi."
+  },
+  "ad_checking": {
+    "message": "Memeriksa {n} pemberi komentar…"
+  },
+  "try_again": {
+    "message": "Coba lagi"
+  },
+  "ad_too_small": {
+    "message": "Itu kurang dari 0,01 PEP per orang."
+  },
+  "ad_too_many": {
+    "message": "Wallet Anda memiliki terlalu banyak pembayaran kecil untuk satu airdrop. Coba dengan lebih sedikit orang."
+  },
+  "ad_pick_btn": {
+    "message": "Pilih setidaknya satu orang"
+  },
+  "ad_lead_over": {
+    "message": "{n} dari {total} pemberi komentar memiliki halaman pepe.coffee."
+  },
+  "ad_lead_one": {
+    "message": "{n} dari {total} pemberi komentar memiliki halaman pepe.coffee."
+  },
+  "ad_lead_many": {
+    "message": "{n} dari {total} pemberi komentar memiliki halaman pepe.coffee."
+  },
+  "ad_lead_none": {
+    "message": "Belum ada dari {total} pemberi komentar yang memiliki halaman pepe.coffee."
+  },
+  "ad_cap": {
+    "message": "Satu airdrop dapat menjangkau hingga {max} orang, jadi {n} orang pertama disertakan. Kirim airdrop kedua untuk {over} orang lainnya."
+  },
+  "ad_missing_one": {
+    "message": "1 orang belum punya halaman."
+  },
+  "ad_missing_many": {
+    "message": "{n} orang belum punya halaman."
+  },
+  "ad_copy_invite": {
+    "message": "Salin komentar undangan"
+  },
+  "ad_split_aria": {
+    "message": "Cara membagi"
+  },
+  "pep_each": {
+    "message": "PEP per orang"
+  },
+  "pep_total": {
+    "message": "PEP total"
+  },
+  "ad_same": {
+    "message": "Sama untuk semua"
+  },
+  "ad_split": {
+    "message": "Bagi total"
+  },
+  "ad_msg_ph": {
+    "message": "Tambahkan pesan untuk semua (opsional)"
+  },
+  "ad_include": {
+    "message": "Sertakan {name}"
+  },
+  "show": {
+    "message": "Tampilkan"
+  },
+  "hide": {
+    "message": "Sembunyikan"
+  },
+  "ad_only_loaded": {
+    "message": "Hanya komentar yang dimuat di halaman yang disertakan. Gulir atau buka lebih banyak balasan untuk menambah orang."
+  },
+  "ad_selected": {
+    "message": "{on} dari {all} orang dipilih"
+  },
+  "ad_needs": {
+    "message": "Airdrop ini membutuhkan {need} termasuk biaya jaringan, dan Anda punya {have}. <a1>Isi saldo</a1> atau pilih jumlah yang lebih kecil."
+  },
+  "ad_send_one": {
+    "message": "Kirim {total} ke {n} orang"
+  },
+  "ad_send_many": {
+    "message": "Kirim {total} ke {n} orang"
+  },
+  "your_balance": {
+    "message": "Saldo Anda"
+  },
+  "err_ad_prepare": {
+    "message": "Airdrop tidak dapat disiapkan: {msg}"
+  },
+  "ad_check_again": {
+    "message": "Periksa daftar lagi"
+  },
+  "err_ad_send": {
+    "message": "Airdrop tidak dapat dikirim. Tidak ada yang terkirim."
+  },
+  "ad_sent": {
+    "message": "Airdrop terkirim!"
+  },
+  "ad_done_one": {
+    "message": "1 orang menerima {each}, total {total}. Biasanya tiba dalam waktu sekitar satu menit."
+  },
+  "ad_done_many": {
+    "message": "{n} orang menerima {each} per orang, total {total}. Biasanya tiba dalam waktu sekitar satu menit."
+  },
+  "ad_tell_others": {
+    "message": "Beri tahu yang lain cara bergabung lain kali:"
+  },
+  "err_reload": {
+    "message": "Terjadi kesalahan. Silakan muat ulang halaman."
+  },
+  "verified": {
+    "message": "Terverifikasi"
+  },
+  "c_tip": {
+    "message": "Tip"
+  },
+  "c_tip_name": {
+    "message": "Tip untuk {name}"
+  },
+  "c_tip_in": {
+    "message": "Beri tip kepada {name} dengan Pepecoin"
+  },
+  "c_frame": {
+    "message": "Beri tip kepada {name} dengan Pepecoin"
+  },
+  "c_airdrop_c": {
+    "message": "Airdrop ke pemberi komentar"
+  },
+  "c_airdrop_r": {
+    "message": "Airdrop ke pemberi balasan"
+  },
+  "c_airdrop_c_t": {
+    "message": "Airdrop ke pemberi komentar dengan Pepecoin"
+  },
+  "c_airdrop_r_t": {
+    "message": "Airdrop ke pemberi balasan dengan Pepecoin"
+  },
+  "c_toast": {
+    "message": "pepe.coffee Tip Button telah diperbarui. Muat ulang halaman ini untuk memberi tip."
+  },
+  "c_reload": {
+    "message": "Muat ulang"
+  },
+  "c_close": {
+    "message": "Tutup"
+  },
+  "ext_name": {
+    "message": "pepe.coffee Tip Button"
+  },
+  "ext_desc": {
+    "message": "Beri tip Pepecoin (PEP) ke kreator tepat di tempat kamu melihatnya, atau bagikan PEP ke seluruh thread. Sekali klik, gratis."
+  }
 }
