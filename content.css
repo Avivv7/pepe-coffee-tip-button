@@ -1,0 +1,94 @@
+/* Tip-Knopf: klein, ruhig, passend in Reddits Autorenzeile. Feste Werte, damit Reddits Stile ihn nicht verändern. */
+.pepecoffee-tip-btn {
+  all: unset;
+  display: inline-flex !important;
+  align-items: center !important;
+  gap: 5px !important;
+  height: 24px !important;
+  padding: 0 10px 0 6px !important;
+  margin: 0 0 0 8px !important;
+  border-radius: 999px !important;
+  background: #edf6ef !important;
+  color: #2f6e3a !important;
+  font: 700 12px/1 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif !important;
+  letter-spacing: .01em !important;
+  cursor: pointer !important;
+  vertical-align: middle !important;
+  white-space: nowrap !important;
+  box-sizing: border-box !important;
+  transition: background-color .15s ease, transform .1s ease !important;
+}
+.pepecoffee-tip-btn:hover { background: #dcefe0 !important; }
+.pepecoffee-tip-btn:active { transform: scale(.96) !important; }
+.pepecoffee-tip-btn:focus-visible { outline: 2px solid #4d9855 !important; outline-offset: 2px !important; }
+.pepecoffee-tip-btn svg { display: block !important; flex: none !important; width: 15px !important; height: 15px !important; }
+/* Altes Reddit: Knopfleiste mit Textlinks, dort etwas kleiner */
+.pepecoffee-tip-old { height: 18px !important; font-size: 11px !important; margin: 0 !important; padding: 0 8px 0 4px !important; }
+.pepecoffee-tip-old svg { width: 12px !important; height: 12px !important; }
+
+/* X: als eigener Eintrag in der Aktionsleiste */
+.pepecoffee-x-slot { display: flex !important; align-items: center !important; flex: 0 0 auto !important; }
+.pepecoffee-tip-x { margin: 0 !important; }
+/* Twitch und Kick: neben „Folgen“, so hoch wie die Knöpfe dort */
+.pepecoffee-tip-channel { height: 30px !important; padding: 0 12px 0 8px !important; font-size: 13px !important; margin: 0 0 0 8px !important; align-self: center !important; flex: none !important; }
+.pepecoffee-tip-channel svg { width: 17px !important; height: 17px !important; }
+/* Lichess: kleiner Knopf (nur Münze) hinter Spielernamen in Partien, Chat und Forum. Auf dem Profil gilt „channel“ von oben. */
+.pepecoffee-tip-li { height: 18px !important; gap: 0 !important; padding: 0 4px !important; margin: 0 0 0 5px !important; }
+.pepecoffee-tip-li svg { width: 13px !important; height: 13px !important; }
+/* Rückfall: schwebender Knopf unten links */
+.pepecoffee-tip-btn.pepecoffee-float {
+  position: fixed !important; left: 18px !important; bottom: 18px !important; z-index: 2147483646 !important; margin: 0 !important;
+  height: 40px !important; padding: 0 16px 0 10px !important; font-size: 14px !important;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, .3) !important; background: #fff !important;
+}
+.pepecoffee-tip-btn.pepecoffee-float svg { width: 20px !important; height: 20px !important; }
+
+/* Airdrop-Knopf über den Kommentaren */
+.pepecoffee-tip-btn.pepecoffee-airdrop-inline { height: 34px !important; padding: 0 16px 0 10px !important; font-size: 14px !important; margin: 12px 0 !important; }
+.pepecoffee-tip-btn.pepecoffee-airdrop-inline svg { width: 19px !important; height: 19px !important; }
+
+/* Hinweis, wenn die Erweiterung aktualisiert wurde und die Seite neu geladen werden muss */
+.pepecoffee-toast { all: unset; position: fixed !important; left: 50% !important; bottom: 24px !important; transform: translateX(-50%) !important; z-index: 2147483647 !important; display: flex !important; align-items: center !important; gap: 12px !important; max-width: calc(100vw - 32px) !important; padding: 12px 14px 12px 18px !important; border-radius: 14px !important; background: #111 !important; color: #fff !important; font: 600 14px/1.35 system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif !important; box-shadow: 0 12px 36px rgba(0,0,0,.4) !important; box-sizing: border-box !important; }
+.pepecoffee-toast button { all: unset; cursor: pointer !important; padding: 7px 12px !important; border-radius: 999px !important; background: #4d9855 !important; color: #fff !important; font-weight: 700 !important; font-size: 13px !important; }
+.pepecoffee-toast button.pepecoffee-toast-x { background: transparent !important; padding: 4px 8px !important; font-size: 18px !important; opacity: .7 !important; }
+/* Abgedunkelter Hintergrund und Panel (eigene Seite der Erweiterung im iframe) */
+.pepecoffee-overlay {
+  all: unset;
+  position: fixed !important;
+  inset: 0 !important;
+  z-index: 2147483647 !important;
+  display: flex !important;
+  align-items: flex-start !important;   /* oben verankert: wächst das Panel, springt nichts nach oben weg */
+  justify-content: center !important;
+  padding: max(16px, 11vh) 16px 16px !important;
+  box-sizing: border-box !important;
+  background: rgba(17, 17, 17, 0) !important;
+  transition: background-color .18s ease !important;
+}
+.pepecoffee-overlay.is-open { background: rgba(17, 17, 17, .42) !important; }
+.pepecoffee-frame {
+  all: unset;
+  display: block !important;
+  width: 400px !important;
+  max-width: 100% !important;
+  height: 460px;
+  max-height: calc(100vh - max(16px, 11vh) - 16px) !important;
+  border: 0 !important;
+  border-radius: 22px !important;
+  background: #fff !important;
+  box-shadow: 0 30px 80px -20px rgba(0, 0, 0, .45), 0 0 0 1px rgba(0, 0, 0, .06) !important;
+  opacity: 0 !important;
+  transform: translateY(10px) scale(.98) !important;
+  transition: opacity .18s ease, transform .18s ease, height .2s ease !important;
+  color-scheme: light !important;
+}
+.pepecoffee-overlay.is-open .pepecoffee-frame { opacity: 1 !important; transform: none !important; }
+/* Handy: von unten einblenden */
+@media (max-width: 520px) {
+  .pepecoffee-overlay { align-items: flex-end !important; padding: 0 !important; }
+  .pepecoffee-frame { max-height: 92vh !important; }
+  .pepecoffee-frame { width: 100% !important; max-height: 92vh !important; border-radius: 22px 22px 0 0 !important; transform: translateY(40px) !important; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .pepecoffee-overlay, .pepecoffee-frame { transition: none !important; }
+}

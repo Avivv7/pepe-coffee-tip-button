@@ -1,0 +1,395 @@
+{
+ "panel_title": {
+  "message": "Mit Pepecoin Trinkgeld geben"
+ },
+ "copied": {
+  "message": "Kopiert"
+ },
+ "err_unreachable": {
+  "message": "pepe.coffee ist gerade nicht erreichbar. Prüfe deine Verbindung und versuche es erneut."
+ },
+ "err_status": {
+  "message": "Etwas ist schiefgelaufen ({status}). Bitte versuche es erneut."
+ },
+ "close": {
+  "message": "Schließen"
+ },
+ "back": {
+  "message": "Zurück"
+ },
+ "logout": {
+  "message": "Abmelden"
+ },
+ "foot_tagline": {
+  "message": "Trinkgeld geht direkt an die Wallet"
+ },
+ "amount": {
+  "message": "Betrag"
+ },
+ "other": {
+  "message": "Anderer"
+ },
+ "amount_pep": {
+  "message": "Betrag in PEP"
+ },
+ "msg_ph": {
+  "message": "Nachricht hinzufügen (optional)"
+ },
+ "message": {
+  "message": "Nachricht"
+ },
+ "anon_title": {
+  "message": "Anonym senden"
+ },
+ "anon_sub": {
+  "message": "Dein Name wird dem Empfänger nicht angezeigt. Die Zahlung selbst bleibt in der öffentlichen Blockchain sichtbar."
+ },
+ "send_tip": {
+  "message": "Trinkgeld senden"
+ },
+ "pay_other": {
+  "message": "Mit anderer Wallet bezahlen"
+ },
+ "pay_pepe": {
+  "message": "Mit pepe.coffee-Wallet bezahlen"
+ },
+ "new_here": {
+  "message": "Neu hier? <a1>Kostenlose Wallet erstellen</a1>"
+ },
+ "tip_one_click": {
+  "message": "Gib mit einer kostenlosen pepe.coffee-Wallet mit einem Klick Trinkgeld. <a1>Wallet erstellen</a1>"
+ },
+ "old_pw_tip": {
+  "message": "Deine Wallet verwendet noch ihr eigenes altes Passwort. <a1>Öffne sie einmal auf pepe.coffee</a1>, um sie auf dein Kontopasswort umzustellen. Danach funktioniert das Bezahlen direkt hier."
+ },
+ "opening_wallet": {
+  "message": "Wallet wird geöffnet…"
+ },
+ "own_page": {
+  "message": "Das ist deine eigene Seite. Dein Trinkgeld ist bei anderen besser aufgehoben!"
+ },
+ "choose_amount": {
+  "message": "Betrag wählen"
+ },
+ "not_enough": {
+  "message": "Nicht genug PEP"
+ },
+ "not_enough_warn": {
+  "message": "Du hast {have} in deiner Wallet, das reicht nicht für {amount} plus die Netzwerkgebühr. <a1>Lade sie auf</a1> oder bezahle mit einer anderen Wallet."
+ },
+ "too_big": {
+  "message": "Betrag zu groß"
+ },
+ "too_big_warn": {
+  "message": "Deine Wallet enthält zu viele kleine Zahlungen, um das auf einmal zu senden. Versuche einen kleineren Betrag."
+ },
+ "send_amount": {
+  "message": "{amount} senden"
+ },
+ "balance": {
+  "message": "Guthaben"
+ },
+ "network_fee": {
+  "message": "Netzwerkgebühr"
+ },
+ "pay_other_instead": {
+  "message": "Stattdessen mit anderer Wallet bezahlen"
+ },
+ "err_cant_receive": {
+  "message": "Diese Seite kann gerade keine Zahlungen empfangen."
+ },
+ "sending": {
+  "message": "Wird gesendet…"
+ },
+ "pw_ph": {
+  "message": "Dein pepe.coffee-Passwort"
+ },
+ "password": {
+  "message": "Passwort"
+ },
+ "unlock_send": {
+  "message": "Entsperren und {amount} senden"
+ },
+ "unlocking": {
+  "message": "Wird entsperrt…"
+ },
+ "err_prepare_pw": {
+  "message": "Dein Browser konnte das Passwort nicht vorbereiten. Bitte versuche es erneut."
+ },
+ "locked_info": {
+  "message": "Deine Wallet hat sich nach 30 Minuten selbst gesperrt. Gib einmal dein Passwort ein, um sie zu entsperren."
+ },
+ "cancel": {
+  "message": "Abbrechen"
+ },
+ "err_open_wallet": {
+  "message": "Bitte öffne zuerst einmal deine Wallet auf pepe.coffee."
+ },
+ "err_wrong_pw": {
+  "message": "Mit diesem Passwort lässt sich deine Wallet nicht öffnen. Prüfe es und versuche es erneut."
+ },
+ "err_pay_prepare": {
+  "message": "Die Zahlung konnte nicht vorbereitet werden: {msg}"
+ },
+ "err_pay_send": {
+  "message": "Die Zahlung konnte nicht gesendet werden. Es wurde nichts gesendet."
+ },
+ "login": {
+  "message": "Anmelden"
+ },
+ "name_or_email": {
+  "message": "Name oder E-Mail"
+ },
+ "logging_in": {
+  "message": "Anmeldung läuft…"
+ },
+ "login_title": {
+  "message": "Bei pepe.coffee anmelden"
+ },
+ "login_lead_airdrop": {
+  "message": "Dein Airdrop wird aus deiner pepe.coffee-Wallet bezahlt."
+ },
+ "login_lead_tip": {
+  "message": "Dann kannst du mit einem Klick aus deiner Wallet Trinkgeld geben."
+ },
+ "pw_secure": {
+  "message": "Dein Passwort verlässt dieses Gerät nie."
+ },
+ "no_account": {
+  "message": "Noch kein Konto? <a1>Kostenlos erstellen</a1>"
+ },
+ "login_again": {
+  "message": "Bitte melde dich erneut an."
+ },
+ "one_moment": {
+  "message": "Einen Moment…"
+ },
+ "qr_aria": {
+  "message": "QR-Code für deine Wallet-App"
+ },
+ "copy": {
+  "message": "Kopieren"
+ },
+ "waiting": {
+  "message": "Warte auf deine Zahlung…"
+ },
+ "send_exactly": {
+  "message": "Sende genau"
+ },
+ "pay_why": {
+  "message": "Die letzten Ziffern verknüpfen deine Zahlung mit deiner Nachricht."
+ },
+ "to_address": {
+  "message": "An Adresse"
+ },
+ "open_wallet_app": {
+  "message": "In Wallet-App öffnen"
+ },
+ "expired": {
+  "message": "Diese Zahlungsanfrage ist abgelaufen."
+ },
+ "start_again": {
+  "message": "Neu starten"
+ },
+ "thanks": {
+  "message": "Danke!"
+ },
+ "thanks_body": {
+  "message": "{amount} sind unterwegs zu {name}. Sie kommen meist innerhalb einer Minute an."
+ },
+ "done": {
+  "message": "Fertig"
+ },
+ "view_tx": {
+  "message": "Transaktion ansehen"
+ },
+ "nf_invite_reddit": {
+  "message": "Einladung senden"
+ },
+ "nf_invite_x": {
+  "message": "In einem Beitrag einladen"
+ },
+ "nf_msg_lichess": {
+  "message": "Auf Lichess anschreiben"
+ },
+ "nf_copy": {
+  "message": "Einladungstext kopieren"
+ },
+ "nf_lead_chat": {
+  "message": "Lade die Person ein, eine kostenlose Seite zu erstellen, zum Beispiel indem du diese Nachricht in ihren Chat einfügst. Sobald sie ihren {platform}-Namen einträgt, kannst du ihr direkt hier Trinkgeld geben."
+ },
+ "nf_lead_msg": {
+  "message": "Lade die Person ein, eine kostenlose Seite zu erstellen, zum Beispiel indem du ihr diese Nachricht schickst. Sobald sie ihren {platform}-Namen einträgt, kannst du ihr direkt hier Trinkgeld geben."
+ },
+ "nf_lead": {
+  "message": "Lade die Person ein, eine kostenlose Seite zu erstellen. Sobald sie ihren {platform}-Namen einträgt, kannst du ihr direkt hier Trinkgeld geben."
+ },
+ "nf_not_yet": {
+  "message": "ist noch nicht auf pepe.coffee"
+ },
+ "no_address": {
+  "message": "{name} hat noch keine Pepecoin-Adresse hinzugefügt und kann deshalb gerade kein Trinkgeld erhalten."
+ },
+ "ad_title": {
+  "message": "Airdrop an Kommentierende"
+ },
+ "ad_no_wallet": {
+  "message": "Ein Airdrop wird aus deiner pepe.coffee-Wallet bezahlt. <a1>Erstelle zuerst deine kostenlose Wallet</a1>."
+ },
+ "ad_old_pw": {
+  "message": "Deine Wallet verwendet noch ihr eigenes altes Passwort. <a1>Öffne sie einmal auf pepe.coffee</a1>, um sie auf dein Kontopasswort umzustellen."
+ },
+ "ad_no_names": {
+  "message": "Auf dieser Seite wurden noch keine Kommentierenden gefunden. Scrolle nach unten, damit die Kommentare laden, und versuche es dann erneut."
+ },
+ "ad_checking": {
+  "message": "{n} Kommentierende werden geprüft…"
+ },
+ "try_again": {
+  "message": "Erneut versuchen"
+ },
+ "ad_too_small": {
+  "message": "Das sind weniger als 0,01 PEP pro Person."
+ },
+ "ad_too_many": {
+  "message": "Deine Wallet enthält zu viele kleine Zahlungen für einen Airdrop. Versuche es mit weniger Personen."
+ },
+ "ad_pick_btn": {
+  "message": "Wähle mindestens eine Person"
+ },
+ "ad_lead_over": {
+  "message": "{n} von {total} Kommentierenden haben eine pepe.coffee-Seite."
+ },
+ "ad_lead_one": {
+  "message": "{n} von {total} Kommentierenden hat eine pepe.coffee-Seite."
+ },
+ "ad_lead_many": {
+  "message": "{n} von {total} Kommentierenden haben eine pepe.coffee-Seite."
+ },
+ "ad_lead_none": {
+  "message": "Keiner der {total} Kommentierenden hat bisher eine pepe.coffee-Seite."
+ },
+ "ad_cap": {
+  "message": "Ein Airdrop kann bis zu {max} Personen erreichen, deshalb sind die ersten {n} enthalten. Sende einen zweiten Airdrop für die übrigen {over}."
+ },
+ "ad_missing_one": {
+  "message": "1 Person hat noch keine Seite."
+ },
+ "ad_missing_many": {
+  "message": "{n} Personen haben noch keine Seite."
+ },
+ "ad_copy_invite": {
+  "message": "Einladungskommentar kopieren"
+ },
+ "ad_split_aria": {
+  "message": "Aufteilung"
+ },
+ "pep_each": {
+  "message": "PEP je Person"
+ },
+ "pep_total": {
+  "message": "PEP insgesamt"
+ },
+ "ad_same": {
+  "message": "Gleich für alle"
+ },
+ "ad_split": {
+  "message": "Summe aufteilen"
+ },
+ "ad_msg_ph": {
+  "message": "Nachricht für alle hinzufügen (optional)"
+ },
+ "ad_include": {
+  "message": "{name} einschließen"
+ },
+ "show": {
+  "message": "Anzeigen"
+ },
+ "hide": {
+  "message": "Ausblenden"
+ },
+ "ad_only_loaded": {
+  "message": "Es sind nur Kommentare enthalten, die auf der Seite geladen sind. Scrolle oder öffne weitere Antworten, um mehr Personen hinzuzufügen."
+ },
+ "ad_selected": {
+  "message": "{on} von {all} Personen ausgewählt"
+ },
+ "ad_needs": {
+  "message": "Dieser Airdrop braucht {need} inklusive Netzwerkgebühr, du hast {have}. <a1>Lade deine Wallet auf</a1> oder wähle einen kleineren Betrag."
+ },
+ "ad_send_one": {
+  "message": "{total} an {n} Person senden"
+ },
+ "ad_send_many": {
+  "message": "{total} an {n} Personen senden"
+ },
+ "your_balance": {
+  "message": "Dein Guthaben"
+ },
+ "err_ad_prepare": {
+  "message": "Der Airdrop konnte nicht vorbereitet werden: {msg}"
+ },
+ "ad_check_again": {
+  "message": "Liste erneut prüfen"
+ },
+ "err_ad_send": {
+  "message": "Der Airdrop konnte nicht gesendet werden. Es wurde nichts gesendet."
+ },
+ "ad_sent": {
+  "message": "Airdrop gesendet!"
+ },
+ "ad_done_one": {
+  "message": "1 Person erhält {each}, insgesamt {total}. Es kommt meist innerhalb einer Minute an."
+ },
+ "ad_done_many": {
+  "message": "{n} Personen erhalten je {each}, insgesamt {total}. Es kommt meist innerhalb einer Minute an."
+ },
+ "ad_tell_others": {
+  "message": "Sag den anderen, wie sie beim nächsten Mal mitmachen können:"
+ },
+ "err_reload": {
+  "message": "Etwas ist schiefgelaufen. Bitte lade die Seite neu."
+ },
+ "verified": {
+  "message": "Verifiziert"
+ },
+ "c_tip": {
+  "message": "Trinkgeld"
+ },
+ "c_tip_name": {
+  "message": "Trinkgeld an {name}"
+ },
+ "c_tip_in": {
+  "message": "{name} ein Trinkgeld in Pepecoin geben"
+ },
+ "c_frame": {
+  "message": "{name} ein Trinkgeld mit Pepecoin geben"
+ },
+ "c_airdrop_c": {
+  "message": "Airdrop an Kommentierende"
+ },
+ "c_airdrop_r": {
+  "message": "Airdrop an Antwortende"
+ },
+ "c_airdrop_c_t": {
+  "message": "Airdrop an Kommentierende mit Pepecoin"
+ },
+ "c_airdrop_r_t": {
+  "message": "Airdrop an Antwortende mit Pepecoin"
+ },
+ "c_toast": {
+  "message": "Der pepe.coffee Tip Button wurde aktualisiert. Lade diese Seite neu, um Trinkgeld zu geben."
+ },
+ "c_reload": {
+  "message": "Neu laden"
+ },
+ "c_close": {
+  "message": "Schließen"
+ },
+ "ext_name": {
+  "message": "pepe.coffee Tip Button"
+ },
+ "ext_desc": {
+  "message": "Gib Trinkgeld auf Reddit, X, Twitch, Kick, YouTube, Rumble, GitHub und mehr in Pepecoin, oder verteile PEP per Airdrop. Ein Klick."
+ }
+}

@@ -1,0 +1,21 @@
+Copyright (c) 2026 pepe.coffee. All rights reserved.
+
+This source code is published so that users can inspect and verify what the
+pepe.coffee Tip Button extension does. Publishing it does not grant an open
+source license.
+
+You may:
+  - read and audit the code,
+  - report problems and suggest changes.
+
+You may not, without prior written permission:
+  - copy, modify, merge or create derivative works of the code,
+  - redistribute it or publish it in any other store, repository or website,
+  - use it in a commercial or competing product or service.
+
+The name "pepe.coffee", the logo and the artwork are not licensed.
+
+THE CODE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. THE AUTHOR IS NOT
+LIABLE FOR ANY CLAIM OR DAMAGES ARISING FROM ITS USE.
+
+Third-party components keep their own licenses (see THIRD_PARTY.md).

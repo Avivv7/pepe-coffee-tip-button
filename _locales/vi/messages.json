@@ -1,0 +1,395 @@
+{
+ "panel_title": {
+  "message": "Tip bằng Pepecoin"
+ },
+ "copied": {
+  "message": "Đã sao chép"
+ },
+ "err_unreachable": {
+  "message": "Hiện không thể kết nối tới pepe.coffee. Hãy kiểm tra kết nối và thử lại."
+ },
+ "err_status": {
+  "message": "Đã xảy ra lỗi ({status}). Vui lòng thử lại."
+ },
+ "close": {
+  "message": "Đóng"
+ },
+ "back": {
+  "message": "Quay lại"
+ },
+ "logout": {
+  "message": "Đăng xuất"
+ },
+ "foot_tagline": {
+  "message": "Tip được gửi thẳng vào ví của họ"
+ },
+ "amount": {
+  "message": "Số tiền"
+ },
+ "other": {
+  "message": "Khác"
+ },
+ "amount_pep": {
+  "message": "Số tiền bằng PEP"
+ },
+ "msg_ph": {
+  "message": "Thêm lời nhắn (không bắt buộc)"
+ },
+ "message": {
+  "message": "Lời nhắn"
+ },
+ "anon_title": {
+  "message": "Gửi ẩn danh"
+ },
+ "anon_sub": {
+  "message": "Tên của bạn sẽ không hiển thị với người nhận. Bản thân giao dịch vẫn hiển thị trên blockchain công khai."
+ },
+ "send_tip": {
+  "message": "Gửi tip"
+ },
+ "pay_other": {
+  "message": "Thanh toán bằng ví khác"
+ },
+ "pay_pepe": {
+  "message": "Thanh toán bằng ví pepe.coffee"
+ },
+ "new_here": {
+  "message": "Bạn mới đến? <a1>Tạo ví miễn phí</a1>"
+ },
+ "tip_one_click": {
+  "message": "Tip chỉ với một cú nhấp bằng ví pepe.coffee miễn phí. <a1>Tạo ví của bạn</a1>"
+ },
+ "old_pw_tip": {
+  "message": "Ví của bạn vẫn dùng mật khẩu cũ riêng. <a1>Hãy mở ví một lần trên pepe.coffee</a1> để chuyển sang mật khẩu tài khoản. Sau đó bạn có thể thanh toán ngay tại đây."
+ },
+ "opening_wallet": {
+  "message": "Đang mở ví của bạn…"
+ },
+ "own_page": {
+  "message": "Đây là trang của chính bạn. Tip nên dành cho người khác!"
+ },
+ "choose_amount": {
+  "message": "Chọn số tiền"
+ },
+ "not_enough": {
+  "message": "Không đủ PEP"
+ },
+ "not_enough_warn": {
+  "message": "Ví của bạn có {have}, không đủ cho {amount} cộng phí mạng. <a1>Nạp thêm</a1> hoặc thanh toán bằng ví khác."
+ },
+ "too_big": {
+  "message": "Số tiền quá lớn"
+ },
+ "too_big_warn": {
+  "message": "Ví của bạn có quá nhiều khoản nhỏ để gửi một lần. Hãy thử số tiền nhỏ hơn."
+ },
+ "send_amount": {
+  "message": "Gửi {amount}"
+ },
+ "balance": {
+  "message": "Số dư"
+ },
+ "network_fee": {
+  "message": "Phí mạng"
+ },
+ "pay_other_instead": {
+  "message": "Thanh toán bằng ví khác"
+ },
+ "err_cant_receive": {
+  "message": "Trang này hiện không thể nhận thanh toán."
+ },
+ "sending": {
+  "message": "Đang gửi…"
+ },
+ "pw_ph": {
+  "message": "Mật khẩu pepe.coffee của bạn"
+ },
+ "password": {
+  "message": "Mật khẩu"
+ },
+ "unlock_send": {
+  "message": "Mở khóa và gửi {amount}"
+ },
+ "unlocking": {
+  "message": "Đang mở khóa…"
+ },
+ "err_prepare_pw": {
+  "message": "Trình duyệt không thể chuẩn bị mật khẩu. Vui lòng thử lại."
+ },
+ "locked_info": {
+  "message": "Ví của bạn đã tự khóa sau 30 phút. Hãy nhập mật khẩu một lần để mở khóa."
+ },
+ "cancel": {
+  "message": "Hủy"
+ },
+ "err_open_wallet": {
+  "message": "Trước tiên hãy mở ví của bạn một lần trên pepe.coffee."
+ },
+ "err_wrong_pw": {
+  "message": "Mật khẩu đó không mở được ví của bạn. Hãy kiểm tra và thử lại."
+ },
+ "err_pay_prepare": {
+  "message": "Không thể chuẩn bị khoản thanh toán: {msg}"
+ },
+ "err_pay_send": {
+  "message": "Không thể gửi khoản thanh toán. Chưa có gì được gửi đi."
+ },
+ "login": {
+  "message": "Đăng nhập"
+ },
+ "name_or_email": {
+  "message": "Tên hoặc email"
+ },
+ "logging_in": {
+  "message": "Đang đăng nhập…"
+ },
+ "login_title": {
+  "message": "Đăng nhập pepe.coffee"
+ },
+ "login_lead_airdrop": {
+  "message": "Airdrop của bạn được trả từ ví pepe.coffee của bạn."
+ },
+ "login_lead_tip": {
+  "message": "Sau đó bạn có thể tip từ ví của mình chỉ với một cú nhấp."
+ },
+ "pw_secure": {
+  "message": "Mật khẩu của bạn không bao giờ rời khỏi thiết bị này."
+ },
+ "no_account": {
+  "message": "Chưa có tài khoản? <a1>Tạo miễn phí</a1>"
+ },
+ "login_again": {
+  "message": "Vui lòng đăng nhập lại."
+ },
+ "one_moment": {
+  "message": "Chờ một chút…"
+ },
+ "qr_aria": {
+  "message": "Mã QR cho ứng dụng ví của bạn"
+ },
+ "copy": {
+  "message": "Sao chép"
+ },
+ "waiting": {
+  "message": "Đang chờ thanh toán của bạn…"
+ },
+ "send_exactly": {
+  "message": "Gửi chính xác"
+ },
+ "pay_why": {
+  "message": "Các chữ số cuối liên kết khoản thanh toán của bạn với lời nhắn của bạn."
+ },
+ "to_address": {
+  "message": "Đến địa chỉ"
+ },
+ "open_wallet_app": {
+  "message": "Mở trong ứng dụng ví"
+ },
+ "expired": {
+  "message": "Yêu cầu thanh toán này đã hết hạn."
+ },
+ "start_again": {
+  "message": "Bắt đầu lại"
+ },
+ "thanks": {
+  "message": "Cảm ơn bạn!"
+ },
+ "thanks_body": {
+  "message": "{amount} đang được gửi đến {name}. Thường sẽ đến trong vòng một phút."
+ },
+ "done": {
+  "message": "Xong"
+ },
+ "view_tx": {
+  "message": "Xem giao dịch"
+ },
+ "nf_invite_reddit": {
+  "message": "Gửi lời mời"
+ },
+ "nf_invite_x": {
+  "message": "Mời trong một bài đăng"
+ },
+ "nf_msg_lichess": {
+  "message": "Nhắn tin trên Lichess"
+ },
+ "nf_copy": {
+  "message": "Sao chép tin nhắn mời"
+ },
+ "nf_lead_chat": {
+  "message": "Hãy mời họ tạo một trang miễn phí, ví dụ bằng cách dán tin nhắn này vào cuộc trò chuyện của họ. Ngay khi họ thêm tên {platform}, bạn có thể tip họ ngay tại đây."
+ },
+ "nf_lead_msg": {
+  "message": "Hãy mời họ tạo một trang miễn phí, ví dụ bằng cách gửi tin nhắn này cho họ. Ngay khi họ thêm tên {platform}, bạn có thể tip họ ngay tại đây."
+ },
+ "nf_lead": {
+  "message": "Hãy mời họ tạo một trang miễn phí. Ngay khi họ thêm tên {platform}, bạn có thể tip họ ngay tại đây."
+ },
+ "nf_not_yet": {
+  "message": "chưa có trên pepe.coffee"
+ },
+ "no_address": {
+  "message": "{name} chưa thêm địa chỉ Pepecoin nên hiện chưa thể nhận tip."
+ },
+ "ad_title": {
+  "message": "Airdrop cho người bình luận"
+ },
+ "ad_no_wallet": {
+  "message": "Airdrop được trả từ ví pepe.coffee của bạn. Trước tiên hãy <a1>tạo ví miễn phí của bạn</a1>."
+ },
+ "ad_old_pw": {
+  "message": "Ví của bạn vẫn dùng mật khẩu cũ riêng. <a1>Hãy mở ví một lần trên pepe.coffee</a1> để chuyển sang mật khẩu tài khoản."
+ },
+ "ad_no_names": {
+  "message": "Chưa tìm thấy người bình luận nào trên trang này. Hãy cuộn xuống để tải bình luận rồi thử lại."
+ },
+ "ad_checking": {
+  "message": "Đang kiểm tra {n} người bình luận…"
+ },
+ "try_again": {
+  "message": "Thử lại"
+ },
+ "ad_too_small": {
+  "message": "Con số đó thấp hơn 0,01 PEP mỗi người."
+ },
+ "ad_too_many": {
+  "message": "Ví của bạn có quá nhiều khoản nhỏ cho một airdrop. Hãy thử với ít người hơn."
+ },
+ "ad_pick_btn": {
+  "message": "Chọn ít nhất một người"
+ },
+ "ad_lead_over": {
+  "message": "{n} trong {total} người bình luận có trang pepe.coffee."
+ },
+ "ad_lead_one": {
+  "message": "{n} trong {total} người bình luận có trang pepe.coffee."
+ },
+ "ad_lead_many": {
+  "message": "{n} trong {total} người bình luận có trang pepe.coffee."
+ },
+ "ad_lead_none": {
+  "message": "Chưa có ai trong {total} người bình luận có trang pepe.coffee."
+ },
+ "ad_cap": {
+  "message": "Một airdrop có thể đến tối đa {max} người, nên {n} người đầu tiên được đưa vào. Hãy gửi airdrop thứ hai cho {over} người còn lại."
+ },
+ "ad_missing_one": {
+  "message": "1 người chưa có trang."
+ },
+ "ad_missing_many": {
+  "message": "{n} người chưa có trang."
+ },
+ "ad_copy_invite": {
+  "message": "Sao chép bình luận mời"
+ },
+ "ad_split_aria": {
+  "message": "Cách chia"
+ },
+ "pep_each": {
+  "message": "PEP mỗi người"
+ },
+ "pep_total": {
+  "message": "PEP tổng cộng"
+ },
+ "ad_same": {
+  "message": "Bằng nhau cho mọi người"
+ },
+ "ad_split": {
+  "message": "Chia một tổng số"
+ },
+ "ad_msg_ph": {
+  "message": "Thêm lời nhắn cho mọi người (không bắt buộc)"
+ },
+ "ad_include": {
+  "message": "Bao gồm {name}"
+ },
+ "show": {
+  "message": "Hiện"
+ },
+ "hide": {
+  "message": "Ẩn"
+ },
+ "ad_only_loaded": {
+  "message": "Chỉ các bình luận đã tải trên trang được tính. Hãy cuộn hoặc mở thêm phản hồi để thêm người."
+ },
+ "ad_selected": {
+  "message": "Đã chọn {on} trong {all} người"
+ },
+ "ad_needs": {
+  "message": "Airdrop này cần {need} đã gồm phí mạng, còn bạn có {have}. <a1>Nạp thêm</a1> hoặc chọn số tiền nhỏ hơn."
+ },
+ "ad_send_one": {
+  "message": "Gửi {total} cho {n} người"
+ },
+ "ad_send_many": {
+  "message": "Gửi {total} cho {n} người"
+ },
+ "your_balance": {
+  "message": "Số dư của bạn"
+ },
+ "err_ad_prepare": {
+  "message": "Không thể chuẩn bị airdrop: {msg}"
+ },
+ "ad_check_again": {
+  "message": "Kiểm tra lại danh sách"
+ },
+ "err_ad_send": {
+  "message": "Không thể gửi airdrop. Chưa có gì được gửi đi."
+ },
+ "ad_sent": {
+  "message": "Đã gửi airdrop!"
+ },
+ "ad_done_one": {
+  "message": "1 người nhận {each}, tổng cộng {total}. Thường sẽ đến trong vòng một phút."
+ },
+ "ad_done_many": {
+  "message": "{n} người nhận mỗi người {each}, tổng cộng {total}. Thường sẽ đến trong vòng một phút."
+ },
+ "ad_tell_others": {
+  "message": "Hãy cho những người khác biết cách tham gia lần sau:"
+ },
+ "err_reload": {
+  "message": "Đã xảy ra lỗi. Vui lòng tải lại trang."
+ },
+ "verified": {
+  "message": "Đã xác minh"
+ },
+ "c_tip": {
+  "message": "Tip"
+ },
+ "c_tip_name": {
+  "message": "Tip cho {name}"
+ },
+ "c_tip_in": {
+  "message": "Tip {name} bằng Pepecoin"
+ },
+ "c_frame": {
+  "message": "Tip {name} bằng Pepecoin"
+ },
+ "c_airdrop_c": {
+  "message": "Airdrop cho người bình luận"
+ },
+ "c_airdrop_r": {
+  "message": "Airdrop cho người trả lời"
+ },
+ "c_airdrop_c_t": {
+  "message": "Airdrop cho người bình luận bằng Pepecoin"
+ },
+ "c_airdrop_r_t": {
+  "message": "Airdrop cho người trả lời bằng Pepecoin"
+ },
+ "c_toast": {
+  "message": "pepe.coffee Tip Button đã được cập nhật. Hãy tải lại trang này để tip."
+ },
+ "c_reload": {
+  "message": "Tải lại"
+ },
+ "c_close": {
+  "message": "Đóng"
+ },
+ "ext_name": {
+  "message": "pepe.coffee Tip Button"
+ },
+ "ext_desc": {
+  "message": "Tip bằng Pepecoin trên Reddit, X, Twitch, Kick, YouTube, Rumble, GitHub và hơn thế nữa, hoặc airdrop PEP. Chỉ một cú nhấp."
+ }
+}
