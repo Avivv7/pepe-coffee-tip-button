@@ -1,3 +1,9 @@
+<a href="https://pepe.coffee/aviv">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://pepe.coffee/banner/aviv.png?theme=dark">
+    <img src="https://pepe.coffee/banner/aviv.png?theme=light" alt="Support Aviv with Pepecoin" width="800">
+  </picture>
+</a>
 # pepe.coffee Tip Button
 
 Browser extension for Chrome: tip creators in Pepecoin (PEP) right where you see them, on Reddit, X, Twitch, Kick, Lichess, GitHub, Bitcointalk, Medium, YouTube, Rumble, AniList, MyAnimeList and Smogon.
